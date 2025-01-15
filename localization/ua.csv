@@ -1,0 +1,2928 @@
+TID,UA
+string,string
+TID_PRO_LEAGUE_INFO_POPUP_TITLE,Нагорода кінця сезону СИЛОВОЇ ГОНКИ
+TID_PRO_LEAGUE_INFO_POPUP_INFO,Нагорода\nза очки
+TID_PRO_LEAGUE_INFO_POPUP_RANK,Місце
+TID_PRO_LEAGUE_INFO_POPUP_POINTS,Очки
+TID_PRO_LEAGUE_INFO_POPUP_RANK_INFO,Додаткова нагорода за досягнення\nвершини глобального списку лідерів
+TID_PRO_LEAGUE_POPUP_REWARDS_LABEL,Нагорода кінця сезону
+TID_PRO_LEAGUE_POPUP_LEADERBOARDS_LABEL,Списки лідерів
+TID_PRO_LEAGUE_SEASON_END_TIME,ДО КІНЦЯ СЕЗОНУ
+TID_PRO_LEAGUE_POPUP_TITLE,СИЛОВА ГОНКА
+TID_EVENT_LABEL_PRO_LEAGUE,СИЛОВА ГОНКА
+TID_PRO_LEAGUE_POPUP_INFO,Випробуй себе в СИЛОВІЙ ГОНЦІ! Бийся в 3 боях щодня та просувайся до вершини сезонного списку лідерів. У кінці сезону ти отримаєш зоряні очки за набрані в сезоні очки та місце в глобальному списку лідерів.
+TID_PRO_LEAGUE_POPUP_CURRENT_SEASON,ПОТОЧНИЙ СЕЗОН
+TID_PRO_LEAGUE_POPUP_PREVIOUS_SEASON,МИНУЛИЙ СЕЗОН
+TID_PRO_LEAGUE_LABEL,СИЛОВА ГОНКА
+TID_TEAM_ERROR_38,Вибери бійця з 10-м рівнем сили!
+TID_TEAM_ERROR_39,Усі ігри СИЛОВОЇ ГОНКИ на сьогодні проведені!
+TID_PRO_LEAGUE_GAMES,ІГРИ: <GAMESLEFT> ІЗ <MAXGAMES>
+TID_PRO_LEAGUE_SEASON_END_POPUP_TITLE,СЕЗОН СИЛОВОЇ ГОНКИ ЗАКІНЧИВСЯ
+TID_PRO_LEAGUE_SEASON_END_POPUP_FINAL_POINTS,Твої очки
+TID_PRO_LEAGUE_SEASON_END_POPUP_FINAL_RANK,Твоє місце
+TID_PRO_LEAGUE_SEASON_END_POPUP_STAR_POINTS,Зоряні очки
+TID_PRO_LEAGUE_SEASON_END_INFO_SHORT,Кінець сезону СИЛОВОЇ ГОНКИ: отримано <AMOUNT> <cff00ff>зоряних очок!</c>
+TID_EVENT_DETAILS_PRO_LEAGUE_OVERWHELMING_VICTORY,Епічна перемога (+3 очки):
+TID_OVERWHELMING_VICTORY_GMV_0,"переможіть до того, як з'явиться 15-й кристал."
+TID_OVERWHELMING_VICTORY_GMV_5,переможіть із рахунком 2:0
+TID_OVERWHELMING_VICTORY_GMV_2,збережіть не менш ніж 80 % очок здоров'я свого сейфа.
+TID_OVERWHELMING_VICTORY_GMV_11,збережіть не менш ніж 80 % очок здоров'я своєї бази.
+TID_OVERWHELMING_VICTORY_GMV_3,"наберіть хоча б на 10 зірок більше, ніж супротивник."
+TID_PRO_LEAGUE_SCORING_RULE_GAME_MODE_0,Отримуй очки за місце за підсумками бою.
+TID_PRO_LEAGUE_SCORING_RULE_GAME_MODE_2,"30 очок за перемогу, 15 очок за нічию та 5 втішних очок за поразку."
+TID_BATTLE_END_PRO_LEAGUE_POINTS_LABEL,ОЧКИ
+TID_DOUBLE_TOKEN_WEEKEND,ПОДІЯ З ПОДВОЄНИМИ ЖЕТОНАМИ
+TID_RANKS_ADDED_TITLE,Нові ранги для бійців
+TID_RANKS_ADDED_DESC,"Максимальний ранг бійця виріс із 20-го до 35-го.\n\nТи отримуєш зоряні очки (<cff00ff><STARPOINTS></c>) і жетони (<TOKENS>) за всіх бійців, що досягли будь-якого з цих нових рангів."
+TID_SKINS_TITLE,СКІНИ
+TID_SKINS_BUTTON_LABEL,СКІНИ
+TID_SKIN_PREVIEW,ПЕРЕДПЕРЕГЛЯД СКІНУ
+TID_DEFAULT_SKIN,<HERO>: СТАНДАРТНИЙ СКІН
+TID_HERO_LVL_UP_MATERIAL,монети
+TID_TOKENS,жетони
+TID_FIRST_WINS,зоряні жетони
+TID_BUTTON_INBOX,ВХІДНІ
+TID_INBOX_TITLE,ВХІДНІ
+TID_INBOX_SYSTEM_SENDER,Система
+TID_INBOX_SUPPORT_SENDER,Служба підтримки
+TID_INBOX_AGE,<TIME> тому
+TID_INBOX_CLAIM,ЗАБРАТИ
+TID_INBOX_VIEW,ДИВИТИСЯ
+TID_INBOX_TAB_0,КЛУБ
+TID_INBOX_TAB_1,ОСОБИСТІ
+TID_INBOX_NO_ENTRIES,НІЧОГО НЕМАЄ
+TID_INBOX_CAPTION_99,Сезон закінчився.
+TID_INBOX_CAPTION_94,Ви отримуєте скін: <NAME>
+TID_INBOX_CAPTION_93,Ви отримуєте бійця: <NAME>
+TID_INBOX_CAPTION_92,<NAME>: ви отримуєте очки сили (<AMOUNT>) для цього бійця.
+TID_INBOX_CAPTION_91,Ви отримуєте квитки (<AMOUNT>).
+TID_INBOX_CAPTION_90,Ви отримуєте <NAME> (<AMOUNT>)
+TID_INBOX_CAPTION_89,Ви отримуєте кристали (<AMOUNT>)
+TID_INBOX_CAPTION_88,Ви отримуєте подвоювач жетонів (<AMOUNT>)
+TID_INBOX_CAPTION_85,З вашого рахунку списані кристали (<AMOUNT>)
+TID_INBOX_CAPTION_84,<NAME>: ви отримуєте зоряну силу «<ABI>» для цього бійця
+TID_INBOX_CAPTION_78,Нові ранги для бійців: 21-30!
+TID_INBOX_NEW,НОВЕ!
+TID_BAND_MAIL_POPUP_TITLE,КЛУБ
+TID_BAND_MAIL_POPUP_DEFAULT_TXT,Напиши повідомлення...
+TID_BAND_MAIL_POPUP_POST,ВІДПРАВИТИ
+TID_BAND_MAIL_POPUP_NO_MSG,Спочатку напиши повідомлення
+TID_FEATURE_DISABLED_FOR_DEMO_ACCOUNTS,Недоступно для демонстраційних облікових записів.
+TID_REVOKE_TITLE,Повідомлення служби підтримки
+TID_REVOKE_OK,Зрозуміло
+TID_TEAM_REQEST_JOIN_FAIL_UNMERGEABLE_TEAMS,Не можна відправити запит на вступ. Ти вже в команді.
+TID_TEAM_REQEST_JOIN_FAIL_PENDING_INVITE,Не можна відправити запит на вступ.\nСпочатку розглянь запрошення в команду.
+TID_TEAM_REQEST_JOIN_FAIL_PENDING_JOIN_REQUEST,Не можна відправити запит на вступ. Інший твій запит очікує розгляду.
+TID_TEAM_REQUEST_JOIN_REQUEST_CANCELLED,Запит на вступ скасований.
+TID_TEAM_JOIN_REQUEST_POPUP_TITLE,Я ХОЧУ ВСТУПИТИ У ВАШУ КОМАНДУ
+TID_BATTLE_LOG_TVST_RESULT_0,<c00ff00>ПЕРЕМОГА</c>
+TID_BATTLE_LOG_TVST_RESULT_1,<ccc0000>ПОРАЗКА</c>
+TID_BATTLE_LOG_TVST_RESULT_2,<ccccccc>НІЧИЯ</c>
+TID_BATTLE_LOG_DEATHMATCH_RESULT_0,<c00ff00>МІСЦЕ: <RANK></c>
+TID_BATTLE_LOG_DEATHMATCH_RESULT_1,<ccc0000>МІСЦЕ: <RANK></c>
+TID_BATTLE_LOG_DEATHMATCH_RESULT_2,<ccccccc>МІСЦЕ: <RANK></c>
+TID_BATTLE_LOG_AGE,<TIME> тому
+TID_BATTLE_LOG_HERO_LEVEL_LABEL,Р.
+TID_BATTLE_LOG_TVST_VERSUS,ПРОТИ
+TID_BATTLE_LOG_TITLE,ДАНІ БОЮ
+TID_BATTLE_LOG_REPLAY,ПОВТОР
+TID_BATTLE_LOG_SURVIVED_FOR,Час виживання: <TIME>
+TID_BATTLE_LOG_VICTORY_IN,Мегабоєць переможений за <TIME>
+TID_BATTLE_LOG_MVP,ЗОРЯНИЙ ГРАВЕЦЬ
+TID_BATTLE_LOG_FRIENDLY,ДРУЖНІЙ
+TID_BATTLE_LOG_PVP,РАНГОВИЙ
+TID_BATTLE_LOG_PRO_LEAGUE,СИЛОВА ГОНКА
+TID_BATTLE_LOG_NO_ENTRIES,НЕМАЄ ЗАПИСІВ
+TID_BATTLE_LOG_THIS_IS_A_BOT,Це бот
+TID_BATTLE_LOG_REPLAY_INFO_REPLAYS_DISABLED,Повтори зараз відключені
+TID_BATTLE_LOG_REPLAY_INFO_NO_REPLAY_AVAILABLE,Повтор ще не доступний
+TID_BATTLE_LOG_REPLAY_INFO_NO_REPLAY_TOO_LOW,Повтор недоступний: у бійця замало трофеїв
+TID_BATTLE_LOG_REPLAY_INFO_NO_REPLAY_TOO_LOW_TROPHIES,"Збери <NUM> трофеїв бійця, щоб розблокувати можливість повторів"
+TID_BATTLE_LOG_REPLAY_INFO_NO_REPLAY_SERVER_ERROR,Повтор недоступний: помилка запису
+TID_BATTLE_LOG_REPLAY_INFO_REPLAY_EXPIRED,Повтор більше недоступний
+TID_PLAYER_XP_LEVEL,РІВЕНЬ
+TID_PLAYER_RANK_TIER_0,I
+TID_PLAYER_RANK_TIER_1,II
+TID_PLAYER_RANK_TIER_2,III
+TID_PLAYER_RANK_TIER_3,IV
+TID_PLAYER_RANK_TIER_4,V
+TID_PLAYER_RANK_TIER_5,VI
+TID_ADD_FRIEND_FAILED,Не вдалося додати друга
+TID_ADD_FRIEND_FAILED_TOKEN_EXPIRED,Термін дії посилання для запрошення друга минув!
+TID_ADD_FRIEND_FAILED_THEIR_LIST_FULL,"Не вдалося додати друга, список друзів користувача переповнений!"
+TID_ADD_FRIEND_FAILED_YOUR_LIST_FULL,"Не вдалося додати друга, твій список друзів переповнений!"
+TID_ADD_FRIEND_FAILED_BANNED,"Не вдалося додати друга, користувач заблокований!"
+TID_KEYPOOL_KEYS_REMAINING,Ще <VALUE>
+TID_KEYPOOL_NEXT_PATCH,+<KEYS> жетонів через <TIME>
+TID_TOP_HUD_NEXT_REWARD,Наступна нагорода
+TID_RANK_UP_REWARD_REPLACED_TITLE,Підтвердження отримання альтернативної нагороди
+TID_RANK_UP_REWARD_REPLACED_POWER,Жоден боєць не може бути вибраний для отримання <AMOUNT> очок сили.\n\nВізьмеш замість цього альтернативну нагороду?
+TID_RANK_UP_REWARD_REPLACED_HERO,"У тебе вже є <NAME>, тому ти отримаєш альтернативну нагороду."
+TID_PLAYER_INFO_SEND_FRIEND_REQUEST,ЗАПРОПОНУВАТИ ДРУЖИТИ
+TID_PLAYER_INFO_REMOVE_FRIEND,Видалити зі списку друзів
+TID_PLAYER_INFO_FRIEND_REQUEST_SENT,Пропозиція відправлена
+TID_PLAYER_INFO_IS_YOUR_FRIEND,друг\nу грі
+TID_POWER_POINTS,ОЧКИ СИЛИ
+TID_HERO_INFO_LEVEL,СИЛА
+TID_HERO_INFO_RANK,РАНГ
+TID_HERO_INFO_LEVEL_UP_BUTTON_LABEL,ПІДВИЩИТИ РІВЕНЬ СИЛИ ДО <LVL>-ГО
+TID_HERO_INFO_LEVEL_UP_BUTTON_CONFIRM_LABEL,НАТИСНИ ЗНОВУ ДЛЯ ПІДТВЕРДЖЕННЯ
+TID_HERO_INFO_MAX_LEVEL,МАКСИМАЛЬНА СИЛА
+TID_HERO_INFO_MORE_POWER_NEEDED,"Збери більше очок сили, щоб поліпшити!"
+TID_HERO_INFO_LEVEL_UP_ERROR_4,Бійцю бракує очок сили!
+TID_HERO_INFO_LEVEL_UP_ERROR_3,Тобі бракує монет!
+TID_HERO_INFO_LEVEL_UP_ERROR_5,Боєць досяг максимального рівня сили!
+TID_HERO_INFO_LEVEL_UP_PRICE_MISSING,<cff6034><AMOUNT></c>
+TID_HERO_INFO_LEVEL_UP_PRICE,<AMOUNT>
+TID_HERO_INFO_STARTING_HERO,ПОЧАТКОВИЙ БОЄЦЬ
+TID_HERO_INFO_STAR_POWER_EQUIP,ВИБРАТИ
+TID_HERO_INFO_STAR_POWER_EQUIPPED,ВИБРАНО
+TID_PLAYER_REPORTED_SUCCESSFULLY,Скарга відправлена!
+TID_TOO_MANY_REPORTS_SENT,Досягнутий щоденний ліміт скарг!
+TID_TOO_MANY_ALLIANCE_CHAT_REPORTS_SENT,"Почекай, перш ніж відправляти нову скаргу."
+TID_CHOOSE_CHARACTER,ВИБЕРИ БІЙЦЯ
+TID_ARMOR,ЗДОРОВ'Я
+TID_ARMOR_DESC,"Бідображає кількість пошкоджень, яку може витримати боєць."
+TID_SHOTGUN_GIRL,ШЕЛЛІ
+TID_SHOTGUN_GIRL_DESC,Шеллі обрушує на ворожу команду шквал дробу з рушниці. Її Супер знищує укриття та тримає супротивників на відстані!
+TID_LONG_RANGE_SHOTGUN,КАРТЕЧ
+TID_LONG_RANGE_SHOTGUN_DESC,"Громобій Шеллі випускає сніп куль на середню дистанцію. Що більше куль досягає цілі, то більше пошкодження."
+TID_MEGA_BLASH_ULTI,СУПЕРОБСТРІЛ
+TID_MEGA_BLASH_ULTI_DESC,"Суперобстріл Шеллі зносить і укриття, і ворогів. Тих, що вижили, відкидає назад."
+TID_GUNSLINGER,КОЛЬТ
+TID_GUNSLINGER_DESC,Постріли з револьверів Кольта неймовірно точні. Його Супер кришить укриття та долає ще більшу дистанцію!
+TID_RAPID_FIRE,ПОВНА ОБОЙМА
+TID_RAPID_FIRE_DESC,Кольт робить шість пострілів великої дальності з револьверів.
+TID_RAPID_FIRE_ULTI,КУЛЬОВИЙ ШТОРМ
+TID_RAPID_FIRE_ULTI_DESC,Кулі з револьверів Кольта покривають величезну відстань і знищують укриття.
+TID_BULL_DUDE,БУЛЛ
+TID_BULL_DUDE_DESC,Рушниця Булла завдає серйозної шкоди на невеликій дистанції. Його Супер дозволяє йому прориватися крізь перешкоди та відкидати ворогів назад!
+TID_SHOTGUN_BLAST,ДВОСТВОЛКА
+TID_SHOTGUN_BLAST_DESC,"Двостволка Булла завдає серйозної шкоди, але має малу дальність. Тому Булл надає перевагу тісному спілкуванню."
+TID_CHARGE,БУЛЬДОЗЕР
+TID_CHARGE_DESC,"Нагнувши голову, Булл проноситься крізь ворогів і перешкоди. Завзятість — його друге я."
+TID_ROCKET_GIRL,БРОК
+TID_ROCKET_GIRL_DESC,"Вибухова ракета Брока летить на велику дистанцію. Його Супер — дощ із балістичних ракет, що змітає укриття!"
+TID_FIREWORKS_WEAPON,ФАТАЛЬНА РАКЕТА
+TID_FIREWORKS_WEAPON_DESC,Випущена Броком фатальна ракета летить високо та далеко.
+TID_FIREWORKS_ULTI,РАКЕТНИЙ ДОЩ
+TID_FIREWORKS_ULTI_DESC,Загороджувальний ракетний вогонь Брока змітає перешкоди та ворогів. Він викупає тебе під ракетним дощем!
+TID_TNT_DUDE,ДИНАМАЙК
+TID_TNT_DUDE_DESC,"Динамайк кидає пару динамітних шашок. Його Супер — начинена динамітом бочка, яка рознесе укриття в тріски!"
+TID_MORTAR,РІЗКИЙ ЗАПАЛ
+TID_MORTAR_DESC,"Кинута Майком пара шашок легко подолає перешкоди, а динаміт, що начиняє їх, вибухонебезпечний, як характер Майка!"
+TID_MORTAR_ULTI,ВЕЛИКИЙ БА-БАХ
+TID_MORTAR_ULTI_DESC,"Супермегапотужний вибух зносить укриття. Ворогів, які вижили, відкидає вибуховою хвилею!"
+TID_LUCHADOR,ЕЛЬ ПРІМО
+TID_LUCHADOR_DESC,"Ель Прімо обрушує на ворогів град ударів. Його Супер, удар ліктем у стрибку, завдає шкоди всім, хто опинився поруч!"
+TID_LUCHADOR_WEAPON,КУЛАКИ ЛЮТІ
+TID_LUCHADOR_WEAPON_DESC,Ель Прімо завдає чотири несамовиті удари своїми потужними кулаками.
+TID_LUCHADOR_ULTI,МОГУТНІЙ ЛІКОТЬ
+TID_LUCHADOR_ULTI_DESC,"Високо підстрибнувши, Ель Прімо із силою обрушує вниз лікоть, розкидаючи в боки ворогів і руйнуючи укриття."
+TID_TRICKSHOT_DUDE_OLD,РИКОШЕТ
+TID_TRICKSHOT_DUDE_DESC,Випущені Ріко кулі можуть відскакувати від стін. Його Супер долає велику дистанцію та наскрізь прошиває ціль!
+TID_TRICKSHOT_DUDE_WEAPON,ПРУЖНІ КУЛІ
+TID_TRICKSHOT_DUDE_WEAPON_DESC,"Відскакуючи від стін, кулі Ріко летять ще далі та можуть дістати ворогів, які сховалися в укритті."
+TID_TRICKSHOT_DUDE_ULTI,КОРОННИЙ УДАР
+TID_TRICKSHOT_DUDE_ULTI_DESC,"Ріко випускає довгу чергу, яка прошиває ворогів і може покривати ще більшу дистанцію, відскакуючи від стін."
+TID_CACTUS,СПАЙК
+TID_CACTUS_DESC,"Спайк кидає кактусові гранати, що обсипають усе довкола голками. Його приголомшливий Супер створює поле з шипами, яке сповільнює ворогів і завдає їм шкоди!"
+TID_CACTUS_WEAPON,ГОЛКОВА ГРАНАТА
+TID_CACTUS_WEAPON_DESC,"Спайк кидає маленький кактус, який вибухає та обсипає все навкруги голками."
+TID_CACTUS_ULTI,ПРИБИВ!
+TID_CACTUS_ULTI_DESC,"Спайк кидає шипасту гранату, яка завдає шкоди та сповільнює ворогів, що потрапили в зону вибуху."
+TID_BARKEEP,БАРЛІ
+TID_BARKEEP_DESC,"Барлі атакує, жбурляючи у ворога пляшку; шкода завдається бризками. Його Супер — шквал пляшок, наповнених запальною сумішшю!"
+TID_BARKEEP_WEAPON,НЕРОЗБАВЛЕНА СУМІШ
+TID_BARKEEP_WEAPON_DESC,"Барлі жбурляє пляшку, і вона розбивається об землю. Бризки, що розлетілися, завдають шкоди ворогам. Ті з них, хто залишаються в калюжі, продовжують отримувати пошкодження."
+TID_BARKEEP_ULTI,ОСТАННЄ ЗАМОВЛЕННЯ
+TID_BARKEEP_ULTI_DESC,"Обрушивши шквал вогняних пляшок, Барлі заливає вогнем величезну площу. За рахунок закладу!"
+TID_MECHANIC,ДЖЕССІ
+TID_MECHANIC_DESC,"Шокова гвинтівка Джессі вистрілює енергосферою, яка відскакує від ворога до ворога. Її Супер — встановлення милої, але смертоносної турелі!"
+TID_MECHANIC_WEAPON,ШОКОВА ГВИНТІВКА
+TID_MECHANIC_WEAPON_DESC,"Влучивши в ціль, випущена з гвинтівки Джессі енергосфера відскакує до наступної цілі в зоні дії та може таким чином вразити до трьох ворогів."
+TID_MECHANIC_ULTI,СКРАППІ!
+TID_MECHANIC_ULTI_DESC,"Джессі Джанкер установлює турель, що автоматично стріляє по ворогах. Зроблена із 100-відсоткової вторсировини!"
+TID_SHAMAN,НІТА
+TID_SHAMAN_DESC,"Ніта атакує ворогів хвилею енергії. Її Супер закликає величезного ведмедя, який б'ється поруч із нею!"
+TID_SHAMAN_WEAPON,ДАВНЯ СИЛА
+TID_SHAMAN_WEAPON_DESC,"Хвиля енергії, що випускається Нітою, завдає шкоди всім ворогам, які влучили в неї."
+TID_SHAMAN_ULTI,ВЕДМЕЖУТЬ
+TID_SHAMAN_ULTI_DESC,"Ніта закликає дух великого ведмежати, щоб разом полювати на ворогів."
+TID_UNDERTAKER,МОРТИС
+TID_UNDERTAKER_DESC,"Мортис стрибає вперед із кожним помахом своєї лопати. Його Супер закликає зграю кажанів, що завдають шкоди ворогам і зцілюють його самого!"
+TID_UNDERTAKER_WEAPON,ПОМАХ ЛОПАТОЮ
+TID_UNDERTAKER_WEAPON_DESC,Стрибок і точний помах лопатою — і в Мортиса знову повно роботи.
+TID_UNDERTAKER_ULTI,КРОВ ЖИТТЯ
+TID_UNDERTAKER_ULTI_DESC,"Мортис закликає зграю кажанів-вампірів, які висмоктують здоров'я у ворогів і відновлюють його власне. Брр!"
+TID_CROW,ВОРОН
+TID_CROW_DESC,"Ворон кидає три отруєні кинджали. Його Супер — стрімкий стрибок, на початку та кінці якого Ворон розкидає навсібіч кинджали!"
+TID_CROW_WEAPON,КЛИНКИ
+TID_CROW_WEAPON_DESC,"Ворон кидає три кинджали. Вороги, зачеплені отруєними клинками, поступово втрачають здоров'я."
+TID_CROW_ULTI,НАЛІТ
+TID_CROW_ULTI_DESC,"Злітаючи в небо та вертаючись на землю, Ворон оточує себе кільцем отруєних кинджалів."
+TID_DEAD_MARIACHI,ПОКО
+TID_DEAD_MARIACHI_DESC,Поко атакує ворогів руйнівною звуковою хвилею. Його Супер зцілює його самого та товаришів по команді!
+TID_DEAD_MARIACHI_WEAPON,ПОТУЖНИЙ АКОРД
+TID_DEAD_MARIACHI_WEAPON_DESC,"Вдаривши по струнах, Поко розповсюджує пронизливу до кісток звукову хвилю, яка завдає шкоди всім зачепленим ворогам."
+TID_DEAD_MARIACHI_ULTI,НА БІС!
+TID_DEAD_MARIACHI_ULTI_DESC,"Поко лікує себе та друзів, що перебувають поруч, виконуючи наснажливу мелодію. Не впливає на ворогів."
+TID_BOW_DUDE,БО
+TID_BOW_DUDE_DESC,Бо випускає три вибухові стріли. Його Супер — встановлення трьох секретних вибухових пасток!
+TID_BOW_DUDE_WEAPON,ОРЛИНЕ ОКО
+TID_BOW_DUDE_WEAPON_DESC,"Три випущені Бо вибухові стріли рвуть ворогів на шматки, як орлині кігті."
+TID_BOW_DUDE_ULTI,ПОЛЮВАННЯ НА ЛИСИЦЬ
+TID_BOW_DUDE_ULTI_DESC,"Пастки Бо вибухають після активації ворогом із невеликою затримкою. Завдаючи шкоди, вони відкидають супротивників назад."
+TID_SNIPER,ПАЙПЕР
+TID_SNIPER_DESC,"Снайперські постріли Пайпер завдають більше шкоди на великій дистанції. Її Супер — три гранати, кинувши які, вона збігає!"
+TID_SNIPER_WEAPON,ЗАБІЙНА ПАРАСОЛЬКА
+TID_SNIPER_WEAPON_DESC,"Пайпер робить снайперський постріл із наконечника своєї парасольки. Що більше дистанція пострілу, то він стає потужнішим!"
+TID_SNIPER_ULTI,ПРОМЕНАД
+TID_SNIPER_ULTI_DESC,"Пайпер збігає від настирливих шанувальників, залишаючи маленький сувенір на пам'ять: кілька гранат без чеки!"
+TID_MINIGUN_DUDE,ПЕМ
+TID_MINIGUN_DUDE_DESC,"Постріли Пем усипають усе навколо шрапнеллю. Її Супер — лікувальна турель, яка відновлює здоров'я їй і товаришам по команді!"
+TID_MINIGUN_DUDE_WEAPON,БУРЯ БРУХТУ
+TID_MINIGUN_DUDE_WEAPON_DESC,"Пем обсипає округу шматками металобрухту. Будь ласка, надіньте захисні окуляри!"
+TID_MINIGUN_DUDE_ULTI,МАТУСИН ПОЦІЛУНОК
+TID_MINIGUN_DUDE_ULTI_DESC,"Лікувальна турель Пем лікує її саму й усіх товаришів, що перебувають у зоні дії турелі."
+TID_BONE_THROWER,Метальник кісток
+TID_BONE_THROWER_DESC,"Спритно вправляючись зі своїм масивним кулеметом, цей боєць може вкласти майже необмежену кількість ворогів (низька швидкість переміщення, стійкість до відкидання)."
+TID_BONE_THROWER_WEAPON,МІНІҐАН
+TID_BONE_THROWER_WEAPON_DESC,Цей боєць просто створений для свого мініґана. Він навіть може вести вогонь на ходу!
+TID_BONE_THROWER_ULTI,АВТОПЕРЕВ'ЯЗКА
+TID_BONE_THROWER_ULTI_DESC,У запеклій перестрілці отримувати подряпину або серйозну рану дуже просто. Автоперев'язка допоможе всій команді залишитися в строю!
+TID_BLACK_HOLE,ТАРА
+TID_BLACK_HOLE_DESC,"Три карти таро Тари наскрізь пронизають ворогів. Її Супер — чорна діра, яка затягує ворогів, що опинилися поблизу, завдаючи їм шкоди!"
+TID_BLACK_HOLE_WEAPON,ТРИ КАРТИ ТАРО
+TID_BLACK_HOLE_WEAPON_DESC,"Недбалий рух руки, і три карти таро пронизують ворогів. Оце так спритність!"
+TID_BLACK_HOLE_ULTI,ТЯЖІННЯ
+TID_BLACK_HOLE_ULTI_DESC,"Тара чаклунством створює гравітаційний колодязь. Вороги, які потрапили в зону дії, стикаються один з одним, зазнаючи нестерпного болю."
+TID_TURRET_DAMAGE,Пошкодження турелі
+TID_TURRET_HEALTH,Здоров'я турелі
+TID_STAT_DAMAGE_PER_SECOND,Пошкодження за секунду
+TID_STAT_DAMAGE_PER_SECOND_EACH,Пошкодження за секунду
+TID_STAT_DAMAGE_PER_STRIKE,Пошкодження від удару
+TID_ROBOT,ПОМІЧНИК ШЕРИФА АЙРОНС
+TID_ROBOT_DESC,Створений служити. Покликаний руйнувати.
+TID_ROBOT_WEAPON,РАКЕТНИЙ СНАЙПЕР
+TID_ROBOT_WEAPON_DESC,Помічник шерифа Айронс запускає вибухову ракету на неймовірно довгу дистанцію з механічною точністю.
+TID_ROBOT_ULTI,СТРИМУВАННЯ НАТОВПУ
+TID_ROBOT_ULTI_DESC,"Коли справа доходить до крайніх заходів, помічник шерифа Айронс готовий обрушити на некерований натовп шквал ракет."
+TID_ARMOR_STAT,Здоров'я
+TID_HEALTH,Здоров'я
+TID_STAT_GRENADE_DAMAGE,Пошкодження від гранати
+TID_STAT_MISSILE_DAMAGE,Пошкодження від ракети
+TID_STAT_HEALTH,Здоров'я
+TID_STAT_SPEED,Швидкість
+TID_STAT_DAMAGE,Пошкодження
+TID_STAT_DAMAGE_PER_SHOT,Пошкодження від кулі
+TID_STAT_DAMAGE_PER_SHELL,Пошкодження від пострілу
+TID_STAT_HAMMER_DAMAGE,"Пошкодження кожні 0,2 с."
+TID_BATTLE,ГРАТИ
+TID_QUIT,Вийти
+TID_MATCHMAKING_QUIT,Вийти
+TID_MATCHMAKING_HEADING,Пошук гравців
+TID_MATCHMAKING_TIME_LABEL,Гра розпочнеться через
+TID_MATCHMAKING_PLAYERS,Знайдено гравців: <x> із <y>
+TID_BUTTON_CANCEL,Скасування
+TID_BUTTON_OK,ОК
+TID_ENTER_NAME_TITLE,Ласкаво просимо в Gale Brawl!
+TID_ENTER_NAME_BODY,Як тебе звати?
+TID_TIME_DAYS, д.
+TID_TIME_HOURS, г.
+TID_TIME_MINS, хв.
+TID_TIME_SECS, с.
+TID_MATCHMAKING_TIME,Час до початку: <TIME>
+TID_SUPERCELL_ID_TITLE,Supercell ID
+TID_SUPERCELL_ID_BUTTON_CONNECTED,Під'єднано
+TID_SUPERCELL_ID_BUTTON_DISCONNECTED,Під'єднано
+TID_SUPERCELL_ID_LOGIN_BUTTON,Вхід
+TID_SUPERCELL_ID_NEW_GAME_BUTTON,Грати без під'єднання
+TID_CANNOT_SWITCH_TO_ACCOUNT_WITHOUT_SUPERCELL_ID,Хочеш завантажити іншу гру з <number>-м рівнем досвіду? Для цього потрібно ввійти в гру із Supercell ID.
+TID_ERROR_POP_UP_OUT_OF_SYNC_TITLE,Помилка!
+TID_ERROR_POP_UP_OUT_OF_SYNC,Клієнт і сервер не синхронізовані!
+TID_ERROR_POP_UP_OUT_OF_SYNC_BUTTON,Перезавантажити гру
+TID_ERROR_POP_UP_CONNECTION_FAILED_TITLE,Помилка під'єднання
+TID_ERROR_POP_UP_CONNECTION_FAILED,Не вдається під'єднатися до сервера. Перевір під'єднання до Інтернету та спробуй знову.
+TID_ERROR_POP_UP_CONNECTION_FAILED_BUTTON,Спробувати знову
+TID_ERROR_POP_UP_LOGIN_FAILED_TITLE,Увійти не вдалося
+TID_ERROR_POP_UP_LOGIN_FAILED,"Будь ласка, спробуй пізніше."
+TID_ERROR_POP_UP_LOGIN_FAILED_BUTTON,Спробувати знову
+TID_ERROR_POP_UP_AUTO_DISCONNECTED_TITLE,Тут є хто-небудь?
+TID_ERROR_POP_UP_AUTO_DISCONNECTED,"Натисни на кнопку внизу, щоб перезавантажити гру."
+TID_ERROR_POP_UP_AUTO_DISCONNECTED_BUTTON,Перезавантажити гру
+TID_ERROR_POP_UP_WRONG_CLIENT_VERSION_TITLE,Доступне оновлення!
+TID_ERROR_POP_UP_WRONG_CLIENT_VERSION,Чудові новини! Доступна нова версія Gale Brawl.
+TID_ERROR_POP_UP_WRONG_CLIENT_VERSION_BUTTON,Оновлення
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_TITLE,Технічна перерва
+TID_ERROR_POP_UP_SERVER_MAINTENANCE,"Пробач, на сервері проводяться технічні роботи. Спробуй, будь ласка, пізніше."
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_BUTTON,Спробуй знову
+TID_ERROR_POP_UP_BANNED_TITLE,Тебе заблокували!
+TID_ERROR_POP_UP_BANNED,Тебе тимчасово заблокували
+TID_ERROR_POP_UP_BANNED_BUTTON,OK
+TID_ERROR_POP_UP_BANNED_BUTTON_CONTACT_PS,Підтримка
+TID_ERROR_POP_UP_BANNED_ARTICLE_BUTTON,Детальніше
+TID_INFO_POP_UP_IAP_NOTE_TITLE,Важливе повідомлення
+TID_INFO_POP_UP_IAP_NOTE,"Gale Brawl — безкоштовна гра, але можна прискорити її проходження за допомогою вбудованих купівель (цю можливість можна відключити в налаштуваннях пристрою). Якщо ти приймаєш умови користування та політику конфіденційності, натисни кнопку «OK»."
+TID_INFO_POP_UP_IAP_NOTE_BUTTON,OK
+TID_SERVER_ERROR_TITLE,Помилка сервера <number>
+TID_SERVER_ERROR,Під час бою пропав зв'язок.
+TID_SERVER_ERROR_BUTTON,OK
+TID_COME_BACK_NOTIFICATION_SMALL,Ще один бій?
+TID_COME_BACK_NOTIFICATION_MEDIUM,Ще один бій?
+TID_COME_BACK_NOTIFICATION_LARGE,Ще один бій?
+TID_ERROR_POP_UP_CONNECTION_LOST_TITLE,Під'єднання перервано
+TID_ERROR_POP_UP_CONNECTION_LOST,"Будь ласка, спробуй увійти знову!"
+TID_ERROR_POP_UP_CONNECTION_LOST_BUTTON,Повторний вхід
+TID_TROPHIES,Трофеї
+TID_PRACTICE,ТРЕНУВАННЯ
+TID_READY,Готово
+TID_BATTLE_END_TITLE_VICTORY,ПЕРЕМОГА!
+TID_BATTLE_END_TITLE_DEFEAT,ПОРАЗКА
+TID_BATTLE_END_TITLE_DRAW,Нічия
+TID_BATTLE_END_TITLE_COOP_SURVIVAL,Час виживання: <TIME>
+TID_BATTLE_END_DEATHMATCH_VICTORY,Ти кращий за всіх!
+TID_BATTLE_END_DEATHMATCH_DEFEAT,Місце: <RANK>
+TID_BATTLE_END_TVST_DRAW_DESC,"Гра закінчилася нічиєю, тому що обидві команди зібрали однакову кількість кристалів."
+TID_BATTLE_END_TITLE_1VS5_YOU_WIN_IN_TEAM,Мегабоєць переможений за <TIME>
+TID_BATTLE_END_TITLE_1VS5_YOU_WIN_AS_BOSS,Час виживання: <TIME>
+TID_BATTLE_END_TITLE_RAID_BOSS_VICTORY,РІВЕНЬ «<LEVEL>» ПРОЙДЕНИЙ!
+TID_BATTLE_END_TITLE_RAID_BOSS_DEFEAT,ПОРАЗКА
+TID_BATTLE_END_RETURN_HOME,ВИЙТИ
+TID_BATTLE_END_NEXT,Далі
+TID_BATTLE_END_TAP,натисни для продовження
+TID_BATTLE_END_NO_PRACTISE_TROPHIES,У ТРЕНУВАННІ НЕ МОЖНА ВИГРАТИ ТРОФЕЇ
+TID_BATTLE_END_XP_CAPPED,Весь доступний сьогодні досвід уже отриманий
+TID_BATTLE_END_PLAY_AGAIN,ГРАТИ ЗНОВУ
+TID_BATTLE_END_PLAY_AGAIN_CANCEL,СКАСУВАННЯ
+TID_BATTLE_END_PLAY_AGAIN_READY_PLAYERS,<WAITING>/<TOTAL>
+TID_BATTLE_END_PLAY_AGAIN_PLAYERS,<caaaaaa><TOTAL></c>
+TID_BATTLE_END_PLAY_AGAIN_TIMER,<TIME>
+TID_BATTLE_END_NEW_MEMBER_TO_GAMEROOM,<NAME> вступає у твою команду
+TID_BATTLE_END_OVERWHELMING_VICTORY,ЕПІЧНА ПЕРЕМОГА
+TID_BATTLE_END_OVERWHELMING_VICTORY_LONG,ЕПІЧНА ПЕРЕМОГА
+TID_RESPAWNING,Повернення через\n<n1>
+TID_TEAMS_POPUP_TITLE,КОМАНДИ
+TID_TEAMS_POPUP_SUBTITLE_IN_CLAN,Команди клубу та друзів
+TID_TEAMS_POPUP_SUBTITLE_NOT_IN_CLAN,"ВСТУПИ В КЛУБ, ЩОБ ПОБАЧИТИ АКТИВНІ ІГРИ"
+TID_TEAMS_POPUP_SEARCH,ВСТУПИТИ ЗА КОДОМ
+TID_TEAMS_POPUP_CREATE,СТВОРИТИ КОМАНДУ
+TID_TEAM_SEARCH_POPUP_TITLE,ВСТУПИТИ В КОМАНДУ ЗА КОДОМ
+TID_TEAM_SEARCH_POPUP_SEARCH,ВСТУПИТИ
+TID_TEAM_JOIN_ROOM_CODE,Введи тут код команди...
+TID_TEAM_CHANGE_MAP,ЗМІНИТИ
+TID_TEAM_TYPE_INFO_0,Ранговий
+TID_TEAM_TYPE_INFO_1,Дружній
+TID_TEAM_TYPE_INFO_2,За квитками
+TID_TEAM_MEMBER_LEFT_0,Ти покидаєш команду.
+TID_TEAM_MEMBER_LEFT_1,Тебе вигнали з команди.
+TID_TEAM_MEMBER_LEFT_2,"Команда розпущена: час, відведений для події, сплинув."
+TID_TEAM_MEMBER_LEFT_3,"Команда розпущена, тому що творець команди її покинув."
+TID_TEAM_MEMBER_LEFT_4,Турнірна гра скасована.
+TID_TEAM_MEMBER_LEFT_5,"Час, відведений для турнірної гри, сплинув."
+TID_TEAM_MEMBER_LEFT_6,Турнірна гра закінчилася.
+TID_TEAM_GAME_STARTING,Гра розпочинається
+TID_TEAM_CODE_COPIED,Код скопійований у буфер обміну
+TID_TEAM_MEMBER_INVITE_STATUS_1,<c00ff00>ОЧІКУВАННЯ ВІДПОВІДІ НА ЗАПРОШЕННЯ</c>
+TID_TEAM_MEMBER_INVITE_STATUS_2,<ccc0000>ВІДХИЛЕНО</c>
+TID_TEAM_MEMBER_INVITE_STATUS_3,<c0000cc>КОРИСТУВАЧ НЕ В МЕРЕЖІ</c>
+TID_TEAM_MEMBER_CANCEL_INVITE_INFO,натисни для скасування
+TID_TEAM_ERROR_1,Помилка сервера команди
+TID_TEAM_ERROR_2,"Не можна вступити, команда вже набрана."
+TID_TEAM_ERROR_3,Не можна вступити. Команда вже розпущена.
+TID_TEAM_ERROR_5,"Недійсний код команди. Переконайся, що він правильний."
+TID_TEAM_ERROR_6,Не вдалося знайти команду за таким кодом.
+TID_TEAM_ERROR_7,"Не можна вступити в команду, з якої тебе вигнали."
+TID_TEAM_ERROR_8,Перевір налаштування. У кожній команді не може бути більш ніж три гравці.
+TID_TEAM_ERROR_10,Не можна створити команду. Ти вже в команді.
+TID_TEAM_ERROR_11,"Не можна створити команду. Час, відведений для події, сплинув."
+TID_TEAM_ERROR_12,"Не можна вступити в команду, якої вже немає."
+TID_TEAM_ERROR_14,Не можна створити команду. Командна гра під час цієї події неможлива.
+TID_TEAM_ERROR_15,Не можна вступити в команду. Ця команда не в твоєму регіоні.
+TID_TEAM_ERROR_17,Неможливо розпочати гру. Використання однакових бійців не допускається.
+TID_TEAM_ERROR_18,Неможливо розпочати гру. Незабаром почнеться техобслуговування.
+TID_TEAM_ERROR_19,"Не можна вигнати творця команди, поки він у мережі."
+TID_TEAM_ERROR_20,Не можна змінити карту. Забагато гравців для цієї карти.
+TID_TEAM_ERROR_21,Неможливо розпочати гру. Бракує квитків.
+TID_TEAM_ERROR_22,Не можна змінити карту. Забагато гравців.
+TID_TEAM_ERROR_24,Запросити не вдалося. Друзі не знайдені.
+TID_TEAM_ERROR_25,Запросити не вдалося. Команда вже набрана.
+TID_TEAM_ERROR_26,Запрошення відхилено
+TID_TEAM_ERROR_27,Запросити не вдалося. Гравець зараз не приймає запрошення в команду.
+TID_TEAM_ERROR_28,Запросити не вдалося. Гравець вийшов із мережі.
+TID_TEAM_ERROR_29,Запросити не вдалося. Гравець уже в команді.
+TID_TEAM_ERROR_30,"Неможливо розпочати гру, відповідь на запрошення ще не отримана."
+TID_TEAM_ERROR_31,"Неможливо змінити подію, поки не отримана відповідь на запрошення."
+TID_TEAM_ERROR_32,У команді забагато учасників для цього ігрового режиму.
+TID_TEAM_ERROR_33,Цей ігровий режим не підтримує командну гру.
+TID_TEAM_ERROR_34,Тобі вже вдалося перемогти останнього боса.
+TID_TEAM_ERROR_40,Запит на вступ у команду вже очікує розгляду.
+TID_TEAM_ERROR_41,Запит на вступ у команду був відхилений.
+TID_TEAM_ERROR_42,Запит на вступ у команду не вдався. Команда не знайдена.
+TID_TEAM_ERROR_43,Одержувач запиту на вступ уже не в команді.
+TID_TEAM_ERROR_44,Одержувач запиту на вступ у команду вийшов із мережі.
+TID_TEAM_ERROR_45,Запит на вступ у команду не вдався. Команда вже набрана.
+TID_TEAM_ERROR_46,Одержувач запиту на вступ у команду заглушив тебе.
+TID_TEAM_ERROR_47,Запит на вступ у команду не вдався. Запити на вступ може приймати тільки творець дружньої гри.
+TID_TEAM_ERROR_48,Одержувач запиту на вступ у команду заглушив усі запрошення.
+TID_TEAM_ERROR_102,Не можна створити команду. Твій запит на вступ очікує розгляду.
+TID_SELECT_LOCATION_TITLE,ВИБРАТИ КАРТУ
+TID_SELECT_LOCATION_LOCATIONS,ДРУЖНІЙ
+TID_SELECT_LOCATION_EVENTS,РАНГОВИЙ
+TID_TEAM_SEARCH_INVALID_CODE,"Недійсний код команди. Переконайся, що він правильний."
+TID_TEAM_LEAVE,ВИЙТИ
+TID_TEAM_JOIN,ВСТУПИТИ В КОМАНДУ
+TID_TEAM_READY_BUTTON_LABEL,ГОТОВО!
+TID_TEAM_CANCEL_READY,Скасування
+TID_TEAM_QUIT,ВИЙТИ
+TID_TEAM_TEAMCODE,Код команди
+TID_TEAM_TEAMCODE_DESC,Твої друзі можуть вступити в команду за цим кодом
+TID_TEAM_WAITING_FOR_PLAYER,Запросити за допомогою коду команди
+TID_TEAM_NO_MEMBER,БОТ
+TID_TEAM_NO_MEMBER_INVITE,ЗАПРОСИТИ
+TID_TEAMCREATE_EVENT,Карта
+TID_TEAM_KICK,ВИГНАТИ
+TID_TEAM_PROFILE,Профіль
+TID_TEAM_SWAP,Поміняти сторони
+TID_TEAM_SWAP_HERE,Перенести сюди
+TID_TEAM_CREATOR_ONLY_FEATURE,Доступно тільки творцю команди
+TID_TEAM_CREATOR_ONLY_FEATURE_MODES,Тільки творець команди може поміняти подію
+TID_TEAM_PROFILE_BLOCKED,Перегляд недоступний у режимі готовності
+TID_TEAM_FEATURE_BLOCKED_WHILE_READY,Недоступно в режимі готовності
+TID_TEAM_PRACTISE_BUTTON_LABEL,ТРЕНУВАННЯ
+TID_TEAM_PRACTISE_BUTTON_SUBLABEL,з ботами
+TID_TEAM_LOOT_UNLOCKS,НАГОРОДА
+TID_BONUS_REWARD,Додаткова нагорода за 3 перемоги:
+TID_BONUS_REWARD_COLLECTED,Додаткова нагорода отримана
+TID_INFO_SERVER_ERROR_TITLE,Помилка сервера
+TID_INFO_SERVER_ERROR_BUTTON,Перезавантажити гру
+TID_RARITY_NAME_0,Нагорода шляху до слави
+TID_RARITY_NAME_1,Рідкісний
+TID_RARITY_NAME_2,Надрідкісний
+TID_RARITY_NAME_3,Епічний
+TID_RARITY_NAME_4,Міфічний
+TID_RARITY_NAME_5,Легендарний
+TID_RARITY_COLOR_0,B9EAFF
+TID_RARITY_COLOR_1,68FD58
+TID_RARITY_COLOR_2,5AB3FF
+TID_RARITY_COLOR_3,D850FF
+TID_RARITY_COLOR_4,FE5E72
+TID_RARITY_COLOR_5,FFF11E
+TID_HERO_SCREEN_DIM_COLOR,164382
+TID_RANK_UP_POPUP_TITLE,НОВИЙ РАНГ!
+TID_RANK_UP_POPUP_REWARD_BONUS,БОНУС ПІДВИЩЕННЯ РАНГУ
+TID_RANK_UP_POPUP_RANK,Ранг: <RANK>
+TID_NAME_FAILED_TOO_SHORT,Це ім'я надто коротке!
+TID_NAME_FAILED_PROFANITIES,Таке ім'я неприпустиме!
+TID_NAME_FAILED,Таке ім'я неприпустиме!
+TID_EVENT_STARTED,<GAMEMODE>: відкрита нова карта! Можна отримати нагороду!
+TID_SELECT_HERO_INFO_1,<cFF8000>Гравці проти гравців</c>
+TID_SELECT_HERO_INFO_2,<c2288ff>Гравці проти ботів</c>
+TID_SELECT_HERO_INFO_3,<c40E0D0>Одиночна гра з ботами</c>
+TID_SELECT_HERO_INFO_1_6,<cFF8000>Гравці проти гравців</c>
+TID_SELECT_HERO_INFO_3_6,<c40E0D0>Одиночна гра з ботами</c>
+TID_SELECT_HERO_INFO_FRIENDLY,<c40E0D0>У дружніх іграх усі бійці повністю поліпшені</c>
+TID_SELECT_HERO_INFO_RANK_REWARD,Для отримання очок сили
+TID_SELECT_HERO_POW_INFO_TITLE,ОЧКИ СИЛИ В НАГОРОДУ
+TID_SELECT_HERO_POW_INFO_PURCHASE_TITLE,КУПІВЛЯ ОЧОК СИЛИ
+TID_SELECT_HERO_POW_INFO_BODY,ВИБЕРИ БІЙЦЯ\nЯКИЙ ОТРИМАЄ ОЧКИ СИЛИ
+TID_SELECT_HERO_WILD_CARD_POWER_NOT_ASSIGNABLE,Цей боєць уже зібрав максимальну кількість очок сили
+TID_WILDCARD_POWER_PURCHASE_CONFIRM_TITLE,ПІДТВЕРДИТИ КУПІВЛЮ
+TID_WILDCARD_POWER_PURCHASE_CONFIRM_INFO,Очки сили отримає <HERO>
+TID_WILDCARD_POWER_RANKUP_REWARD_CONFIRM_TITLE,ПІДТВЕРДИТИ ВИБІР
+TID_WILDCARD_POWER_RANKUP_REWARD_CONFIRM_INFO,Очки сили отримає <HERO>
+TID_NAVI_1,Крамниця
+TID_NAVI_2,Новини
+TID_NAVI_3,Бій
+TID_NAVI_4,Бійці
+TID_NAVI_5,Клуб
+TID_NAVI_6,Профіль
+TID_NAVI_7,Друзі
+TID_LEADERBOARD_TITLE,СПИСКИ ЛІДЕРІВ
+TID_LEADERBOARD_TAB_TOTAL,ВСЬОГО\nТРОФЕЇВ
+TID_LEADERBOARD_TAB_HEROES,БІЙЦІ
+TID_LEADERBOARD_TAB_CLANS,КЛУБИ
+TID_LEADERBOARD_TAB_FRIENDS,ДРУЗІ
+TID_LEADERBOARD_SUBTITLE_1,НАЙКРАЩІ ГРАВЦІ
+TID_LEADERBOARD_SUBTITLE_2,НАЙКРАЩІ КЛУБИ
+TID_LEADERBOARD_SUBTITLE_0,<HERO>: НАЙКРАЩІ ГРАВЦІ
+TID_BATTLE_MAIN_NEXT_REWARD,Наступна нагорода: <VALUE>/<MAX>
+TID_BATTLE_MAIN_NEXT_PLANET,Нова карта через <TIME>
+TID_BATTLE_MAIN_COLLECTED_COINS,Отримано <VALUE>
+TID_GATCHA_ERROR_NOT_ENOUGH_GOLD,"Збери 100 жетонів, щоб відкрити ящик!"
+TID_GATCHA_INFO,"<c0000ff>Ящики</c>\n\nУ ящиках можна знайти бійців, очки сили, монети або подвоювачі жетонів."
+TID_HERO_INFO_ABILITY_COLOR_1,12b400
+TID_HERO_INFO_ABILITY_COLOR_2,df1800
+TID_HERO_INFO_ABILITY_COLOR_3,005bd6
+TID_HERO_INFO_ARMOR,ЗДОРОВ'Я
+TID_HERO_INFO_ABILITY,АТАКА: <NAME>
+TID_HERO_INFO_ULTI,СУПЕР: <NAME>
+TID_HERO_INFO_BACK,НАЗАД
+TID_HERO_INFO_UPGRADE,ПОЛІПШИТИ
+TID_HERO_INFO_ABILITY_LEVEL,РІВЕНЬ <LEVEL>/<MAXLEVEL>
+TID_HERO_INFO_CRAFT_HERO,Купити бійця
+TID_HERO_INFO_RARITY,<c<COLOR>><NAME></c>
+TID_HERO_INFO_ITEM_RARITY,<c<COLOR>><NAME></c>
+TID_HERO_INFO_POWER_BAR_TOOL_TIP,"Щоб розблокувати наступне поліпшення, збирай очки сили з ящиків чи купуй їх у крамниці."
+TID_HERO_INFO_STAR_POWER_CAN_DROP,Зоряну силу можна знайти в ящику.
+TID_HERO_INFO_STAR_POWER_BLOCKED,"<HERONAME> може міняти зоряні сили! Шукай їх у ящиках, коли боєць отримає <LEVEL>-й рівень сили."
+TID_HERO_INFO_STAR_POWER_LABEL,ЗОРЯНА СИЛА: <NAME>
+TID_HERO_INFO_ABILITY_DESC,<c<COLOR>><CAPTION></c>\n<BODY>
+TID_MATCHMAKE_FAILED_5,"Підбір супротивників не вдався: час, відведений для події, сплинув."
+TID_MATCHMAKE_FAILED_7,Підбір супротивників не вдався: член команди відключився.
+TID_MATCHMAKE_FAILED_9,Підбір супротивників не вдався: починається техобслуговування.
+TID_MATCHMAKE_FAILED_11,Підбір супротивників не вдався: учасник команди відключився.
+TID_MATCHMAKE_FAILED_12,Підбір супротивників не вдався: тобі вже вдалося перемогти останнього боса.
+TID_MATCHMAKE_FAILED_14,"У СИЛОВІЙ ГОНЦІ можна брати участь, тільки отримавши зоряну силу."
+TID_MATCHMAKE_FAILED_15,Ігор ВЕЛИКОЇ ГОНКИ на сьогодні більше не залишилося.
+TID_SUDDEN_DEATH_TIMER,<n1>
+TID_OWN_TEAM_WINNING,Синя команда переможе через
+TID_ENEMY_TEAM_WINNING,Червона команда переможе через
+TID_OWN_TEAM,Синя команда
+TID_ENEMY_TEAM,Червона команда
+TID_COUNTDOWN,ЗВОРОТНИЙ ВІДЛІК
+TID_HERO_LIST_UNLOCKED,<COUNT>/<TOTAL>
+TID_HERO_LIST_LABEL,БІЙЦІ
+TID_HERO_LIST_DO_GATCHA,Відкрити ящик
+TID_HERO_TIME_UNTIL_RELEASE,З'явиться через <TIME>
+TID_HERO_LIST_COMING_UP,Дізнайся подробиці після появи нового бійця
+TID_SKIN_INFO_TIME_UNTIL_RELEASE,З'явиться через <TIME>
+TID_SKIN_INFO_,Supercell ID: скін у подарунок
+TID_SKIN_INFO_1,"Скін першопроходця Gale Brawl!\n\nДля облікових записів, створених до 2019 року."
+TID_SKIN_INFO_2,"Отримай цей скін, під'єднавшись до Supercell ID у налаштуваннях гри!"
+TID_SKIN_INFO_3_TEASER,Незабаром...
+TID_SKIN_INFO_3_AVAILABLE,\nМожна купити протягом обмеженого часу
+TID_SKIN_INFO_3_NOT_AVAILABLE,\nУ цей час купити неможливо
+TID_SKIN_INFO_3_HERO_NEEDED,"\nЩоб купити цей скін, спочатку розблокуй бійця"
+TID_SKIN_INFO_CAMPAIGN_1_AVAILABLE,Зустрічай свята зі святковим скіном!
+TID_SKIN_INFO_CAMPAIGN_1_NOT_AVAILABLE,Скін Brawlidays
+TID_SKIN_INFO_CAMPAIGN_3_AVAILABLE,Зустрічай Хелловін зі святковим скіном!
+TID_SKIN_INFO_CAMPAIGN_3_NOT_AVAILABLE,Скін до Хелловіну
+TID_SKIN_INFO_LEGENDARY,Зоряний скін
+TID_LEGENDARY_TROPHIES,зоряні очки
+TID_SKIN_REWARD_TITLE_1,СКІН У НАГОРОДУ
+TID_SKIN_REWARD_INFO_1,Розблокований новий скін! Спасибі за гру в Gale Brawl у 2018 році!
+TID_SKIN_REWARD_TITLE_2,СКІН У НАГОРОДУ
+TID_SKIN_REWARD_INFO_2,У нагороду за під'єднання облікового запису до Supercell ID був розблокований новий скін.
+TID_SKIN_REWARD_OK,ЗАБРАТИ
+TID_HERO_REWARD_TITLE_1,ПОВІДОМЛЕННЯ СЛУЖБИ ПІДТРИМКИ
+TID_HERO_REWARD_INFO_1,Служба підтримки Gale Brawl дарує тобі нового бійця.
+TID_SKIN_REWARD_TITLE_0,ПОВІДОМЛЕННЯ СЛУЖБИ ПІДТРИМКИ
+TID_SKIN_REWARD_INFO_0,Служба підтримки Gale Brawl дарує тобі новий скін.
+TID_SKIN_REWARD_TITLE_3,ПОВІДОМЛЕННЯ СЛУЖБИ ПІДТРИМКИ
+TID_SKIN_REWARD_INFO_3,Служба підтримки Gale Brawl дарує тобі новий скін.
+TID_REWARD_TITLE,ПОВІДОМЛЕННЯ СЛУЖБИ ПІДТРИМКИ
+TID_REWARD_INFO,Ви отримали предмети від служби підтримки Gale Brawl.
+TID_REWARD_INFO_RESOURCE_FIRSTWINS,Отримано зоряних жетонів: <AMOUNT>
+TID_REWARD_INFO_RESOURCE_GOLD,Отримано жетонів: <AMOUNT>
+TID_REWARD_INFO_RESOURCE_LEGENDARYTROPHIES,Отримано зоряних очок: <AMOUNT>
+TID_REWARD_OK,ЗАБРАТИ
+TID_HERO_REWARD_OK,ЗАБРАТИ
+TID_RANK_POPUP_TITLE,ШЛЯХ ДО СЛАВИ
+TID_RANK_POPUP_NEXT_GOAL,НОВИЙ РУБІЖ
+TID_RANK_POPUP_COLLECT,ЗАБРАТИ!
+TID_RANK_POPUP_SEASON_END_REWARD,Нагорода сезону
+TID_RANK_POPUP_SEASON_END_REWARD_OWN,<cffff00>ТВОЯ НАГОРОДА СЕЗОНУ</c>
+TID_RANK_POPUP_TOTAL_INFO,"Збирай трофеї, щоб отримувати нагороди та переходити в нові ліги!\nТвої трофеї — це сума трофеїв усіх твоїх бійців."
+TID_RANK_POPUP_SEASON_END_TITLE,ДО КІНЦЯ СЕЗОНУ
+TID_RANK_POPUP_SEASON_END_INFO,"У кінці сезону бійці, що набрали <DECAYSTART> чи більше трофеїв, втрачають частину своїх трофеїв. Списані трофеї компенсуються зоряними очками, які можна витрачати в крамниці."
+TID_RANK_POPUP_HILITE_CAPTION_3,БОЄЦЬ: <HERO>
+TID_RANK_POPUP_HILITE_CAPTION_13,ПОДІЯ: <NAME>
+TID_RANK_POPUP_HILITE_CAPTION_10,МЕГАЯЩИК
+TID_RANK_POPUP_HILITE_CAPTION_SLOT_4,КОМАНДНІ ПОДІЇ
+TID_RANK_POPUP_HILITE_CAPTION_SLOT_3,ПОДІЇ ДНЯ
+TID_RANK_POPUP_HILITE_CAPTION_SLOT_7,ПОДІЇ ЗА КВИТКАМИ
+TID_RANK_INFO_POPUP_SEASON_REWARDS_1,Нагорода кінця сезону: зоряні очки
+TID_RANK_INFO_POPUP_SEASON_REWARDS_2,Нагорода за місце
+TID_RANK_INFO_POPUP_SEASON_REWARDS_3,Нагорода за очки
+TID_RANK_INFO_POPUP_POINTS_LABEL_1,Трофеї
+TID_RANK_INFO_POPUP_TITLE,Інформація про трофеї
+TID_RANK_INFO_POPUP_SEASON_REWARDS,Нагорода кінця сезону: зоряні очки
+TID_RANK_INFO_POPUP_SEASON_REWARD_ENTRY,<START> - <END>
+TID_RANK_INFO_POPUP_LABEL_TROPHIES,Трофеї
+TID_RANK_INFO_POPUP_LABEL_STAR_POINTS,Зоряні очки\nв нагороду
+TID_RANK_INFO_POPUP_LABEL_END_TROPHIES,Трофеї після закінчення сезону
+TID_DAILY_COINS_COLLECTED,Отримано
+TID_TEAM_BATTLE,СТВОРИТИ
+TID_TEAM_UNREADY,не готово
+TID_TEAM_WAITING_WHILE_READY,Усе готово!\nПотрібно дочекатися інших.
+TID_GATCHA_SCREEN_NEW_HERO,<c<COLOR>><NAME>: <OWNEDCOUNT>-й із <SETSIZE> бійців</c>
+TID_GATCHA_SCREEN_NEW_ITEM,<c<COLOR>><OWNEDCOUNT>/<SETSIZE> <NAME></c>
+TID_GATCHA_SCREEN_BOXES_REMAINING,<AMOUNT>
+TID_GATCHA_SCREEN_OK,Здорово!
+TID_GATCHA_SCREEN_TAP,Тисни! Тисни!
+TID_GATCHA_SCREEN_TICKET_DROP_HEADER,КВИТКИ ПОДІЙ
+TID_GATCHA_SCREEN_TICKET_DROP_BONUS,БОНУС!
+TID_GATCHA_SCREEN_TICKET_DROP_DESC_ONGOING,Діє <TIME>
+TID_GATCHA_SCREEN_TICKET_DROP_DESC_FUTURE,Розпочинається через <TIME>
+TID_GATCHA_SCREEN_TICKET_DROP_NOTE,<EMPTY>
+TID_GATCHA_SCREEN_COIN_DOUBLER_HEADER,ПОДВОЮВАЧ ЖЕТОНІВ
+TID_GATCHA_SCREEN_COIN_DOUBLER_VALUE,+ <AMOUNT>
+TID_GATCHA_SCREEN_COIN_DOUBLER_DESC,Отримай удвічі більше жетонів у боях!
+TID_GATCHA_SCREEN_GOLD_DROP_TITLE,МОНЕТИ
+TID_GATCHA_SCREEN_GOLD_DROP_DESC,Використовуй монети для поліпшення бійців
+TID_GATCHA_SCREEN_GEM_DROP_TITLE,КРИСТАЛИ
+TID_GATCHA_SCREEN_GEM_DROP_DESC,"Купуй за кристали ящики, скіни й інші предмети у крамниці"
+TID_GATCHA_SCREEN_HERO_POWER_TITLE,ОЧКИ СИЛИ
+TID_GATCHA_SCREEN_HERO_POWER_LEVEL_UP_UNLOCKED,Розблоковане поліпшення!
+TID_LEG_TRO_MIG_INFO_SHORT,Отримано <cff00ff>зоряних очок:</c> <AMOUNT>!
+TID_GATCHA_SCREEN_HERO_POWER_LEVEL_UP_AVAILABLE,Можна поліпшити!
+TID_GATCHA_SCREEN_BOX_COUNTER_BONUS,БОНУС
+TID_NAVI_BLOCKED_1,Не можна перейти на іншу сторінку в режимі готовності!
+LEG_TRO_MIG_INFO_SHORT,Отримано <cff00ff>зоряних очок:</c> <AMOUNT>!
+TID_LEG_TRO_MIG_POPUP_OK,ОК
+TID_LEG_TRO_MIG_POPUP_CLAIM,ЗАБРАТИ
+TID_LEG_TRO_MIG_POPUP_TITLE,Представляємо <cff00ff>зоряні очки!</c>
+TID_LEG_TRO_MIG_INFO,"Новинка в Brawl Stars: зоряні очки! Їх можна заробляти за допомогою бійців, що набрали 500 чи більше трофеїв. У кінці сезону певна частина трофеїв понад 500 перетворюється на зоряні очки.\n\nЗоряні очки можна також заробляти, підвищуючи ранг бійців. Зоряних очок за підвищення рангу бійців у минулому: <AMOUNT>."
+TID_TEAM_MEMBER_INFO_READY,<NAME> очікує готовності інших
+TID_TEAM_MEMBER_INFO_NOT_READY,Гравець <NAME> ще не готовий до гри
+TID_TEAM_MEMBER_INFO_SELF_READY,Не можна змінити бійця в режимі готовності!
+TID_TEAM_CHANGE_EVENT_BLOCKED,Не можна змінити подію в режимі готовності!
+TID_TEAM_TOGGLE_PRACTISE_BLOCKED,Не можна змінити це в режимі готовності!
+TID_TEAM_GATCHA_BLOCKED,Не можна відкрити ящик у режимі готовності!
+TID_TEAM_NO_MEMBER_INFO,Запрошувати в команду може тільки її творець
+TID_TEAM_INFO_TEAM_CODE,"Поділися цим кодом із друзями та запроси їх у свою команду!\n\nНатисни знову, щоб скопіювати в буфер обміну."
+TID_FREEZER,Морозилка
+TID_GAME_OVER,Бій закінчений
+TID_LEVEL,<LVL>-й рівень
+TID_PLAYERS_IN_MM,Деякі гравці беруть участь у підборі супротивників!
+TID_ONLINE_INFO,"Гравці в мережі: <ONLINE>, у підборі супротивників: <MATCHMAKE>, у бою: <BATTLES>"
+TID_INPUT_NAME,Введи своє ім'я
+TID_LEADERBOARD_YOUR_SCORE,Твої очки
+TID_LEADERBOARD_YOUR_RANK,Твій ранг
+TID_LEADERBOARD_HIGHEST_SCORE,Найкращий результат
+TID_LEADERBOARD_LOCAL,МІСЦЕВИЙ (<COUNTRY>)
+TID_REGION_0,ГЛОБАЛЬНИЙ
+TID_REGION_1,АЗІЯ
+TID_SET_REGION_RESULT_0,Регіон змінений. Новий регіон: <REGION>
+TID_SET_REGION_RESULT_1,"Не вдалося змінити регіон: це не можна зробити, перебуваючи в клубі."
+TID_SET_REGION_RESULT_2,"Не вдалося змінити регіон: це не можна зробити, перебуваючи в команді."
+TID_VICTORY_CONDITION_COINRUSH_TITLE,Захоплення кристалів
+TID_VICTORY_CONDITION_COINRUSH_TEXT,Захопи й утримай 10 кристалів!
+TID_BATTLE_END_MY_TEAM,Твоя команда
+TID_BATTLE_END_ENEMY_TEAM,Команда ворога
+TID_BACK,НАЗАД
+TID_NOT_ENOUGH_GOLD,"Бракує монет. Відкривай ящики, щоб поповнити запас."
+TID_UNLOCK_SKIN_ERROR_1,Бракує кристалів
+TID_EXPERIENCE_LEVEL,Рівень досвіду
+TID_BOT_1,1-й бот
+TID_BOT_2,2-й бот
+TID_BOT_3,3-й бот
+TID_BOT_4,4-й бот
+TID_BOT_5,5-й бот
+TID_BOT_6,6-й бот
+TID_BOT_7,7-й бот
+TID_BOT_8,8-й бот
+TID_BOT_9,9-й бот
+TID_CRAFT_HERO_TITLE,Купити бійця
+TID_CRAFT_HERO_BUTTON_LABEL,Купити
+TID_UNLOCK_SKIN_TITLE,Купити скін
+TID_SKIN_COMING_SOON,Скін ще недоступний
+TID_UNLOCK_SKIN_BUTTON_LABEL,Купити
+TID_HERO_LIST_TOTAL_TROPHIES,Всього трофеїв
+TID_TOP_TOOL_TIP_1,"<c00ccff>Жетони</c> потрібні, щоб відкривати ящики.\n\nЖетони можна отримати в нових подіях і в бою."
+TID_TOP_TOOL_TIP_3,"<c0ed12d>Кристали</c> потрібні, щоб купувати ящики, скіни й інші предмети в крамниці.\n\nКристали можна знайти в ящиках і купити в крамниці за реальні гроші."
+TID_TOP_TOOL_TIP_2,"<cff8E1b>Монети</c> потрібні, щоб поліпшувати бійців.\n\nМонети можна знайти в ящиках."
+TID_TOP_TOOL_TIP_4,<cff0000>Квитки подій</c> потрібні для участі в подіях за квитками.\n\nКвитки подій можна знайти в ящиках.
+TID_TOP_TOOL_TIP_5,"<cff00ff>Зоряні очки</c> потрібні, щоб купувати унікальні предмети в крамниці.\n\nЇх можна отримати за підвищення рангу бійця до 10-го та далі через кожні 5 рангів, а також у нагороду в кінці сезону."
+TID_GAME_MODE_0,ЗАХОПЛЕННЯ КРИСТАЛІВ
+TID_GAME_MODE_0_DESC,"Збирай кристали, що з'являються з кристальної шахти в центрі карти, або відбирай їх у повержених ворогів. Щоб перемогти, утримай десять кристалів до закінчення зворотного відліку."
+TID_GAME_MODE_2,ПОГРАБУВАННЯ
+TID_GAME_MODE_2_DESC,"Захищай свій сейф, одночасно намагаючись зламати ворожий! Перемагає команда, яка зламала сейф ворога першою.\n\nЯкщо час сплине, переможцем буде оголошена команда, що завдала більше шкоди ворожому сейфу."
+TID_GAME_MODE_3,НАГОРОДА ЗА ПІЙМАННЯ
+TID_GAME_MODE_3_DESC,"Збирай зірки для своєї команди, перемагаючи учасників ворожої. З кожною перемогою нагорода за твою голову буде збільшуватися на одну зірку, поки не досягне семи зірок. Не дай ворогу відібрати їх!\n\nПісля закінчення часу перемагає команда, що зібрала більше зірок."
+TID_GAME_MODE_6,ОДИНОЧНЕ ЗІТКНЕННЯ
+TID_GAME_MODE_6_COMBINED,ЗІТКНЕННЯ
+TID_GAME_MODE_6_DESC,"Переможи всіх і залишись у живих. Всі засоби хороші, адже в тебе всього одне життя."
+TID_GAME_MODE_6_DESC_COMBINED,Переможи всіх і залишись у живих! Грай в одиночному або парному режимі.
+TID_GAME_MODE_5,ФУТБОЛЬНА БІЙКА
+TID_GAME_MODE_5_DESC,"Забий гол у ворота супротивника! Матч закінчиться після того, як сплине час, або після двох голів, забитих однією з команд."
+TID_GAME_MODE_3_OG,ЗАЧИСТКА
+TID_GAME_MODE_3_OG_DESC,"Збирай зірки для команди, перемагаючи учасників ворожої. З кожною перемогою нагорода за твою голову буде збільшуватися на одну зірку, поки не досягне семи. Не дай ворогу відібрати їх!\n\nПісля закінчення часу перемагає команда з найбільшою кількістю зірок."
+TID_GAME_MODE_11,ОБЛОГА
+TID_GAME_MODE_11_DESC,"Обложи та знищ ворожий складальний пристрій ІКЕ! У твоєї команди теж є ІКЕ: постачай його болтами, щоб він міг зібрати потужного облогового робота вам у допомогу. Болти з'являються неподалік від центру карти. Щоб відправити болт ІКЕ, захопи його й утримуй кілька секунд.\n\nЗа бій можна провести до трьох облог. Облоговий робот з'явиться в команди, що зібрала до початку облоги більше болтів, і що їх більше, то сильніший робот.\nБережися, ІКЕ оснащені потужними гарматами — не наближайся до бази ворога без облогового робота!"
+TID_BATTLE_END_GAIN_LABEL_FIRST_WIN,Зоряний жетон
+TID_BATTLE_END_GAIN_LABEL_RANK_UP,Новий ранг
+TID_BATTLE_END_GAIN_LABEL_LEVEL_UP,Новий рівень
+TID_BATTLE_END_GAIN_LABEL_VICTORY,Перемога
+TID_BATTLE_END_GAIN_LABEL_DEFEAT,Поразка
+TID_BATTLE_END_GAIN_LABEL_DRAW,Нічия
+TID_BATTLE_END_GAIN_LABEL_MVP,Зоряний гравець
+TID_BATTLE_END_GAIN_LABEL_SURVIVAL,Нагорода за місце
+TID_BATTLE_END_GAIN_LABEL_COOP_SURVIVAL,За час
+TID_BATTLE_END_GAIN_LABEL_COIN_DOUBLER,Ще жетонів:
+TID_BATTLE_END_GAIN_LABEL_1VS5_BOSS,За час
+TID_BATTLE_END_GAIN_LABEL_1VS5_TEAM,За час
+TID_BATTLE_END_COIN_REWARDS,ЖЕТОНИ В НАГОРОДУ
+TID_BATTLE_END_MVP,ЗОРЯНИЙ ГРАВЕЦЬ
+TID_BATTLE_END_DEFEAT_INFO,Хай щастить наступного разу!
+TID_TUTORIAL_1,"Привіт, я Шеллі! Давай-но зберемо ці <ce662f9>КРИСТАЛИ</c>! <c0066ff>ЗАТИСНИ ТА ПОТЯГНИ</c> <c0066ff>СИНІЙ ДЖОЙСТИК</c> великим пальцем лівої руки, щоб почати рух."
+TID_TUTORIAL_2,Потрібно зібрати все! Це мої <ce662f9>КРИСТАЛИ</c>!
+TID_TUTORIAL_3,Роботи! <ccc0033>ЗАТИСНИ ТА ПОТЯГНИ</c> <ccc0033>ЧЕРВОНИЙ ДЖОЙСТИК</c> великим пальцем правої руки для прицілювання та відпусти для пострілу. Знищ усіх роботів!
+TID_TUTORIAL_GOOD_JOB_1,Молодець!
+TID_TUTORIAL_5,"Нові цілі! Можна <ccc0033>НАТИСНУТИ</c> на <ccc0033>ЧЕРВОНИЙ ДЖОЙСТИК</c>, щоб атакувати найближчого ворога. Знищ усіх роботів!"
+TID_TUTORIAL_6,"А зараз використай Супер, щоб атакувати боса за стіною! <cff9900>ЗАТИСНИ ТА ПОТЯГНИ</c> <cff9900>ЖОВТИЙ ДЖОЙСТИК</c> для прицілювання та відпусти для пострілу!"
+TID_TUTORIAL_555,"Відмінно, провадь у тім самім дусі!"
+TID_TUTORIAL_7,"Молодець! <ce662f9>КРИСТАЛИ</c> в нас, тепер давай на вихід!"
+TID_TUTORIAL_8,"Завдаючи шкоди ворогу, ти заряджаєш свій Супер. Використовуй <cff9900>жовтий джойстик</c> для атаки за допомогою Супера!"
+TID_TUTORIAL_9,Ти природжений боєць!\n\nА тепер задай їм усім жару!
+TID_TUTORIAL_10,"Коли ти вражаєш цілі, Супер заряджається. Зараз він заряджений повністю!\nТисни на кнопку Супера!"
+TID_TUTORIAL_11,"<cff6633>Помаранчеві смужки</c> показують кількість твоїх боєприпасів. Перезаряджатиму так швидко, як зможу!"
+TID_FIGHT_TUTORIAL,ГРАТИ
+TID_HERO_SCORE_INFO,"Збирай цим бійцем трофеї, перемагаючи в боях проти інших гравців.\n\nЗібравши <PROGRESS> трофеїв, боєць отримає новий ранг і <COINS> жетонів."
+TID_HERO_SCORE_INFO_LEG_TROS,"Збирай цим бійцем трофеї, перемагаючи в боях проти інших гравців.\n\nЗібравши <PROGRESS> трофеїв, боєць отримає новий ранг, <COINS> жетонів і <cff00ff><LEGTROS> зоряних очок.</c>"
+TID_HERO_SCORE_INFO_MAXED,Найвищий ранг!\n\n
+TID_XP_INFO_ME,Рівень твого досвіду.\n\nОтримуй досвід у боях. Очок досвіду до отримання <LEVEL>-го рівня та <COINS> жетонів: <REMPROGRESS>.
+TID_XP_INFO_OTHER,Рівень досвіду цього гравця
+TID_TUTORIAL_WIN_ONE_GAME_PROMPT,"ЗІГРАЙ ОДИН ТРЕНУВАЛЬНИЙ БІЙ, ЩОБ ВІДКРИТИ ГРУ ПОВНІСТЮ"
+TID_SOCIAL_TAB_CLANS,КЛУБ
+TID_SOCIAL_TAB_FRIENDS,ДРУЗІ
+TID_FRIEND_STATUS_YOU,<EMPTY>
+TID_FRIEND_STATUS_OFFLINE,<EMPTY>
+TID_FRIEND_STATUS_BATTLE,<cffffff>бій</c> іде <TIME>
+TID_FRIEND_STATUS_BATTLE_END_SCREEN,<cffffff>екран закінчення бою</c>
+TID_FRIEND_STATUS_SPECTATING,<cffffff>спостерігає</c>
+TID_FRIEND_STATUS_PRACTICING,<cffffff>тренується</c>
+TID_FRIEND_STATUS_MATCHMAKE,<cffffff>у підборі супротивників
+TID_FRIEND_STATUS_HOME_AD_FULL,<cffffff>у команді</c>
+TID_FRIEND_STATUS_HOME_WITH_AD,<cffffff>у команді</c>
+TID_FRIEND_STATUS_HOME_IN_GAMEROOM,<cffffff>у команді</c>
+TID_FRIEND_STATUS_BATTLE_NO_TIME,<cffffff>бій</c>
+TID_FRIEND_STATUS_MENUS,меню
+TID_FRIEND_STATUS_HOME_NO_GAMEROOM,<EMPTY>
+TID_ONLINE_FRIENDS_POPUP_TITLE_INVITE,ГРАЙ У КОМАНДІ!
+TID_ONLINE_FRIENDS_POPUP_TITLE,ГРАВЦІ В МЕРЕЖІ
+TID_ONLINE_FRIENDS_POPUP_NO_ONLINE_FRIENDS,Друзі чи учасники клубу зараз не в мережі
+TID_ONLINE_FRIENDS_POPUP_NO_FRIENDS,"Немає друзів чи учасників клубу, яких можна було б запросити. Хтось відмінно проявив себе в нещодавньому бою? Додай їх у друзі!"
+TID_CLAN_CREATE_BUTTON,СТВОРИТИ
+TID_CLAN_SAVE_BUTTON,ЗБЕРЕГТИ
+TID_CLAN_CREATE_TITLE,СТВОРИТИ НОВИЙ КЛУБ
+TID_CLAN_MEMBER_ONLINE_STATUS_OFFLINE_LESS_THAN_HOUR,У мережі <cf7f7f7><less_than_h_ago></c>
+TID_LESS_THAN_H_AGO,менш ніж годину тому
+TID_CLAN_MEMBER_ONLINE_STATUS_OFFLINE_HOURS,У мережі <cf7f7f7><HOURS> г. тому</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_OFFLINE_DAYS,У мережі <cf7f7f7><DAYS> д. тому</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_OFFLINE_LONG,У мережі <cf7f7f7>більше міс. тому</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_1,<cff1e00>БІЙ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_2,<cffffff>МЕНЮ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_3,<cffffff>МЕНЮ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_4,<cff1e00>ПІДБІР СУПРОТИВНИКІВ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_5,<cffffff>МЕНЮ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_7,<cff1e00>СПОСТЕРЕЖЕННЯ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_8,<cff1e00>ТРЕНУВАННЯ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_9,<cffffff>МЕНЮ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_10,<cffffff>МЕНЮ</c>
+TID_CLAN_MEMBER_ONLINE_STATUS_11,<cffffff>МЕНЮ</c>
+TID_CLAN_ENTRY_ONLINE_MEMBERS,<COUNT> уч. у мережі
+TID_CLAN_ENTRY_ONLINE_MEMBER,<COUNT> уч. у мережі
+TID_ALLIANCE_TYPE_OPEN,Відкритий
+TID_ALLIANCE_TYPE_INVITE_ONLY,За запрошеннями
+TID_ALLIANCE_TYPE_CLOSED,Закритий
+TID_CLAN_SEARCH_TITLE,ШУКАТИ КЛУБ
+TID_CLAN_INTRO_AD_TITLE,ШУКАЄШ КЛУБ?
+TID_CLAN_INTRO_AD_DESC,Грай і спілкуйся з іншими гравцями!
+TID_CLAN_INTRO_CREATE_GO,СТВОРИТИ КЛУБ
+TID_CLAN_INTRO_SEARCH_GO,ШУКАТИ КЛУБ
+TID_CLAN_INTRO_REFRESH,ОНОВИТИ
+TID_CLAN_NOT_ENOUGH_SCORE_TO_JOIN,"Кількість трофеїв, необхідних для вступу в цей клуб: <REQ>. Кількість твоїх трофеїв: <SCORE>."
+TID_CLAN_CANNOT_JOIN_CLOSED_CLAN,Це закритий клуб
+TID_STREAM_ENTRY_AGE,<time> тому
+TID_ALLIANCE_ROLE_LEADER,Президент
+TID_ALLIANCE_ROLE_CO_LEADER,Віцепрезидент
+TID_ALLIANCE_ROLE_MEMBER,Учасник
+TID_ALLIANCE_ROLE_ELDER,Ветеран
+TID_STREAM_SENDER_YOU,Ти
+TID_GOLDRUSH_1,Рокова шахта
+TID_BANKHEIST_1,Сховок бандитів
+TID_WANTED_1,Руїни храму
+TID_BATTLE_ROYALE_1,Озеро мерців
+TID_GOLDRUSH_2,Кришталевий грот
+TID_BANKHEIST_2,Пороховий каньйон
+TID_WANTED_2,Табір бандитів
+TID_BATTLE_ROYALE_2,Обпалений камінь
+TID_GOLDRUSH_3,Печера поганок
+TID_BANKHEIST_3,Надійне укриття
+TID_WANTED_3,Кам'яний форт
+TID_BATTLE_ROYALE_3,Бійка в Рокуоллі
+TID_WANTED_4,Пастка з поганок
+TID_GOLDRUSH_4,Кам'яний форт
+TID_WANTED_5,Кристальна виробка
+TID_GOLDRUSH_5,Підрив
+TID_WANTED_6,Зміїні степи
+TID_WANTED_7,Падуча зірка
+TID_GOLDRUSH_6,Облога
+TID_GOLDRUSH_7,Студена печера
+TID_BATTLE_ROYALE_4,Все або нічого
+TID_WANTED_8,Укриття
+TID_BANKHEIST_4,Дикий Захід
+TID_CLAN_MEMBERS_ONLINE,Учасників у мережі: <COUNT>/<TOTAL>
+TID_CLAN_TOTAL_TROPHIES,Трофеї клубу
+TID_CLAN_SEARCH_OK,ШУКАТИ
+TID_CLAN_INFO_NAME,НАЗВА КЛУБУ
+TID_CLAN_INFO_BADGE,ЗНАЧОК
+TID_CLAN_INFO_DESC,ОПИС
+TID_CLAN_INFO_TOTAL_TROPHIES,ТРОФЕЇ КЛУБУ
+TID_CLAN_INFO_TYPE,ТИП
+TID_CLAN_INFO_TAG,Тег клубу
+TID_CLAN_INFO_MIN_TROPHIES,НЕОБХІДНІ ТРОФЕЇ
+TID_CLAN_INFO_LEAVE,ВИЙТИ
+TID_CLAN_INFO_SETTINGS,НАЛАШТУВАННЯ
+TID_CLAN_INFO_JOIN,ВСТУПИТИ
+TID_CLAN_INFO_MESSAGE,Повідомлення
+TID_CLAN_INFO_REQUEST_JOIN,Попросити прийняти
+TID_CLAN_SEARCH_NO_RESULTS,Клуб не знайдений
+TID_CLAN_SEARCH_INITIAL,Пустий рядок пошуку
+TID_CLAN_INFO_MEMBERS,Учасники:
+TID_CLAN_INFO_SELECT_BADGE,ВИБРАТИ
+TID_SELECT_BADGE,ВИБЕРИ ЗНАЧОК
+TID_ALLIANCE_CREATE_OK,Клуб успішно створений
+TID_CLAN_CHANGE_SETTINGS_TITLE,НАЛАШТУВАННЯ КЛУБУ
+TID_TITLE_ALLIANCE,Інформація про клуб
+TID_ALLIANCE_LEFT,Ти покидаєш клуб
+TID_CLAN_MEMBER_DEMOTE,Понизити
+TID_CLAN_MEMBER_PROMOTE,Підвищити
+TID_CLAN_MEMBER_KICK,Вигнати
+TID_CLAN_MEMBER_VIEW_ALLIANCE,Подивитися клуб
+TID_BUTTON_INVITE,ЗАПРОСИТИ
+TID_PLAYER_INFO_GOTO_CLAN,Подивитися клуб
+TID_PLAYER_INFO_HEROES,Бійці (<FOUND>/<TOTAL>)
+TID_SELECT_PLAYER_THUMBNAIL,ВИБРАТИ ІКОНКУ
+TID_SELECT_PLAYER_THUMBNAIL_FAIL_2,Ця іконка відкриється після досягнення <LEVEL>-го рівня досвіду
+TID_SELECT_PLAYER_THUMBNAIL_FAIL_3,"Щоб розблокувати іконку, необхідно <TROPHIES> трофеїв"
+TID_PLAYER_INFO_WINS_AMOUNT,Перемоги: <AMOUNT>
+TID_PLAYER_INFO_STATS_HEADER,ПОКАЗНИКИ
+TID_PLAYER_STAT_1,ПЕРЕМОГ 3 НА 3
+TID_PLAYER_STAT_4,МАКСИМУМ ТРОФЕЇВ
+TID_PLAYER_STAT_12,ПРОЙДЕНИЙ РІВЕНЬ БОЮ З БОСОМ
+TID_PLAYER_STAT_13,МАКСИМУМ ОЧОК У СИЛОВІЙ ГОНЦІ
+TID_PLAYER_STAT_14,НАЙКРАЩЕ МІСЦЕ В СИЛОВІЙ ГОНЦІ
+TID_PLAYER_STAT_8,ОДИНОЧНИХ ПЕРЕМОГ
+TID_PLAYER_STAT_10,НАЙКРАЩИЙ ЧАС МЕГАБІЙЦЯ
+TID_PLAYER_STAT_9,НАЙКРАЩИЙ ЧАС У РОБОРУБЦІ
+TID_PLAYER_STAT_11,ПАРНИХ ПЕРЕМОГ
+TID_NO_CLAN,Не в клубі
+TID_ULTIMATE_NOT_READY,"Завдавай шкоди ворогам, щоб зарядити Супер!"
+TID_CANT_ACTIVATE_ULTI,Полеглий боєць не може активувати Супер!
+TID_NAME_TOO_SHORT,Це ім'я надто коротке
+TID_ALLIANCE_JOINED,Ти тепер у клубі
+TID_COIN_RUSH_INTRO_TEXT,Для перемоги потрібно зібрати 10 кристалів.
+TID_BOUNTY_HUNTER_INTRO_TEXT,"Перемагай бійців, щоб отримати зірки"
+TID_ATTACK_DEFEND_INTRO_TEXT_ATTACK,Зламай ворожий сейф
+TID_ATTACK_DEFEND_INTRO_TEXT_DEFEND,Зламай ворожий сейф
+TID_GO,У БІЙ!
+TID_ALLIANCE_LEAVE_CONFIRMATION_TITLE,ПІДТВЕРДИТИ ВИХІД
+TID_ALLIANCE_LEAVE_CONFIRMATION,\n\nТочно хочеш вийти з клубу?
+TID_ALLIANCE_LEAVE_CONFIRMATION_LEAVE,ВИЙТИ
+TID_ALLIANCE_PROMOTE_TITLE,Підтвердити підвищення
+TID_ALLIANCE_PROMOTE_CONFIRMATION,Точно хочеш підвищити гравця <NAME> до звання «<ROLE>»?
+TID_ALLIANCE_PROMOTE_BUTTON,Підвищити
+TID_ALLIANCE_KICK_TITLE,Підтвердити вигнання
+TID_ALLIANCE_KICK_CONFIRMATION,Точно хочеш виключити з клубу гравця <NAME>?
+TID_ALLIANCE_KICK_BUTTON,Вигнати
+TID_ALLIANCE_DEMOTE_TITLE,Підтвердити пониження
+TID_ALLIANCE_DEMOTE_CONFIRMATION,Точно хочеш понизити гравця <NAME> до звання «<ROLE>»?
+TID_ALLIANCE_DEMOTE_BUTTON,Понизити
+TID_CLAN_RESPONSE_10,Налаштування збережені
+TID_CLAN_RESPONSE_20,Клуб створений
+TID_CLAN_RESPONSE_21,Не вдалося створити клуб. Спробуй пізніше.
+TID_CLAN_RESPONSE_22,Така назва неприпустима!
+TID_CLAN_RESPONSE_23,Такий опис неприпустимий!
+TID_CLAN_RESPONSE_24,Назва надто коротка!
+TID_CLAN_RESPONSE_40,Ти тепер у клубі
+TID_CLAN_RESPONSE_42,Вступити не вдалося: у клубі немає місця.
+TID_CLAN_RESPONSE_43,Вступити не вдалося: це не відкритий клуб.
+TID_CLAN_RESPONSE_45,"Вступити не вдалося: щоб вступити в цей клуб, потрібно більше трофеїв."
+TID_CLAN_RESPONSE_46,Вступити не вдалося: можливість вступу в цей клуб заблокована через раніше відхилений запит чи виключення.
+TID_CLAN_RESPONSE_47,Вступити не вдалося: перевищено ліміт на сьогодні. Можливість вступу в клуб заблокована до завтра.
+TID_CLAN_RESPONSE_48,Вступити не вдалося: не можна вступити в клуб в іншому регіоні.
+TID_CLAN_RESPONSE_50,Запит на вступ успішно відправлено.
+TID_CLAN_RESPONSE_51,Запит на вступ не було відправлено: клуб більше не приймає запити.
+TID_CLAN_RESPONSE_52,Запит на вступ не було відправлено: попередній запит у цей клуб ще не розглянуто.
+TID_CLAN_RESPONSE_53,"Запит на вступ не було відправлено: щоб вступити в цей клуб, потрібно більше трофеїв."
+TID_CLAN_RESPONSE_54,Запит на вступ неможливий: можливість вступу в цей клуб заблокована через раніше відхилений запит або виключення.
+TID_CLAN_RESPONSE_55,Запит на вступ неможливий: не можна вступити в клуб в іншому регіоні.
+TID_CLAN_RESPONSE_70,Гравець вигнаний
+TID_CLAN_RESPONSE_80,Клуб покинутий
+TID_CLAN_RESPONSE_81,Підвищення успішне
+TID_CLAN_RESPONSE_82,Пониження успішне
+TID_CLAN_RESPONSE_90,Гравець прийнятий
+TID_CLAN_RESPONSE_91,Гравець не прийнятий
+TID_CLAN_RESPONSE_92,Прийняти не вдалося: гравець уже в клубі.
+TID_CLAN_RESPONSE_93,Дія не вдалася: запит не знайдений.
+TID_CLAN_RESPONSE_94,Дія не вдалася: запит уже було розглянуто.
+TID_CLAN_RESPONSE_95,Дія не вдалася: недостатньо прав.
+TID_CLAN_RESPONSE_96,Прийняти не вдалося: гравець заблокований у цьому клубі.
+TID_CLAN_RESPONSE_100,Тебе виключили з клубу
+TID_CLAN_RESPONSE_101,Тебе підвищили в званні
+TID_CLAN_RESPONSE_102,Тебе понизили в званні
+TID_CLAN_RESPONSE_112,Листа клубу можна надіслати через <TIME>
+TID_CLAN_RESPONSE_113,Лист клубу відправлено
+TID_CLAN_NO_RIGHTS,Недостатньо прав для вчинення цієї дії
+TID_ALLIANCE_NAME_TOO_SHORT,Назва клубу надто коротка
+TID_CLAN_JOIN_REQUEST_TITLE,Попросити прийняти в клуб
+TID_CLAN_JOIN_REQUEST_SEND,Відправити
+TID_CLAN_JOIN_REQUEST_DEFAULT_MESSAGE,Я хочу вступити у ваш клуб...
+TID_CLAN_JOIN_REQUEST_ENTRY_TITLE,Прийняти цього гравця в клуб?
+TID_CLAN_JOIN_REQUEST_ENTRY_ACCEPT,Прийняти
+TID_CLAN_JOIN_REQUEST_ENTRY_REJECT,Відхилити
+TID_CLAN_JOIN_REQUEST_ENTRY_ACCEPTED_BY,Прийнято гравцем <name>
+TID_CLAN_JOIN_REQUEST_ENTRY_REJECTED_BY,Відхилено гравцем <name>
+TID_HINT_DRAG_TO_AIM,Затисни та потягни для прицілювання
+TID_HINT_RELEASE_TO_SHOOT,Відпусти для пострілу
+TID_HINT_ACTIVATE_ULTI,Затисни та потягни <cff9900>ЖОВТИЙ ДЖОЙСТИК</c> для наведення Супера на ціль!
+TID_HINT_DRAG_TO_ULTI,Затисни та потягни для наведення СУПЕРА на ціль і відпусти для пострілу!
+TID_HINT_COLLECT_GOLD,Полеглий боєць втрачає <ce662f9>КРИСТАЛИ</c>
+TID_HINT_HOLD_GOLD,Не втрать свої <ce662f9>КРИСТАЛИ</c>!
+TID_HINT_GO_AFTER_ENEMY,У погоню за ворогом!
+TID_HINT_ATTACK_BASE,Зламай сейф ворога та захисти свій власний!
+TID_HINT_DEFEND_BASE,Зламай сейф ворога та захисти свій власний!
+TID_HINT_SHOOT_ENEMIES,"Перемагай ворогів, щоб отримати зірки."
+TID_HINT_YOU_ARE_WINNING,Твоя команда перемагає! Захищайся!
+TID_HINT_YOU_ARE_LOSING,Твоя команда програє! Переходь у напад!
+TID_HINT_TAP_TO_MOVE,Натисни для переміщення.\nТримайся поруч із командою.
+TID_BOUNTY_1,<EMPTY>
+TID_BOUNTY_2,Бережися: за твою голову призначена велика нагорода!
+TID_BOUNTY_3,Бережися: за твою голову призначена величезна нагорода!
+TID_BOUNTY_4,Розшукується живим або мертвим!
+TID_NO_CLAN_TITLE,Знайти клуб
+TID_NO_CLAN_BODY,"Вступи в клуб, щоб спілкуватися та грати з класними людьми!"
+TID_NO_CLAN_SUGGESTIONS,Рекомендовані клуби
+TID_NO_CLAN_RESULTS,Результати пошуку
+TID_NO_CLAN_EMPTY,Рекомендованих клубів немає :-(
+TID_NO_CLAN_WAITING_FOR_DATA,Чекаємо дані...
+TID_CONNECTING_TO_SERVER,Під'єднання до сервера...
+TID_TEAM_ADVERTISE,РОЗПОВІСТИ
+TID_TEAM_AD_BUTTON_SUBLABEL_CLAN,клубу
+TID_TEAM_AD_BUTTON_SUBLABEL_FRIENDS,друзям
+TID_TEAM_AD_INFO_0,Розшукуються гравці для командної гри
+TID_TEAM_AD_JOIN,Вступити в команду
+TID_TEAM_AD_JOIN_FAIL_ALREADY_IN_A_TEAM,Не можна вступити. Ти вже в команді.
+TID_TEAM_MEMBER_STATUS_0,<c999999>НЕ В МЕРЕЖІ</c>
+TID_TEAM_MEMBER_STATUS_1,<cff1e00>БІЙ</c>
+TID_TEAM_MEMBER_STATUS_2,<c006cff>НЕМАЄ НА МІСЦІ</c>
+TID_TEAM_MEMBER_STATUS_3,<c999999>ГРАВЕЦЬ НЕ ГОТОВИЙ</c>
+TID_TEAM_MEMBER_STATUS_4,<cff1e00>ПІДБІР СУПРОТИВНИКІВ</c>
+TID_TEAM_MEMBER_STATUS_5,<cff1e00>ЕКРАН ЗАКІНЧЕННЯ</c>
+TID_TEAM_MEMBER_STATUS_6,<c999999>НЕ В МЕРЕЖІ</c>
+TID_TEAM_MEMBER_STATUS_7,<cff1e00>СПОСТЕРЕЖЕННЯ</c>
+TID_TEAM_MEMBER_STATUS_8,<cff1e00>ТРЕНУВАННЯ</c>
+TID_TEAM_MEMBER_STATUS_9,<c999999>ДРУКУЄ...</c>
+TID_TEAM_MEMBER_STATUS_10,<c999999>БІЙЦІ</c>
+TID_TEAM_MEMBER_STATUS_11,<c999999>ПОДІЇ</c>
+TID_TEAM_MEMBER_STATUS_READY,<c2edd1b>ГОТОВО!</c>
+TID_TEAM_STATUS_IN_MATCH,БІЙ
+TID_TEAM_STATUS_IN_MATCHMAKING,ПІДБІР СУПРОТИВНИКІВ
+TID_TEAM_STATUS_FULL,<cff1e00>ЗАПОВНЕНА</c>
+TID_TEAM_STATUS_WAITING_FOR_PLAYERS,ВІДКРИТА
+TID_TEAM_AD_POST_FAIL_NOT_IN_ALLIANCE,Для використання цієї можливості потрібно бути в клубі.
+TID_TEAM_AD_POST_FAIL_NO_FRIENDS,Для використання цієї можливості потрібні друзі.
+TID_TEAM_AD_POST_FAIL_TEAM_FULL,Не можна розповісти. Команда вже набрана.
+TID_TEAM_AD_POST_FAIL_NOT_CRETOR,Це може зробити тільки творець команди.
+TID_TEAM_LOC_INFO,<MODE> в <LOC>
+TID_TEAM_DISPLAY_TITLE_EVENT,КОМАНДИ
+TID_STREAM_EVENT_1,<target> виключається з клубу гравцем <sender>. Бувай!
+TID_STREAM_EVENT_2,<target> приймається в клуб гравцем <sender>. Ласкаво просимо!
+TID_STREAM_EVENT_3,<sender> вступає в клуб! Ласкаво просимо!
+TID_STREAM_EVENT_4,<sender> покидає клуб! Бувай!
+TID_STREAM_EVENT_5,<target> підвищується в званні гравцем <sender>. Вітаємо!
+TID_STREAM_EVENT_6,<target> понижається в званні гравцем <sender>. Нічого особистого!
+TID_STREAM_EVENT_101,Команда створена гравцем <sender>
+TID_STREAM_EVENT_102,<sender> приєднується
+TID_STREAM_EVENT_103,<sender> покидає
+TID_STREAM_EVENT_104,<sender> виключається гравцем <target>. Бувай!
+TID_STREAM_EVENT_105,розпочався підбір супротивників
+TID_STREAM_EVENT_106,підбір супротивників скасований
+TID_STREAM_EVENT_107,гра розпочалася
+TID_STREAM_EVENT_108,гра виграна
+TID_STREAM_EVENT_109,гра програна
+TID_STREAM_EVENT_110,тренування розпочалося
+TID_STREAM_EVENT_111,тренування закінчилося
+TID_STREAM_EVENT_112,гра закінчилася нічиєю
+TID_STREAM_EVENT_113,зіткнення закінчено
+TID_CHAT_BOTTOM_BUTTON,Прокрутити вниз
+TID_CHAT_BOTTOM_NEW_MESSAGES,Нових повідомлень: <count>
+TID_CHAT_BOTTOM_NEW_MESSAGE,Нове повідомлення!
+TID_HERO_INFO_UPGRADE_TITLE,<c<COLOR>><NAME></c>
+TID_HERO_INFO_UPGRADE_INFO,Поліпшити до <LVL>-го рівня
+TID_HERO_INFO_ITEMS,ПОЛІПШЕННЯ
+TID_HERO_INFO_SKINS,БОЄЦЬ
+TID_HERO_INFO_SKIN_OWNED,У тебе є цей скін
+TID_HERO_INFO_SKIN_ACTIVE,ВИБРАНИЙ
+TID_HERO_INFO_SKIN_ACTIVATE,ВИБРАТИ
+TID_HERO_INFO_LEADERBOARD,Список лідерів
+TID_HERO_INFO_LEADERBOARD_LABEL,<HERO>: найкращі гравці
+TID_HERO_INFO_ABILITY_POWER,<BASEPOW>
+TID_HERO_INFO_ABILITY_POWER_UPG,<BASEPOW> <c00ff00>+<UPGPOW></c>
+TID_CLAN_SEARCH_GO,ШУКАТИ
+TID_CANT_DEACTIVATE_ULTI_DURING_TUTORIAL,Затисни та потягни для наведення Супера на ціль!
+TID_HINT_SHOOT,"Затисни та потягни для прицілювання, відпусти для пострілу."
+TID_HERO_SCORE_SUM_LEADERBOARD,Найкращі гравці
+TID_ALLIANCE_LEADERBOARD,Найкращі клуби
+TID_HINT_MAKE_GOAL,"Затисни та потягни для прицілювання та відпусти, щоб ударити м'яч."
+TID_BATTLE_ROYALE_INTRO_TEXT,Бій на виживання!
+TID_HINT_COLLECT_BUFFS,"Щоб стати сильнішим, збирай <c50d050>кубики посилень</c>\nзі скринь і забирай у переможених ворогів!"
+TID_PLAYERS_LEFT,Залишилося бійців: <num>
+TID_AVOID_POISON,"Тримайся подалі від <c90ee90>отруйних хмар</c>, що підступають!"
+TID_CLAN_CREATE_COOLDOWN,Створення клубу ще неможливо. Спробуй знову через <TIME>
+TID_CLAN_CREATE_XP_LEVEL_REQUIRED,"Щоб створити клуб, потрібно досягти <LEVEL>-го рівня досвіду."
+TID_PLAYER_DATA_MISSING,Немає даних про гравця
+TID_ALLIANCE_DATA_MISSING,Немає даних про клуб
+TID_BATTLE_END_PLAYER_NAME_YOU,<c00ff00><NAME></c>
+TID_BATTLE_END_PLAYER_NAME_OTHER,<NAME>
+TID_RECHARGE_HINT,Дочекайся перезарядки!
+TID_EVENT_EXPIRED,"Час, відведений для події, сплинув."
+TID_DOUBLE_COINS_INFO,За бій тут можна отримати вдвічі більше жетонів
+TID_DOUBLE_XP_INFO,За бій тут можна отримати вдвічі більше досвіду
+TID_SETTINGS_TITLE,НАЛАШТУВАННЯ
+TID_SETTINGS_CONTROL_MODE_TITLE,РЕЖИМ КЕРУВАННЯ
+TID_SETTINGS_CONTROL_MODE_VALUE_0,"Натисни, щоб розпочати рух"
+TID_SETTINGS_CONTROL_MODE_INFO_0,"Натисни на область екрану, щоб відправити туди бійця. Затисни та потягни для прицілювання, відпусти для пострілу."
+TID_SETTINGS_CONTROL_MODE_VALUE_1,Керування джойстиком (для правші)
+TID_SETTINGS_CONTROL_MODE_INFO_1,"Пересувайся за допомогою віртуального джойстика в лівому нижньому кутку. Торкнися цілі, щоб вистрілити."
+TID_SETTINGS_CONTROL_MODE_VALUE_2,Керування джойстиком (для шульги)
+TID_SETTINGS_CONTROL_MODE_INFO_2,"Пересувайся за допомогою віртуального джойстика в правому нижньому кутку. Торкнися цілі, щоб вистрілити."
+TID_CHANGE_NAME_TITLE,ЗМІНИТИ ІМ'Я
+TID_SETTINGS_PLAYERNAME_CURRENT,Нинішнє ім'я:
+TID_SETTINGS_PLAYERNAME_ENTERNEW,Введи нове ім'я:
+TID_ERROR_NAMES_DONT_MATCH,"Імена не збігаються. Будь ласка, спробуй знову."
+TID_CONTINUE,Продовжити
+TID_NAMECHANGE_WARNING,УВАГА: змінити ім'я можна тільки ОДИН РАЗ.
+TID_CONFIRM,Підтвердити
+TID_INVALID_NAME,Неприпустиме ім'я! Спробуй яке-небудь інше.
+TID_SETTINGS_PLAYERNAME_REENTERNEW,Введи нове ім'я ще раз:
+TID_NAME_ALREADY_CHANGED,Змінити ім'я можна тільки один раз.
+TID_NAME_CHANGE_ALREADY_USED,Твоє ім'я вже було одного разу змінено.
+TID_NAME_CHANGED_SUCCESS,Ім'я змінене!
+TID_NAME_CHANGE_IN_PROGRESS,Неможливо змінити ім'я. Попередня зміна ще не закінчена.
+TID_NAME_CHANGE_EXP_LEVEL_TOO_LOW,Зміна імені доступна після досягнення <level>-го рівня досвіду.
+TID_CONFIRM_CONFIRM,"Будь ласка, введи \q<confirmword>\q та натисни кнопку «OK» для завершення дії"
+TID_CONFIRM_WORD,ПІДТВЕРДИТИ
+TID_SETTINGS_PLAYERNAME_CONFIRM_NEW,Точно хочеш змінити ім'я?\nНове ім'я:
+TID_BUTTON_CONFIRM,OK
+TID_EVENTS_TIME,<cFFFFFF><TIME></c>
+TID_EVENTS_TEASER_TIME,<TIME>
+TID_EVENTS_TIME_ENDING,<cFFFF00><TIME></c>
+TID_EVENTS_TIME_ENDING_SOON,<cff0000><TIME></c>
+TID_EVENTS_NEXT_EVENT_STARTING_AT,Нова подія через
+TID_EVENTS_TIME_LEFT,Залишилося
+TID_EVENTS_NEW,НОВЕ!
+TID_EVENTS_PRO_LEAGUE_REQ,"Щоб розблокувати, отримай зоряну силу для бійця"
+TID_EVENTS_FREE_REWARD,<AMOUNT>
+TID_EVENTS_XP_CAP_REACHED,Весь досвід отриманий
+TID_EVENTS_EVENT_LOCKED,ЗАБЛОКОВАНО
+TID_EVENTS_TROPHY_REQ,"Щоб розблокувати, збери <c00ffff><COUNT></c> трофеїв"
+TID_GAME_STARTING,<LOCATION>: тут незабаром розпочнеться гра. Приєднуйся!
+TID_WEEKEND_EVENT,Подія з подвійним досвідом
+TID_PLAYER_KILLED_SOMEONE,<name>
+TID_SHOP_TEMPORARILY_DISABLED,Крамниця тимчасово зачинена.
+TID_GATCHA_TEMPORARILY_DISABLED,Ящики тимчасово недоступні.
+TID_SHOP_WELCOME_TITLE,ЛАСКАВО ПРОСИМО В КРАМНИЦЮ!
+TID_SHOP_WELCOME,Нові розділи крамниці будуть відкриватися у міру твого просування в грі!\n\nНе забувай заглядати частіше!
+TID_SHOP_SPECIAL_OFFER,ОСОБЛИВА АКЦІЯ
+TID_SHOP_COIN_BOOSTERS,ПРИСКОРЮВАЧІ
+TID_SHOP_GEM_PACKS,КРИСТАЛИ
+TID_SHOP_PURCHASED,Куплено
+TID_SHOP_OBTAINED,Придбано
+TID_SHOP_INVALIDATED,Термін минув
+TID_SHOP_ACTIVE,Діє
+TID_SHOP_DOUBLE_COINS_TITLE,ПОДВОЮВАЧ ЖЕТОНІВ
+TID_SHOP_DOUBLE_COINS_INFO,Подвоїть наступні
+TID_SHOP_DOUBLE_COINS_INFO_2,зароблених тобою в боях
+TID_SHOP_DOUBLE_COINS_INFO_COMBINED,Наступні зароблені в бою жетони (<AMOUNT>) подвоюються.
+TID_SHOP_DOUBLE_COINS_COINS_REMAINING,Ще жетонів:
+TID_SHOP_DOUBLE_COINS_PURCHASE_ERROR_2,Бракує кристалів
+TID_SHOP_OFFER_PURCHASE_ERROR_3,Ці предмети вже куплені.
+TID_SHOP_OFFER_PURCHASE_ERROR_4,Неможливо придбати. У тебе вже є щось із пропонованих предметів.
+TID_SHOP_OFFER_TITLE,Обмежена пропозиція!
+TID_SHOP_GEM_PACK_1_TITLE,Жменя кристалів
+TID_SHOP_GEM_PACK_2_TITLE,Мішечок кристалів
+TID_SHOP_GEM_PACK_3_TITLE,Ранець кристалів
+TID_SHOP_GEM_PACK_4_TITLE,Відро кристалів
+TID_SHOP_GEM_PACK_5_TITLE,Ящик кристалів
+TID_SHOP_GEM_PACK_6_TITLE,Сейф кристалів
+TID_SHOP_HEROES_OF_RARITY,ГАРАНТОВАНІ БІЙЦІ
+TID_SHOP_HERO_OF_RARITY_TITLE,<c<COLOR>><NAME></c> БОЄЦЬ
+TID_SHOP_HERO_OF_RARITY_BOX,Ящик
+TID_SHOP_HERO_POWER_TITLE,<cffffff>+<AMOUNT></c> СИЛИ
+TID_SHOP_GATCHA_BOXES,ЯЩИКИ
+TID_SHOP_GATCHA_BOX_1,ВЕЛИКИЙ ЯЩИК
+TID_SHOP_GATCHA_BOX_2,ЯЩИК
+TID_SHOP_GATCHA_BOX_3,МЕГАЯЩИК
+TID_SHOP_GATCHA_BOX_PURCHASE_ERROR_3,Купити ящик сьогодні більше не вийде.
+TID_SHOP_TICKETS,КВИТКИ ПОДІЙ
+TID_SHOP_TICKET_PACK_0,Пачка квитків
+TID_SHOP_TICKET_PACK_1,Стопка квитків
+TID_SHOP_TICKET_PACK_2,Котушка квитків
+TID_SHOP_HERO_LVL_UP_MATERIAL_PACKS,МОНЕТИ
+TID_SHOP_HERO_LVL_UP_MATERIAL_PACK_0,Жменя монет
+TID_SHOP_HERO_LVL_UP_MATERIAL_PACK_1,Мішечок монет
+TID_SHOP_HERO_LVL_UP_MATERIAL_PACK_2,Сумка монет
+TID_HERO_LVL_MATERIAL_RECEIVED,Куплено <AMOUNT> монет
+TID_SHOP_DAILY_OFFERS,АКЦІЇ ДНЯ
+TID_SHOP_SKINS,СКІНИ
+TID_SHOP_LEGENDARY_SKINS,ЗОРЯНА КРАМНИЦЯ
+TID_SHOP_STAR_BOXES,ЗОРЯНІ ЯЩИКИ
+TID_SHOP_FREE,ПОДАРУНОК
+TID_SHOP_CLAIM,ЗАБРАТИ
+TID_SHOP_NEW_DAILY_OFFERS_AVAILABLE_IN,<TIME>
+TID_SHOP_TICKETS_AVAILABLE_FOR,<TIME>
+TID_SHOP_DISCOUNT,-<AMOUNT> %
+TID_SHOP_OFFER_TITLE_0,БЕЗКОШТОВНИЙ ЯЩИК
+TID_SHOP_OFFER_TITLE_1,МОНЕТИ
+TID_SHOP_OFFER_TITLE_6,ЯЩИК
+TID_SHOP_OFFER_TITLE_7,КВИТКИ
+TID_SHOP_OFFER_TITLE_8,ОЧКИ СИЛИ
+TID_SHOP_OFFER_TITLE_9,ПОДВОЮВАЧ ЖЕТОНІВ
+TID_SHOP_OFFER_TITLE_10,МЕГАЯЩИК
+TID_SHOP_OFFER_TITLE_12,ОЧКИ СИЛИ
+TID_SHOP_OFFER_TITLE_14,ВЕЛИКИЙ ЯЩИК
+TID_SHOP_OFFER_TITLE_15,ЯЩИК
+TID_SHOP_OFFER_TITLE_16,КРИСТАЛИ
+TID_SHOP_OFFER_DESC_GOLD,Використовуй монети для поліпшення бійців
+TID_SHOP_OFFER_ANY_BRAWLER,ДЛЯ БУДЬ-ЯКОГО\nБІЙЦЯ
+TID_PURCHASE_OFFER_POPUP_TITLE,Підтвердити купівлю
+TID_PURCHASE_OFFER_POPUP_TITLE_FREE,Безкоштовна нагорода
+TID_SHOP_OFFER_NEW_HERO_LABEL,БОЄЦЬ
+TID_SHOP_OFFER_NEW_SKIN_LABEL,СКІН
+TID_SHOP_OFFER_HERO_POWER_TITLE,ОЧКИ СИЛИ
+TID_SHOP_TICKET_PURCHASE_ERROR_4,Неможливо купити. Під час подїї кожен набір можна купити тільки один раз.
+TID_SHOP_OFFER_NEW,НОВЕ
+TID_GATCHA_BOX_TITLE_2,ЯЩИК
+TID_GATCHA_BOX_TITLE_3,МЕГАЯЩИК
+TID_SHOP_HERO_PURCHASE_CONFIRM_LABEL,НОВИЙ БОЄЦЬ
+TID_GATCHA_BOX_INFO_2,"Містить або нового бійця, або зоряну силу, або монети з очками сили для двох бійців. У деяких ящиках можуть попастися бонусні квитки подій чи подвоювач жетонів!"
+TID_GATCHA_BOX_INFO_3,"У\n\n<AMOUNT> р. більше, ніж звичайний ящик!"
+TID_SHOP_OFFER_INFO_0,Безкоштовно. Яка удача!
+TID_SHOP_OFFER_INFO_1,Монети: <AMOUNT>. Використовуй монети для поліпшення бійців.
+TID_SHOP_OFFER_INFO_2,Буде розблокований один випадковий <RARITY> боєць!
+TID_SHOP_OFFER_INFO_3,Розблокуй нового бійця!
+TID_SHOP_OFFER_INFO_6,"У ящику можуть опинитися бійці, очки сили, монети та не тільки!"
+TID_SHOP_OFFER_INFO_7,Квитки подій: <AMOUNT>. Використовуй їх для гри в подіях за квитками.
+TID_SHOP_OFFER_INFO_8,"Очки сили: <AMOUNT>. Збирай очки сили, щоб розблокувати поліпшення для бійця!"
+TID_SHOP_OFFER_INFO_9,Наступні отримані в бою жетони (<AMOUNT>) подвоюються!
+TID_SHOP_OFFER_INFO_10,"У мегаящику вдесятеро більше предметів, ніж у звичайному!"
+TID_SHOP_OFFER_INFO_12,Вибери бійця для отримання очків сили.
+TID_SHOP_OFFER_INFO_13,Розблокуй нову комірку події.
+TID_SHOP_OFFER_INFO_14,"У великому ящику втричі більше предметів, ніж у звичайному!"
+TID_SHOP_OFFER_HOR_NEW,НОВИЙ
+TID_SHOP_OFFER_HOR_RARITY,<c<COLOR>><NAME></c>
+TID_SHOP_OFFER_HOR_BRAWLER,БОЄЦЬ
+TID_SHOP_OFFER_HOR_POPUP_RARITY,НОВИЙ <c<COLOR>><NAME></c>
+TID_SHOP_OFFER_HOR_POPUP_BRAWLER,БОЄЦЬ
+TID_SHOP_SKIN_OFFER,АКЦІЙНИЙ СКІН
+TID_SHOP_OFFER_EXPIRED,Термін дії акції минув.
+TID_SKINS_AD_TITLE,З'ЯВИЛИСЯ НОВІ СКІНИ
+TID_SKINS_AD_OK,ОК
+TID_SKINS_AD_INFO,Подивися на нові скіни на екрані бійців!
+TID_TERMS_OF_SERVICE_BUTTON,Умови користування
+TID_IMMUNE,Несприйнятливий
+TID_BATTLE_END_PROCEED,ДАЛІ
+TID_HINT_TAP_TO_MOVE_1,Збирай <ce662f9>КРИСТАЛИ</c> в центрі карти.
+TID_CANT_DEACTIVATE_ULTI_DURING_TUTORIAL_1,Наведи Супер на ворога!
+TID_HINT_SHOOT_1,<ce662f9>КРИСТАЛИ</c> будуть з'являтися з шахти в центрі!
+TID_HINT_DRAG_TO_ULTI_1,Активуй Супер за допомогою червоного кола!
+TID_BIND_TO_NEW_GAMECENTER_ACCOUNT_TITLE,Новий обліковий запис Game Center
+TID_BIND_TO_NEW_GAMECENTER_ACCOUNT,Хочеш прив'язати свою гру до цього облікового запису Game Center?
+TID_GOOGLE_SERVICE_BOUND_TO_OTHER_ACCOUNT_TITLE,Повідомлення облікового запису Google
+TID_GOOGLE_SERVICE_BOUND_TO_OTHER_ACCOUNT,Завантажити дані гравця <name> з <number>-м рівнем досвіду? Увага: поточні досягнення будуть утрачені.
+TID_BOUND_TO_OTHER_ACCOUNT_LOAD_VILLAGE_TITLE,Завантажити гру?
+TID_BUTTON_VILLAGE_LOAD,Завантаження
+TID_GAMECENTER_BOUND_TO_OTHER_ACCOUNT_TITLE,Повідомлення Game Center
+TID_GAMECENTER_BOUND_TO_OTHER_ACCOUNT,Завантажити дані гравця <name> з <number>-м рівнем досвіду? Увага: поточні досягнення будуть утрачені.
+TID_BUTTON_AVATAR_LOAD,Завантаження
+TID_SETTINGS_SCREEN_TITLE,Налаштування
+TID_SETTINGS_MUSIC,МУЗИКА
+TID_SETTINGS_SFX,ЗВУКОВІ ЕФЕКТИ
+TID_SETTINGS_OFF,ВИМК.
+TID_SETTINGS_ON,УВІМК.
+TID_SETTINGS_LANGUAGE,МОВА
+TID_ACCOUNT,Пристрої
+TID_LINK_DEVICE_BUTTON,Прив'язати пристрій
+TID_SETTINGS_FACEBOOK,ДРУЗІ
+TID_CHANGE_NAME_BUTTON,Змінити ім'я
+TID_CREDITS_BUTTON,Про програму
+TID_PRIVACY_POLICY_BUTTON,Політика конфіденційності
+TID_PARENTS_GUIDE_BUTTON,Довідник для батьків
+TID_MULTIDEVICE_INFO,"Увійди в обліковий запис Game Center, щоб зберегти свої досягнення та грати на різних пристроях iOS."
+TID_SETTINGS_GOOGLE,Вхід у Google Play
+TID_SETTINGS_BUTTON_FACEBOOK_CONNECTED,Під'єднано
+TID_SETTINGS_BUTTON_FACEBOOK_DISCONNECTED,Під'єднання
+TID_SETTINGS_BUTTON_FACEBOOK_CONNECTED_UP,ПІД'ЄДНАНО
+TID_SETTINGS_BUTTON_FACEBOOK_DISCONNECTED_UP,ПІД'ЄДНАТИ
+TID_FAQ_BUTTON,Допомога та підтримка
+TID_ABOUT,"Про програму\n\n<names>\n\nGale Brawl ™ <version>\nАвторські права належать Supercell Ltd., 2016-2019 рр. Усі права захищені.\n<extracopyright>\nБудь-яке використання цього програмного забезпечення регулюється положеннями Умов користування та Політики конфіденційності, доступних за адресою www.supercell.com."
+TID_IAP_TRANSACTION_PENDING,"Будь ласка, зачекай. Операція виконується."
+TID_RATE_APP_TITLE,Оціни Gale Brawl
+TID_RATE_APP_MESSAGE,"Будь ласка, оціни Gale Brawl чи залиш відгук в App Store. Для нас дуже важлива твоя думка!"
+TID_BUTTON_RATE_APP_LATER,Потім
+TID_BUTTON_RATE_APP_REVIEW,Зараз
+TID_BUTTON_RATE_APP_NEVER,Ніколи
+TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE_TITLE,Неможливо розблокувати обліковий запис
+TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE,"Цієї миті розблокувати обліковий запис неможливо. Будь ласка, спробуй пізніше!"
+TID_ERROR_POP_UP_UNLOCK_UNAVAILABLE_BUTTON,Спробувати пізніше
+TID_ACCOUNT_LOCKED_INVALID_CODE,Неправильний код розблокування!
+TID_ACCOUNT_LOCKED_TITLE,Обліковий запис заблокований
+TID_ACCONT_LOCKED_TEXT,Твій обліковий запис заблокований за порушення правил проекту Gale Brawl! Якщо ти думаєш що виникла помилка або хочеш дізнатися причину блокування звернись в телеграмм: @Shuvee_Dev, @linux04
+TID_ACCOUNT_LOCKED_TEXT2,Введи код розблокування:
+TID_HERO_LIST_CONFIRM_GEM_GATCHA,Натисни для підтвердження
+TID_NOT_ENOUGH_GEMS_TITLE,Бракує кристалів
+TID_NOT_ENOUGH_GEMS_INFO,"\n\nУ тебе недостатньо кристалів. Заглянь у крамницю, щоб поповнити запас!"
+TID_NOT_ENOUGH_GEMS_GO_TO_SHOP,У крамницю
+TID_COIN_DOUBLER_TITLE,Купити подвоювач жетонів
+TID_COIN_DOUBLER_TITLE_WITH_COINS,Додати жетони до подвоювача жетонів
+TID_COIN_DOUBLER_INFO,Наступні зароблені в бою жетони (<c2edd1b><AMOUNT></c>) подвоюються.
+TID_COIN_DOUBLER_INFO_WITH_COINS,Додати жетони (<c2edd1b><AMOUNT></c>) до подвоювача жетонів.\n\nПодвоювач жетонів подвоює зароблені в бою жетони.
+TID_GEM_PRICE_OK,<COST>
+TID_GEM_PRICE_WARN,<COST>
+TID_STAT_PER_DYNAMITE,Пошкодження від динамітної шашки
+TID_STARS_1,Бережися: у тебе є <ce662f9>КРИСТАЛ</c>!
+TID_STARS_2,Бережися: у тебе є <ce662f9>КРИСТАЛИ</c>!
+TID_STARS_3,Бережися: у тебе багато <ce662f9>КРИСТАЛІВ</c>!
+TID_STARS_4,Бережися: у тебе тонна <ce662f9>КРИСТАЛІВ</c>!
+TID_GATCHA_BUTTON_TITLE,ЯЩИК
+TID_1ST_WIN_CHEST_BUTTON_TITLE,ВЕЛИКИЙ ЯЩИК
+TID_EVENT_LOCKED,Заблоковано
+TID_SPECIAL_EVENT_TITLE_TOP,ОСОБЛИВА ПОДІЯ:
+TID_SPECIAL_EVENT_STATUS_ACTIVE,активно
+TID_SPECIAL_EVENT_STATUS_FUTURE,початок через
+TID_EVENT_COMING_UP_INFO,Подія розпочнеться через <TIME>
+TID_ROCKET_BEACH_SKIN,ПЛЯЖНИЙ БРОК
+TID_CACTUS_PINK_SKIN_OLD,РОЖЕВИЙ СПАЙК
+TID_SHAMAN_PANDA_SKIN,НІТА-ПАНДА
+TID_CROW_WHITE_SKIN,БІЛИЙ ВОРОН
+TID_BULL_HAIR_SKIN,ВІКІНГ БУЛЛ
+TID_TRICKSHOT_GOLD_SKIN_OLD,ЗОЛОТИЙ МЕДАЛІСТ РИКОШЕТ
+TID_BARKEEP_GOLD_SKIN,ЗОЛОТИЙ БАРЛІ
+TID_GUNSLINGER_ROCKSTAR_SKIN,РОК-ЗІРКА КОЛЬТ
+TID_STAT_HEAL,Лікування
+TID_LUCHADOR_RUDO_SKIN,ЕЛЬ РУДО ПРІМО
+TID_HERO_INFO_PURCHASE_SKIN_LABEL,Купити
+TID_EVENTS_NEW_EVENT,Нова подія!
+TID_SETTINGS_BRAWLHINTS,Бойові підказки
+TID_COLLECTED_COINS_INFO,"Тобою зібрано <CURRENT> жетонів із <MAX>, наявних у режимі «<PLANET>»."
+TID_COLLECTED_COINS_INFO_CAPPED,"Тобою зібрані всі жетони, наявні в режимі «<PLANET>»."
+TID_FIRST_WIN_INFO,Зароби <cff8E1b>зоряний жетон</c> за свою першу перемогу над іншими гравцями.
+TID_TICKET_COUNTER_INFO,"Квитки подій можна знайти в ящику.\n\nВикористовуй квитки, щоб битися тут!"
+TID_NOT_ENOUGH_TICKETS,Бракує квитків
+TID_EVENT_LIST_GAME_ROOMS,НОВА КОМАНДА
+TID_EVENT_LIST_WELCOME,Ласкаво просимо в Gale Brawl!
+TID_COOP,Кооперативний бій
+TID_COOP_NOT_SUPPORTED,У цій події кооперативний бій недоступний
+TID_PRACTISE_NOT_SUPPORTED,У цій події тренування недоступне
+TID_BIND_TO_NEW_FACEBOOK_ACCOUNT_TITLE,Новий обліковий запис Facebook
+TID_BIND_TO_NEW_FACEBOOK_ACCOUNT,Хочеш прив'язати гру до цього облікового запису Facebook?
+TID_BUTTON_OKAY,OK
+TID_SELECT_PLAYER_THUMBNAIL_FAIL_4,Для цієї іконки необхідний боєць <HERO>
+TID_HERO_PORTRAIT_CRAFT_COST,<cffffff><COST></c>
+TID_HERO_PORTRAIT_CRAFT_COST_NEG,<c999999><COST></c>
+TID_EVENT_POPUP_CREATE_TEAM_INFO,Запроси друзів\nі грай разом із ними
+TID_EVENT_POPUP_HIGHSTAKES_INFO,"Можна витратити відразу кілька квитків, і тоді нагорода буде більша."
+TID_EVENT_POPUP_GMV_LABEL_TEAM,3 на 3
+TID_EVENT_POPUP_GMV_LABEL_BATTLE_ROYALE,Бій на виживання
+TID_EVENT_POPUP_GMV_LABEL_BOSS_FIGHT,5 на 1
+TID_EVENT_POPUP_GMV_LABEL_COOP_SURVIVAL,Три гравці проти роботів
+TID_HIGHSTAKES_REWARDS,Нагорода x<COUNT>
+TID_HIGHSTAKES_COST,Квитків: <COUNT>
+TID_POPUP_ANDROID_EXIT_TITLE,Вийти з Gale Brawl?
+TID_POPUP_ANDROID_EXIT,Точно хочеш вийти з Gale Brawl?
+TID_ROOM_NOT_SUPPORTED,У цій події команди недоступні
+TID_ERROR_POP_UP_PURCHASE_FAILED_TITLE,Купівля не вдалася
+TID_ERROR_POP_UP_PURCHASE_FAILED,"Сервер оплати не відповідає. Будь ласка, спробуй пізніше."
+TID_ERROR_POP_UP_PURCHASE_FAILED_BUTTON,ОК
+TID_IAP_NOT_AVAILABLE,"Будь ласка, активуй можливість вбудованих купівель у налаштуваннях обмежень пристрою."
+TID_NEWS_TITLE,НОВИНИ
+TID_STAT_DAMAGE_PER_ARROW,Пошкодження від стріли
+TID_STAT_DAMAGE_PER_MINE,Пошкодження від пастки
+TID_STAT_DAMAGE_PER_SPIKE,Пошкодження від шипа
+TID_STAT_DAMAGE_PER_DAGGER,Пошкодження від кинджала
+TID_FRIENDS_FACEBOOK_CONNECTED,Facebook під'єднаний
+TID_FRIENDS_FACEBOOK_NOT_CONNECTED,"Під'єднайся до Facebook, щоб бачити в грі друзів звідти!"
+TID_FRIENDS_CONNECT_INFO,"Під'єднайся до соцмереж, щоб знайти своїх друзів у грі!"
+TID_FRIENDS_NO_FRIENDS,Друзів немає
+TID_FRIENDS_SUGGESTIONS_SEND_REQUEST,ЗАПРОПОНУВАТИ ДРУЖИТИ
+TID_FRIENDS_TITLE_1_NO_COUNT,ДРУЗІ
+TID_FRIENDS_TITLE_1,ДРУЗІ (<COUNT>)
+TID_FRIENDS_TITLE_2,МОЖЛИВІ ДРУЗІ
+TID_FRIENDS_TITLE_3,ПРОПОЗИЦІЇ ДРУЖИТИ
+TID_FRIEND_SUGGESTIONS_GAMES_PLAYED_MULT,ІГОР РАЗОМ НЕЩОДАВНО: <COUNT>
+TID_FRIEND_SUGGESTIONS_GAMES_PLAYED_ONE,НЕЩОДАВНО ВИ ЗІГРАЛИ ОДНУ ГРУ РАЗОМ
+TID_FRIENDS_NO_ENTRIES_TAB_2,МОЖЛИВИХ ДРУЗІВ НЕМАЄ
+TID_FRIENDS_NO_ENTRIES_TAB_3,ПРОПОЗИЦІЙ ДРУЖИТИ НЕМАЄ
+TID_FRIENDS_CANNOT_REMOVE_FRIEND,Друзів із соціальних мереж видалити не можна.
+TID_FRIEND_REQUEST_ACCEPT,ПРИЙНЯТИ
+TID_FRIEND_REQUEST_REJECT,ВІДХИЛИТИ
+TID_FRIEND_REQUEST_REASON_0,<EMPTY>
+TID_FRIEND_REQUEST_REASON_1,ІЗ КЛУБУ
+TID_FRIEND_REQUEST_REASON_2,ІЗ КОМАНДИ
+TID_FRIEND_REQUEST_REASON_3,ІГОР РАЗОМ НЕЩОДАВНО: <AMOUNT>
+TID_FRIEND_REQUEST_REASON_4,ІГОР РАЗОМ НЕЩОДАВНО: <AMOUNT>
+TID_FRIEND_POPOVER_PROFILE,ПРОФІЛЬ
+TID_FRIEND_POPOVER_REMOVE,ВИДАЛИТИ
+TID_FRIEND_POPOVER_SPECTATE,СПОСТЕРІГАТИ
+TID_FRIEND_POPOVER_YOU,Це ти
+TID_REMOVE_FRIEND_POPUP_REMOVE,ВИДАЛИТИ
+TID_REMOVE_FRIEND_POPUP_CANCEL,СКАСУВАННЯ
+TID_REMOVE_FRIEND_POPUP_TITLE,ВИДАЛИТИ ДРУГА?
+TID_REMOVE_FRIEND_POPUP_BODY,Точно хочеш видалити гравця <NAME> із друзів?
+TID_UNLOCK_SKIN_CONTENT,\n\nКУПИТИ СКІН «<NAME>»
+TID_ERROR_POP_UP_LOGGED_FROM_ANOTHER_DEVICE_TITLE,Під'єднання перерване
+TID_ERROR_POP_UP_LOGGED_FROM_ANOTHER_DEVICE,Інший пристрій під'єднується до цієї гри.
+TID_ERROR_POP_UP_LOGGED_FROM_ANOTHER_DEVICE_BUTTON,Перезавантажити
+TID_BAD_CONNECTION,Нестабільне з'єднання
+TID_FACEBOOK_BOUND_TO_OTHER_ACCOUNT_TITLE,Повідомлення Facebook
+TID_FACEBOOK_BOUND_TO_OTHER_ACCOUNT,Цей обліковий запис Facebook уже прив'язаний до іншої гри Gale Brawl. Прив'язати його до цієї гри?
+TID_KAKAO_BOUND_TO_OTHER_ACCOUNT_TITLE,Повідомлення Kakao
+TID_KAKAO_BOUND_TO_OTHER_ACCOUNT,Цей обліковий запис Kakao уже прив'язаний до іншої гри Gale Brawl. Прив'язати його до цієї гри?
+TID_LINE_BOUND_TO_OTHER_ACCOUNT_TITLE,Повідомлення LINE
+TID_LINE_BOUND_TO_OTHER_ACCOUNT,Цей обліковий запис LINE уже прив'язаний до іншої гри Gale Brawl. Прив'язати його до цієї гри?
+TID_TEAM_FREE_EVENT_REWARD_CLAIMED,Безкоштовна нагорода події отримана
+TID_GEM_BUY_CONFIRMATION,Отримані кристали (<AMOUNT>)!
+TID_BLOCKED_TEAM_READY,Не можна показати в режимі готовності!
+TID_TEAM_CANNOT_INVITE_WHILE_READY,Не можна запросити в режимі готовності!
+TID_SHOTGUN_BANDITA_SKIN,ШЕЛЛІ-БАНДИТКА
+TID_SHUTDOWN_STARTED,Гра закриється на коротку технічну перерву через 5 хвилин.
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_LONG,"Пробач, на сервері проводяться технічні роботи. Будь ласка, спробуй знову через кілька годин."
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_TWO_HOURS,"Пробач, на сервері проводяться технічні роботи. Будь ласка, спробуй знову через пару годин."
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_HOUR_AND_HALF,"Пробач, на сервері проводяться технічні роботи. Будь ласка, спробуй знову приблизно через півтори години."
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_HOUR,"Пробач, на сервері проводяться технічні роботи. Будь ласка, спробуй знову приблизно через годину."
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_MINUTES,"Пробач, на сервері проводяться технічні роботи. Будь ласка, спробуй знову приблизно через <value> хвилин."
+TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_SOON,"Пробач, на сервері проводяться технічні роботи. Будь ласка, спробуй знову через кілька хвилин."
+TID_SHUTDOWN_BATTLE_DISABLED,Гра закриється на технічне обслуговування через кілька хвилин. Розпочати нову гру буде неможливо до закінчення технічного обслуговування.
+TID_TEAM_SEARCH_NO_TEAM_CODE,Введи код команди.
+TID_NO_RIGHTS_TO_ACCEPT_TO_JOIN_REQ,Ти не можеш приймати чи відхиляти запити.
+TID_CLAN_RESPONSE_71,Між повторним виключенням із клубу ветераном має минути якийсь час.
+TID_STAT_MAX_DAMAGE,Пошкодження на макс. дистанції
+TID_STAT_DAMAGE_PER_BOMB,Пошкодження від гранати
+TID_ELDER_KICK_FAIL_COOLDOWN,Не можна виключати кілька учасників клубу поспіль. Спробуй знову через <time>
+TID_LUCHADOR_KING_SKIN,ЕЛЬ РЕЙ ПРІМО
+TID_PLAYER_DEFEATED_BR,Боєць переможений
+TID_BALL_1,Дворовий чемпіонат
+TID_HINT_GET_BALL,Забери <cdaa520>м'яч</c>!
+TID_LASER_BALL_INTRO_TEXT,"Забий два голи, щоб перемогти!"
+TID_AFK_WARNING,Попередження за неактивність! Рухайся!
+TID_AFK_DISCONNECTED_MSG,Тебе відключило від битви через неактивність або погане з'єднання.
+TID_AFK_BANNED_MSG,"Тобі заборонено брати участь у поточній битві через неактивність або погане з'єднання. Ти зможеш повернутися в гру, коли битва буде закінчена."
+TID_AFK_DISCONNECTED_TITLE,Відключення через неактивність
+TID_AFK_BANNED_TITLE,Тебе вигнали з поля бою
+TID_AFK_RELOAD,Перезавантажити
+TID_GAME_MODE_7,ВЕЛИКА ГРА
+TID_GAME_MODE_7_DESC,"П'ять гравців намагаються здолати МЕГАБІЙЦЯ іншого гравця.\n\nЯкщо ти — МЕГАБОЄЦЬ, у тебе величезна перевага в силі та здоров'ї. Захищайся від мисливців і залишайся в живих якомога довше!\n\nЯкщо ти — один із п'яти мисливців, дій спільно з командою, щоб здолати МЕГАБІЙЦЯ якомога швидше!"
+TID_BOSS_INTRO_TEXT_ATTACK,Здолай МЕГАБІЙЦЯ!
+TID_BOSS_INTRO_TEXT_DEFEND,МЕГАБОЄЦЬ — це ти!
+TID_BOSS_1,Смертельний каньйон
+TID_SEASON_END_POPUP_TITLE,СЕЗОН ЗАКІНЧИВСЯ
+TID_SEASON_END_POPUP_REWARD,НАГОРОДА КІНЦЯ СЕЗОНУ
+TID_SEASON_END_POPUP_GOLD_VALUE,<VALUE>
+TID_COIN_META_MIGRATION_TITLE,Важливі зміни!
+TID_COIN_META_MIGRATION_OK,ПРОЙТИ НАВЧАННЯ
+TID_COIN_META_MIGRATION_TXT_1,"У Gale Brawl діє нова система поліпшення, де рівень бійців може бути підвищений після того, як буде зібрана достатня кількість очок сили. Твої досягнення були перетворені на рівні."
+TID_COIN_META_MIGRATION_TXT_2,"Ти отримаєш ящики в обмін на свої невикористані жетони для поліпшення та ще декілька понад це, щоб переконатися, що твої досягнення не втратяться."
+TID_COIN_META_MIGRATION_TXT_3,Гра перейшла на альбомну орієнтацію та керується двома джойстиками.
+TID_COIN_META_MIGRATION_TXT_4,ПІДСИЛЮВАЧ МОНЕТ був прибраний і перетворений на кристали.
+TID_BOLTS_MIGRATION_TITLE,Важливі зміни!
+TID_BOLTS_MIGRATION_OK,ОК
+TID_BOLTS_MIGRATION_INFO,"У новій системі поліпшення бійців еліксир більше не потрібен. Ми компенсували твій еліксир і попередні поліпшення бійців жетонами для поліпшення (<BOLTS>). Використовуй ці жетони для поліпшення своїх бійців!\n\nКопії бійців і, отже, фішки були прибрані зі гри. Ми компенсували твої фішки кристалами (<GEMS>). Хай щастить!"
+TID_BOLTS_MIGRATION_ELIXER_TOKEN,ТВІЙ ЕЛІКСИР ПЕРЕТВОРИВСЯ НА ЖЕТОНИ ДЛЯ ПОЛІПШЕННЯ
+TID_BOLTS_MIGRATION_CHIP_GEM,ТВОЇ ФІШКИ БУЛИ ЗАМІНЕНІ КРИСТАЛАМИ
+TID_STAT_HEALING_PER_SEC,Зцілення за секунду
+TID_STAT_DAMAGE_PER_CARD,Пошкодження від карти
+TID_OVERTIME,Додатковий час!
+TID_STARTER_PACK_XP_REQ,Особлива акція з нагоди отримання <XPLEVEL>-го рівня
+TID_VALUE,вигода
+TID_SHOP_ONE_TIME_PURCHASE,РАЗОВА пропозиція!
+TID_HINT_MAKE_GOAL_1,"ЗАТИСНИ ТА ПОТЯГНИ <ccc0033>ЧЕРВОНИЙ ДЖОЙСТИК</c>, щоб прицілитися перед ударом по м'ячу!"
+TID_BALL_2,Трипл-дриблінг
+TID_BALL_3,Голкове вушко
+TID_STARTER_PACK_1,Набір 5-го рівня
+TID_STARTER_PACK_2,Набір 15-го рівня
+TID_STARTER_PACK_3,Набір 25-го рівня
+TID_IAP_XMAS2018_PACK,Зі святом!
+TID_IAP_XMAS2018_PACK_DESC,Хо-хо-хо!
+TID_STARTER_PACK_0,Вітальний набір
+TID_STARTER_PACK_0_DESC,Відсвяткуй початок своїх пригод у Gale Brawl!
+TID_IAP_LNY2019_PACK,Акція до місячного Нового року
+TID_IAP_LNY2019_PACK_DESC,З місячним Новим роком!
+TID_IAP_MARCH2019_PACK,Березнева акція
+TID_IAP_MARCH2019_PACK_DESC,Це одноразова пропозиція!
+TID_IAP_REFRESHER_PACK_DESC,Унікальна акція!
+TID_BLACKHOLE_DEFAULT_SKIN,Стандартний
+TID_GOLD_CAP_HIT,Ліміт жетонів вичерпано.
+TID_GATCHA_BUTTON_BOX_STACK_FULL,Досягнута межа кількості ящиків
+TID_COOP_1,Парк патінко
+TID_GAME_MODE_8,РОБОРУБКА
+TID_GAME_MODE_8_DESC,"Захищай сейф від жадібних робобандитів. Що довше протримаєшся, то краща нагорода.\n\nРоботи наступають зусібіч, і їх кількість поступово зростає. Протримайся якомога довше!"
+TID_COOP_INTRO_TEXT,Захищай сейф!
+TID_SELECT_EVENT_POPUP_TITLE,Вибрати подію
+TID_BARREL_BOT,ДЕРРІЛ
+TID_BARREL_BOT_DESC,"Атака з пари дробовиків Дерріла неймовірно потужна. Його Супер — посилена бочка, у якій він котиться вперед, відскакуючи від стін по дорозі!"
+TID_BARREL_BOT_WEAPON,ДВІЧІ ПО ДВА
+TID_BARREL_BOT_WEAPON_DESC,"Дерріл двічі стріляє з обох двостволок, завдаючи величезної шкоди на короткій дистанції."
+TID_BARREL_BOT_ULTI,ВІДКАТ БОЧКИ
+TID_BARREL_BOT_ULTI_DESC,"Дерріл мчить у своїй бочці вперед, відкидаючи в боки ворогів і відскакуючи від стін. Його Супер заряджається з плином часу!"
+TID_ARTILLERY_DUDE,ПЕННІ
+TID_ARTILLERY_DUDE_DESC,"Пенні стріляє мішечками з монетами. Вони завдають шкоди цілі та будь-кому, хто перебуває за нею. Її Супер — броневежа-мортира!"
+TID_ARTILLERY_DUDE_WEAPON,МУШКЕТОН
+TID_ARTILLERY_DUDE_WEAPON_DESC,"Стріляє мішечком фальшивого золота. Зачепивши ворога, мішечок рветься й обсипає монетами тих, хто перебуває позаду."
+TID_ARTILLERY_DUDE_ULTI,СТАРИЙ ПРОЙДИСВІТ
+TID_ARTILLERY_DUDE_ULTI_DESC,"Пенні встановлює гармату, яка дістає ворогів на великій дистанції, навіть якщо вони в укритті."
+TID_ITEM_NAME_SPECIAL,ЗОРЯНА СИЛА
+TID_HERO_INFO_ITEM_LOCKED,Можна знайти після отримання <LEVEL>-го рівня.
+TID_HERO_INFO_LOCKED_INFO,"Бійця можна розблокувати, знайшовши його в ящику."
+TID_HERO_INFO_LOCKED_INFO_RANK_TRACK,"Щоб розблокувати, збери <SCORE> трофеїв"
+TID_SPEC_ABI_FREEZE,Контузія
+TID_SPEC_ABI_BERSERKER,Берсерк
+TID_SPEC_SELF_DESTRUCT,Помста
+TID_SPEC_ABI_CACTUS_HEAL,Добриво
+TID_SPEC_ABI_HEAL_SELF_MAIN_ATTACK,Ліки
+TID_SPEC_ABI_REPAIR_TURRET,Підзарядка
+TID_SPEC_ABI_PET_LIFESTEAL,Ведмежа послуга
+TID_SPEC_ABI_STEAL_SOULS,Моторошна жнива
+TID_SPEC_ABI_SPOT,Ширяючий орел
+TID_SPEC_ABI_AMBUSH,Засідка
+TID_SPEC_ABI_BLACK_HOLE_MONSTER,Чорний портал
+TID_SPEC_ABI_SPEED,Модні чоботи
+TID_SPEC_ABI_HEAL_OTHERS_MAIN_ATTACK,Мамина турбота
+TID_SPEC_BOUNCED_BULLETS_STRONGER,Супервідскік
+TID_SPEC_ABI_FIRE_DOT_ULTI,Ель Фуего
+TID_SPEC_LAST_STAND,Лебедина пісня
+TID_SPEC_BURN,Палій
+TID_SPEC_CRIPPLE,Смертельна отрута
+TID_SPEC_ABI_BARREL_DEFENSE,Сталеві обручі
+TID_SPEC_HEAL_MAIN_ATTACK,Да-капо!
+TID_SPEC_ABI_FREEZE_DESC,Супер Шеллі контузить і сповільнює ворогів на <c00cc00><VALUE1></c> с.
+TID_SPEC_ABI_PREY_ON_THE_WEAK_DESC,"Атака та Супер Ворона завдають <c00cc00><VALUE2></c> очок додаткової шкоди бійцям, рівень здоров'я яких не вище ніж <VALUE1> %."
+TID_SPEC_ABI_BERSERKER_DESC,"Коли здоров'я Булла стає менше ніж <c00cc00><VALUE1> %,</c> його швидкість перезарядки збільшується вдвічі!"
+TID_SPEC_SELF_DESTRUCT_DESC,"Полігши в бою, Динамайк кидає 6 динамітних шашок, кожна з яких завдає <c00cc00><VALUE1></c> очок шкоди."
+TID_SPEC_ABI_CACTUS_HEAL_DESC,"Використовуючи Супер і перебуваючи в зоні його дії, Спайк відновлює <c00cc00><VALUE1></c> очок здоров'я за секунду."
+TID_SPEC_ABI_HEAL_SELF_MAIN_ATTACK_DESC,Барлі відновлює <c00cc00><VALUE1></c> очок здоров'я з кожною атакою.
+TID_SPEC_ABI_REPAIR_TURRET_DESC,"Вистріливши по турелі, Джессі відновлює їй <c00cc00><VALUE1></c> очок здоров'я."
+TID_SPEC_ABI_PET_LIFESTEAL_DESC,"Ніта відновлює <c00cc00><VALUE1></c> очок здоров'я, коли її ведмідь завдає шкоди ворогу. Коли Ніта завдає шкоди, її ведмідь відновлює <c00cc00><VALUE2></c> очок здоров'я."
+TID_SPEC_ABI_STEAL_SOULS_DESC,"Мортис збирає життєву енергію повержених їм ворогів, що відновлює <c00cc00><VALUE1></c> очок його здоров'я."
+TID_SPEC_SPOT_FROM_AIR_DESC,"Використовуючи Супер, Пайпер може з повітря розгледіти ворогів, які ховаються в кущах."
+TID_SPEC_HEAL_MAIN_ATTACK_DESC,"Якщо товариші по команді потрапляють у радіус дії атаки Поко, то відновлюють <c00cc00><VALUE1></c> очок здоров'я."
+TID_SPEC_ABI_SPOT_DESC,"Бо бачить ворогів, що ховаються в кущах, з відстані на <c00cc00><VALUE1> %</c> більше ніж звичайна."
+TID_SPEC_ABI_AMBUSH_DESC,"Атаки Пайпер завдають <c00cc00><VALUE1></c> очок додаткової шкоди на максимальній дистанції, коли вона ховається в кущах."
+TID_SPEC_ABI_BLACK_HOLE_MONSTER_DESC,"Супер Тари відчиняє просторовий портал, з якого з'являється готовий до бою з ворогами тіньовий клон Тари."
+TID_SPEC_ABI_TODO_DESC,Особлива здатність не визначена
+TID_SPEC_ABI_SPEED_DESC,Кольт рухається на <c00cc00><VALUE1> %</c> швидше ніж звичайно.
+TID_SPEC_ABI_PUSHBACK_SELF_DESC,"Динамайк може перенестися через перешкоду, осідлавши вибухову хвилю!"
+TID_SPEC_ABI_HEAL_OTHERS_MAIN_ATTACK_DESC,З кожним поривом бурі брухту Пем відновлює собі та своїм товаришам <c00cc00><VALUE1></c> очок здоров'я.
+TID_SPEC_BOUNCED_BULLETS_STRONGER_DESC,Під час атаки чи використання Супера кулі Ріко набирають енергію після першого відскоку та завдають <c00cc00><VALUE1></c> очок додаткової шкоди!
+TID_SPEC_ABI_FIRE_DOT_ULTI_DESC,"Вороги, зачеплені Супером Ель Прімо, отримують <c00cc00><VALUE1></c> очок пошкодження від вогню протягом 4-х секунд."
+TID_SPEC_LAST_STAND_DESC,"Перед тим, як зникнути, Поко виконує свою лебедину пісню. Соратники, що перебувають поруч, відновлюють <c00cc00><VALUE1></c> очок здоров'я!"
+TID_SPEC_BURN_DESC,"Після атаки Брока земля продовжує горіти. Вороги, що перебувають у вогні, отримують <c00cc00><VALUE1></c> очок шкоди за секунду! Ефект триває 2 секунди."
+TID_SPEC_ABI_BARREL_DEFENSE_DESC,Супер Дерріла підсилює його бочку та зменшує всю завдану йому шкоду на <c00cc00><VALUE2> %</c> на <c00cc00><VALUE1></c> с.
+TID_SPEC_CRIPPLE_DESC,"Отрута Ворона послаблює ворогів. Поки діє отрута, вони завдають на <c00cc00><VALUE1> %</c> менше шкоди."
+TID_SEASON_ENDED_NOTI,Сезон закінчився! Нагорода сезону чекає на тебе.
+TID_BATTLE_ROYALE_7,Подвійна проблема
+TID_GAME_MODE_9,ПАРНЕ ЗІТКНЕННЯ
+TID_GAME_MODE_9_COMBINED,ЗІТКНЕННЯ
+TID_GAME_MODE_9_DESC,"Переможи чотири інші команди. Полеглий боєць зможе через деякий час відродитися, якщо його товариш по команді буде все ще живий."
+TID_WAVE_APPROACHING,Хвиля <number>
+TID_TEAMS_LEFT,Залишилося команд: <num>
+TID_TEAM_MATE_RESPAWNING,Напарник повернеться через <num>
+TID_BOSS_APPROACHING,Хвиля <number>: <ccc0000>наближається великий робот!</c>
+TID_COOP_2,Сталеве перехрестя
+TID_BOSS_2,Зал Кротячого Короля
+TID_BEAR_DAMAGE,Пошкодження ведмедя
+TID_BEAR_HEALTH,Здоров'я ведмедя
+TID_EVENT_POPUP_GMV_LABEL_BATTLE_ROYALE_TEAM,Команди по двоє
+TID_SPEC_ABI_PUSHBACK_SELF,Династрибок
+TID_VIEW_PROFILE_BUTTON,Подивитися профіль
+TID_REPORT_PLAYER_BUTTON,ПОСКАРЖИТИСЯ
+TID_CHAT_REPORT_CONFIRMATION_TITLE,Поскаржитися на гравця <name>?
+TID_CHAT_REPORT_CONFIRMATION,\n\nТочно хочеш повідомити про неприйнятну поведінку гравця <name>?
+TID_PLAYER_ALREADY_REPORTED,Скарга на гравця була вже відправлена!
+TID_STARTER_PACK_4,Набір 35-го рівня
+TID_NEED_HERO,Неможливо купити скін. Боєць ще не розблокований.
+TID_EVENT_ENDING,<GAMEMODE> незабаром закінчиться!
+TID_TEAM_DISPLAY_TITLE_CLAN,КОМАНДИ КЛУБУ
+TID_TEAM_DISPLAY_TITLE_FRIENDS,КОМАНДИ ДРУЗІВ
+TID_TICKETS_REVEIVED,Отримані квитки подій (<AMOUNT>)!
+TID_TUTORIAL_12,"КРИСТАЛИ в нас, пора на вихід!"
+TID_NO_TARGET_HINT,"Немає цілей, по яких можна відкрити ШВИДКИЙ ВОГОНЬ!"
+TID_CAN_NOT_AUTOSHOOT,У цього Супера немає режиму ШВИДКОГО ВОГНЮ.
+TID_VS,ПРОТИ
+TID_VS_SHOWDOWN,Кожен сам за себе!
+TID_HAS_LASER_BALL_HINT,З м'ячем відкрити ШВИДКИЙ ВОГОНЬ неможливо.
+TID_CLAN_RESPONSE_44,Вступити не вдалося: ти вже в клубі
+TID_SHOTGUN_GIRL_SHORT_DESC,ВОЇН
+TID_GUNSLINGER_SHORT_DESC,СТРІЛЕЦЬ
+TID_BULL_DUDE_SHORT_DESC,ВАЖКОВАГОВИК
+TID_ROCKET_GIRL_SHORT_DESC,СТРІЛЕЦЬ
+TID_TNT_DUDE_SHORT_DESC,МЕТАЛЬНИК
+TID_LUCHADOR_SHORT_DESC,ВАЖКОВАГОВИК
+TID_TRICKSHOT_DUDE_SHORT_DESC,СТРІЛЕЦЬ
+TID_CACTUS_SHORT_DESC,СТРІЛЕЦЬ
+TID_BARKEEP_SHORT_DESC,МЕТАЛЬНИК
+TID_MECHANIC_SHORT_DESC,ВОЇН
+TID_SHAMAN_SHORT_DESC,ВОЇН
+TID_UNDERTAKER_SHORT_DESC,БЛИСКАВИЧНИЙ УБИВЦЯ
+TID_CROW_SHORT_DESC,ВБИВЦЯ З ОТРУТОЮ
+TID_DEAD_MARIACHI_SHORT_DESC,ЛІКАР
+TID_BOW_DUDE_SHORT_DESC,ВОЇН
+TID_SNIPER_SHORT_DESC,СТРІЛЕЦЬ
+TID_MINIGUN_DUDE_SHORT_DESC,ЛІКАР
+TID_BLACK_HOLE_SHORT_DESC,ПРОВОКАТОР
+TID_BARREL_BOT_SHORT_DESC,ВАЖКОВАГОВИК
+TID_CLAN_INTRO_SUGGESTED_CLANS,НАЙКРАЩІ КЛУБИ ДЛЯ ТЕБЕ
+TID_CLAN_INTRO_CREATE_TITLE,ЧОМУ Б НЕ СТВОРИТИ СВІЙ?
+TID_CLAN_INTRO_HEADER,КЛУБИ
+TID_CLAN_INFO_TITLE,ІНФОРМАЦІЯ ПРО КЛУБ
+TID_CLAN_INFO_NO_DESCRIPTION,ОПИС КЛУБУ ВІДСУТНІЙ
+TID_EVENT_POPUP_TITLE,ПОРА В БІЙ!
+TID_GOLDRUSH_8,Сапфірова рівнина
+TID_BRAWL_BOX_INFO_CATEGORIES,\n\n<CATEGORY1>: <NUM1> %\nРідкісний боєць: <NUM2> %<GAR_HERO_1>\nНадрідкісний боєць: <NUM3> %<GAR_HERO_2>\nЕпічний боєць: <NUM4> %<GAR_HERO_3>\nМіфічний боєць: <NUM5> %<GAR_HERO_4>\nЛегендарний боєць: <NUM6> %<GAR_HERO_5>\nЗоряна сила: <NUM7> %<GAR_STAR_POWER>
+TID_BRAWL_BOX_INFO_FOOTER,"\n\На додачу до цього шанс отримання квитків подій становить 25 %, кристалів — 9 % і подвоювача жетонів — 3 %. Пам'ятай, що зоряну силу можуть отримати тільки бійці, що досягли 9-го рівня. Коли нагороди певного типу (наприклад, рідкісні бійці) закінчаться, шанси отримання інших нагород зростуть. Удача: щоб відкривання ящиків було справедливим, отримання легендарних бійців ґрунтується на принципі удачі. Кожен відкритий ящик, у якому не було нового бійця, збільшує твою удачу, а кожен отриманий із ящика боєць зменшує її відповідно до рідкості отриманого бійця. Що більше удача, то вище шанси отримати легендарного бійця, а що вона менше, то складніше отримати легендарного бійця. Наповнення ящиків на початку гри зумовлено, щоб усі були в рівних умовах."
+TID_BRAWL_BOX_INFO_POWER_POINTS_AND_COINS,Очки сили та монети
+TID_BRAWL_BOX_INFO_COINS,Монети
+TID_BRAWL_BOX_INFO_GUARANTEED_HERO_IN,(спроб відкривання до гарантованого отримання: <DRAWS>)
+TID_BRAWL_BOX_INFO_GUARANTEED_STARPOWER_IN,(спроб відкривання до гарантованого отримання: <DRAWS>)
+TID_USE_AUTOFIRE_TUTORIAL,"НАТИСНИ на <ccc0033>червоний джойстик</c>, щоб вистрілити по найближчому ворогу!"
+TID_BRAWL_BOX_INFO_2,"У ящику може бути або новий боєць, або очки сили з монетами, або зоряна сила. На додачу можна отримати бонус: подвоювач жетонів чи квитки подій.\n\nШанси отримання нагород:"
+TID_POWER_DROP_VALUE,+<VALUE>
+TID_COLLECT,ЗАБРАТИ
+TID_PAGE_FRIENDS_ADD_FRIENDS,ДОДАТИ ДРУЗІВ
+TID_PAGE_FRIENDS_TITLE,ДРУЗІ
+TID_PAGE_FRIENDS_TITLE2,Бийся разом із друзями!
+TID_PAGE_FRIENDS_NO_FRIENDS_NO_LOGIN,"Під'єднайся до Facebook чи знайди друзів у грі, щоб грати разом!"
+TID_PAGE_FRIENDS_NO_FRIENDS,"Під'єднайся до Facebook чи знайди друзів у грі, щоб грати разом!"
+TID_FRIENDS_TITLE,Друзів: <COUNT>
+TID_FRIENDS_TAB_1,ДРУЗІ
+TID_FRIENDS_TAB_2,МОЖЛИВІ
+TID_FRIENDS_TAB_3,ЗАПИТИ
+TID_TOTAL,ВСЬОГО
+TID_BRAWL_BOX_INFO_TITLE_2,ВІДОМОСТІ ПРО ЯЩИК
+TID_BRAWL_BOX_INFO_TITLE_3,ВІДОМОСТІ ПРО МЕГАЯЩИК
+TID_BRAWL_BOX_INFO_3,"Відкривання мегаящика дорівнює відкриванню 10 ящиків, але очки сили за такої умови розподіляються між меншою кількістю бійців.\n\nШанси отримання нагород у кожній із десяти спроб відкривання випадкового ящика:"
+TID_HERO_BUNDLE_0,Сховок Шеллі
+TID_HERO_BUNDLE_1,Кобура Кольта
+TID_HERO_BUNDLE_2,Сумка Булла
+TID_HERO_BUNDLE_3,Ящик Брока
+TID_HERO_BUNDLE_4,Банк Ріко
+TID_HERO_BUNDLE_5,Комора Спайка
+TID_HERO_BUNDLE_6,Комірчина Барлі
+TID_HERO_BUNDLE_7,Завали Джессі
+TID_HERO_BUNDLE_8,Лігво Ніти
+TID_HERO_BUNDLE_9,Ранець Динамайка
+TID_HERO_BUNDLE_10,Шафка Ель Прімо
+TID_HERO_BUNDLE_11,Вбивча пропозиція
+TID_HERO_BUNDLE_12,Колекція Ворона
+TID_HERO_BUNDLE_13,Капшук Поко
+TID_HERO_BUNDLE_14,Спорядження Бо
+TID_HERO_BUNDLE_15,Сумочка Пайпер
+TID_HERO_BUNDLE_16,Кошіль Пем
+TID_HERO_BUNDLE_17,Скриня Тари
+TID_HERO_BUNDLE_18,Бочка Дерріла
+TID_OFFER_ALSO_INCLUDES,ПРОПОЗИЦІЯ ТАКОЖ ВКЛЮЧАЄ
+TID_OFFER_VALUE_TITLE,ВИГОДА
+TID_OFFER_VALUE,+<VALUE> %
+TID_SHOP_OFFER_COUNTDOWN,<TIME>
+TID_USE_ULTI_TUTORIAL,ЗАТИСНИ ТА ПОТЯГНИ <cff9900>жовтий джойстик</c> для прицілювання!
+TID_HERO_STATS_TITLE,ПОКАЗНИКИ БІЙЦЯ
+TID_GATCHA_SCREEN_ITEMS_REMAINING,ЗАЛИШИЛОСЯ ПРЕДМЕТІВ:
+TID_GATCHA_SCREEN_BONUS_ITEMS_REMAINING,ЗАЛИШИЛОСЯ БОНУСІВ:
+TID_GATCHA_SCREEN_YOU_GOT,ОТРИМАНО:
+TID_GATCHA_SCREEN_BONUSES,БОНУСНІ ПРЕДМЕТИ:
+TID_GATCHA_SCREEN_SUMMARY_UNLOCKED,РОЗБЛОКОВАНО!
+TID_HERO_LIST_ITEM_UPGRADE,ПОЛІПШИТИ
+TID_SHOP_CLAMIMED,Отримано
+TID_SHOP_OFFER_PURCHASE_ERROR_CLAIMED,Цей предмет уже був отриманий
+TID_ONLINE,У МЕРЕЖІ
+TID_LEADERBOARD,СПИСОК ЛІДЕРІВ
+TID_NOT_ENOUGH_TICKETS_INFO,"\n\nКвитки закінчилися. Заглянь у крамницю, щоб купити ще!"
+TID_HERO_LIST_NEW,НОВИЙ
+TID_HAMMER_DUDE,ФРЕНК
+TID_HOLD_PHONE_LIKE_THIS,ТРИМАЙ СВІЙ ПРИСТРІЙ ОСЬ ТАК
+TID_HINT_FINGER_TAP_TAP,ТИСНИ! ТИСНИ!
+TID_HINT_FINGER_DRAG,"ЗАТИСНИ ТА ПОТЯГНИ, ЩОБ ПРИЦІЛИТИСЯ"
+TID_MOVE_HERE,Іди сюди
+TID_HINT_HEADER,ПОРАДА:
+TID_HINT_0,"Щоб відкрити ШВИДКИЙ ВОГОНЬ по найближчому ворогу, НАТИСНИ на <ccc0033>червоний джойстик.</c>"
+TID_HINT_1,"Щоб відкрити ШВИДКИЙ ВОГОНЬ по найближчому ворогу в режимі Супера, НАТИСНИ на <cff9900>жовтий джойстик.</c>"
+TID_HINT_2,"Щоб ПРИЦІЛИТИСЯ, ЗАТИСНИ ТА ПОТЯГНИ <ccc0033>червоний джойстик</c>."
+TID_HINT_3,"Щоб НАВЕСТИ Супер НА ЦІЛЬ, ЗАТИСНИ ТА ПОТЯГНИ <cff9900>жовтий джойстик.</c>"
+TID_HINT_4,"Щоб скасувати наведення на ціль, поверни джойстик у початкове положення."
+TID_HINT_5,"Збирати трофеї щойно розблокованим бійцем легко, тому що підбір супротивників ґрунтується на кількості трофеїв бійця, за якого ти граєш."
+TID_HINT_6,"Що більше в тебе бійців, то простіше збирати трофеї та отримувати нагороди."
+TID_HINT_7,"Що далі ціль, то більше шкоди завдають постріли Пайпер."
+TID_HINT_8,"Кинуті Барлі пляшки приземляються недалеко, тому його Супер особливо ефективний на короткій дистанції."
+TID_HINT_9,"Відскакуючи, кулі Ріко пролітають більшу відстань."
+TID_HINT_10,Активувати <ccc0033>червоний джойстик</c> для стрільби можна в будь-якому місці на правому боці екрану.
+TID_HINT_11,"І в основної атаки, і в Супера є два режими: НАТИСНИ, щоб відкрити ШВИДКИЙ ВОГОНЬ, або ЗАТИСНИ ТА ПОТЯГНИ, щоб ПРИЦІЛИТИСЯ."
+TID_HINT_12,У режимі прицілювання легше вести рухому ціль.
+TID_HINT_13,"ШВИДКИЙ ВОГОНЬ стане в нагоді, коли немає часу на прицілювання."
+TID_HINT_14,ШВИДКИЙ ВОГОНЬ особливо ефективний на короткій дистанції.
+TID_HINT_15,"Вороги можуть виявити бійця, який ховається в кущах, якщо підійдуть достатньо близько."
+TID_HINT_16,"ШВИДКИЙ ВОГОНЬ ведеться в бік найближчого ворога, але його пересування до уваги не береться."
+TID_HINT_17,"За допомогою прицільного пострілу можна перевірити, чи не ховається в кущах ворог."
+TID_HINT_18,ШВИДКИЙ ВОГОНЬ особливо хороший під час атаки на нерухому ціль.
+TID_HINT_19,"ШВИДКИЙ ВОГОНЬ особливо хороший під час атаки на ворогів, які рухаються прямо на чи від тебе."
+TID_HINT_20,"Коли ти атакуєш чи отримуєш пошкодження, перебуваючи в кущах, вороги можуть тебе бачити."
+TID_HINT_21,У кущах можна ховатися від ворогів.
+TID_HINT_22,"У режимі ШВИДКОГО ВОГНЮ постріл робиться, навіть якщо в зоні ураження немає ворогів."
+TID_VS_TUTORIAL,Збери всі <ce662f9>КРИСТАЛИ</c>
+TID_USE_MANUAL_FIRE_TUTORIAL,"ЗАТИСНИ ТА ПОТЯГНИ <ccc0033>червоний джойстик,</c> щоб прицілитися!"
+TID_TUTORIAL_GOOD_JOB_2,"Відмінно! <cff6633>ПОМАРАНЧЕВІ СМУЖКИ</c> відображають кількість твоїх боєприпасів. Перезаряджатиму так швидко, як зможу!"
+TID_TUTORIAL_GOOD_JOB_3,Молодчина! Атака ворогів заряджає твою <cff9900>СУПЕРАТАКУ</c>!
+TID_TUTORIAL_GOOD_JOB_4,Відмінно спрацьовано!
+TID_SPECTATE_PLAYER_BUTTON,Спостерігати
+TID_SPECTATE_FAILED,Поспостерігати не вийшло
+TID_ACCOUNT_DISABLED_TEXT,Обліковий запис відключений
+TID_ACCOUNT_DELETED_ON_REQUEST_TEXT,Цей обліковий запис відключений після запиту на видалення та не може бути відновлений.
+TID_ACCOUNT_DELETED_DUE_INACTIVITY_TEXT,Цей обліковий запис відключений у зв'язку з неактивністю та не може бути відновлений.
+TID_ACCOUNT_DELETION_WARNING_TITLE,Попередження про видалення облікового запису
+TID_ACCOUNT_DELETION_WARNING_TEXT,"Відповідно до вашого запиту ваш обліковий запис незабаром буде деактивований. Якщо ви передумали, зверніться до розділу «Допомога та підтримка» для скасування запиту якомога швидше."
+TID_ACCOUNT_DELETION_WARNING_TEXT_PAST,"Відповідно до вашого запиту ваш обліковий запис незабаром буде деактивований. Якщо ви передумали, зверніться до розділу «Допомога та підтримка» для скасування запиту якомога швидше."
+TID_CLAN_JOIN_FAILED_ALREADY_IN_THIS_CLAN,Ти вже перебуваєш у цьому клубі!
+TID_CONFIRM_CHANGE_CLAN_TITLE,Змінити клуб?
+TID_CONFIRM_CHANGE_CLAN,Ти вже в клубі! Точно хочеш змінити його?
+TID_CONFIRM_CLAN_FULL_TITLE,У клубі немає місць!
+TID_CONFIRM_CLAN_FULL,"<clan>: неможливо вступити в цей клуб, там немає місць!"
+TID_BUTTON_CHANGE,Змінити
+TID_CLAN_JOIN_FAILED_IN_TUTORIAL,"Пройди навчання, щоб вступити в клуб."
+TID_CLAN_INTRO_INVITE,ВІДПРАВИТИ ЗАПРОШЕННЯ
+TID_INVITE_CLAN_TOKEN_ERROR,Помилка під час створення запрошення
+TID_ALLIANCE_INVITE_FAILED_NO_RIGHTS,Тільки президент клубу може запрошувати нових учасників.
+TID_FRIENDS_FACEBOOK_CONNECT,Під'єднання
+TID_FRIENDS_PAGE_INVITE,ВІДПРАВИТИ ЗАПРОШЕННЯ
+TID_SHARE_GAME_ROOM_POST_MESSAGE,"Натисни на посилання, щоб вступити в команду гравця <name> у Gale Brawl!"
+TID_SHARE_GAME_ROOM_POST_TITLE,Запросити в команду
+TID_ROOM_CODE_COPIED_TO_CLIPBOARD,Ідентифікатор команди скопійований у буфер обміну!
+TID_ROOM_CODE_COPIED_TO_CLIPBOARD_CONFIRM,ОК
+TID_TEAM_INVITE_BUTTON_LABEL,ПОДІЛИТИСЯ КОДОМ
+TID_TEAM_INVITE_EXPIRED,Термін дії запрошення від гравця <NAME> минув.
+TID_TEAM_INVITATION_POPUP_TITLE,ЗАПРОШЕННЯ В КОМАНДУ
+TID_TEAM_INVITATION_POPUP_SYSTEM_INVITE,ТУРНІРНИЙ БІЙ
+TID_TEAM_INVITATION_POPUP_MUTE_SYSTEM,ЗАГЛУШИТИ\nНА 10 ХВИЛИН
+TID_TEAM_INVITATION_POPUP_ACCEPT,ПРИЙНЯТИ
+TID_TEAM_INVITATION_POPUP_REJECT,ВІДХИЛИТИ
+TID_TEAM_INVITATION_POPUP_MUTE,ЗАГЛУШИТИ ГРАВЦЯ <NAME>\nНА 10 ХВИЛИН
+TID_BATTLE_ROYALE_5,Кислотні озера
+TID_DAILY_COINS_COLLECTED_END_SCREEN,Бойові жетони\nзакінчилися
+TID_SHOP_REAL_MONEY_PURCHASES_DISABLED_SPECIAL_BUILD,У цій версії неможливо здійснювати купівлі за реальні гроші.
+TID_SHOP_CHINA_WARNING,Попередження: грай відповідально
+TID_GATCHA_AD_STATUS_VIEW,ДИВИТИСЯ РЕКЛАМУ ДЛЯ\nПОДВОЄННЯ НАГОРОДИ!
+TID_GATCHA_AD_STATUS_VIEW_CHOISELESS,ОТРИМАТИ БІЛЬШЕ НАГОРОД
+TID_GATCHA_AD_STATUS_OUT_OF_VIEWS,Вичерпано ліміт денних переглядів
+TID_GATCHA_AD_STATUS_NO_VIDEO,Немає доступного відео
+TID_GATCHA_AD_CONTINUE_BUTTON_TITLE,ПРОДОВЖИТИ
+TID_AD_DOUBLER_TITLE,ВИБРАТИ НАГОРОДУ ДЛЯ ПОДВОЄННЯ
+TID_AD_DOUBLER_CONTINUE,ПРОДОВЖИТИ
+TID_GATCHA_CONTINUE,ПРОДОВЖИТИ
+TID_HINT_23,Деякі бійці краще за інших підходять для окремих карт і подій.
+TID_HINT_24,Бійці далекого бою загалом краще себе проявляють на відкритих картах.
+TID_HINT_25,Бійці ближнього бою краще проявляють себе на місцевості з укриттями та кущами.
+TID_SPEC_ABI_SELF_DESTRUCT,Прощальний залп
+TID_SPEC_ABI_SELF_DESTRUCT_DESC,"Після знищення гармата Пенні дає залп із <VALUE2> бомб по ворогах, що перебувають поблизу. Кожна бомба завдає <c00cc00><VALUE1></c> очок шкоди."
+TID_EVENT_LIST_BRAWL,ГРАТИ
+TID_INVITE_COPIED_TO_CLIPBOARD,Посилання для запрошення скопійоване в буфір обміну!
+TID_INVITE_COPIED_TO_CLIPBOARD_CONFIRM,ОК
+TID_FRIEND_INVITE_POST_MESSAGE,"Натисни на посилання, щоб додати гравця <friend> у друзі в Gale Brawl!"
+TID_FRIEND_INVITE_POST_TITLE,Запроси друга!
+TID_ALLIANCE_JOIN_POST_MESSAGE,"Натисни на посилання, щоб вступити у мій клуб у Gale Brawl!"
+TID_ALLIANCE_JOIN_POST_TITLE,Запропонуй другу вступити у твій клуб!
+TID_KEY_BAR_FULL,Є <VALUE> жетонів. Пора в бій!
+TID_HOMESCREEN_MODE_LOCKED,"Збери <COUNT> трофеїв, щоб битися тут!"
+TID_GAMEROOMS_PLAYERS_ONLINE,ДРУЗІВ У МЕРЕЖІ: <count>
+TID_ARTILLERY_DUDE_SHORT_DESC,СТРІЛЕЦЬ
+TID_HAMMER_DUDE_SHORT_DESC,ВАЖКОВАГОВИК
+TID_HAMMER_DUDE_DESC,Помах молота Френка породжує вибухову хвилю. Його неймовірно потужний Супер приголомшує супротивників!
+TID_HAMMER_DUDE_WEAPON,УДАР МОЛОТА
+TID_HAMMER_DUDE_WEAPON_DESC,"Френку потрібен час, щоб як слід розмахнутися, але його удар настільки сильний, що породжує вибухову хвилю."
+TID_HAMMER_DUDE_ULTI,ПРИГОЛОМШЛИВИЙ УДАР
+TID_HAMMER_DUDE_ULTI_DESC,"Грандіозний удар Френка породжує вибухову хвилю, яка знищує укриття та на час приголомшує супротивників."
+TID_SPEC_ABI_STEAL_SOULS2,Викрадення сили
+TID_SPEC_ABI_STEAL_SOULS2_DESC,"Френк забирає силу поверженого ворога, додаючи до свого пошкодження <c00cc00><VALUE1> %</c> на <VALUE2> с.!"
+TID_ONLINE_FRIENDS_TITLE,ГРАВЦІ В МЕРЕЖІ
+TID_BATTLE_ROYALE_TEAM_INTRO_TEXT,Залишіться останньою в живих командою!
+TID_VS_TEAM_SHOWDOWN,Усі команди одна проти одної!
+TID_FIRST_WIN,ЗОРЯНИЙ ЖЕТОН
+TID_BATTLE_END_TEAM_DEATHMATCH_VICTORY,Твоя команда краща за всіх!
+TID_HOMESCREEN_MODE_LOCKED_INFO,Розблокується після отримання <count> трофеїв
+TID_HOMESCREEN_LEAGUE_BUTTON_TITLE,ШЛЯХ ДО СЛАВИ
+TID_HOMESCREEN_LEAGUE_BUTTON_COLLECT,ЗАБРАТИ
+TID_STAR_POWERS_TITLE,ЗОРЯНІ СИЛИ
+TID_STAR_POWER_STATUS_1_1,<c00ff00>ВИБРАНО</c>
+TID_STAR_POWER_STATUS_0_0,У тебе немає цієї зоряної сили
+TID_STAR_POWERS_PICK,ВИБРАТИ
+TID_LEAGUE_NAME_0,ДЕРЕВ'ЯНА
+TID_LEAGUE_NAME_1,БРОНЗОВА
+TID_LEAGUE_NAME_2,СРІБНА
+TID_LEAGUE_NAME_3,ЗОЛОТА
+TID_LEAGUE_NAME_4,АЛМАЗНА
+TID_LEAGUE_NAME_5,МАЙСТЕРСЬКА
+TID_LEAGUE_NAME_6,ЕЛІТНА
+TID_LEAGUE_NAME_7,ЗОРЯНА
+TID_SPECIAL_EVENTS,ПОДІЯ ДНЯ
+TID_SPECIAL_EVENT,Особлива подія
+TID_SPECIAL_EVENT_DESC,"Заходь щодня, щоб узяти участь у події дня!"
+TID_SPECIAL_EVENTS_MOD,ОСОБЛИВА ПОДІЯ
+TID_SPECIAL_EVENT_MOD_DESC,Стеж за появою особливих подій дня!
+TID_PLAYING_AGAIN,Грати знову <c11ee11><NUMBER>/<NUMBER2></c>
+TID_PLAYING_AGAIN_NO_PLAYERS,Грати знову
+TID_BRAWL_BOX_INFO_TITLE_1,ВІДОМОСТІ ПРО ВЕЛИКИЙ ЯЩИК
+TID_BRAWL_BOX_INFO_1,"Відкривання великого ящика дорівнює відкриванню 3 ящиків, але очки сили за такої умови розподіляються між меншою кількістю бійців.\n\nШанси отримання нагород у кожній із трьох спроб відкривання випадкового ящика:"
+TID_GATCHA_ERROR_NOT_ENOUGH_WINS,"Збери 10 зоряних жетонів, щоб відкрити великий ящик!"
+TID_KEY_BAR_INFO_DOUBLE_TOKEN_EVENT,"ПОДІЯ З ПОДВОЄНИМИ ЖЕТОНАМИ\nЗаробляй удвічі більше <c33a5d7>жетонів</c> у звичайних боях.\n\nЖетони потрібні, щоб відкривати ящики."
+TID_HERO_BUNDLE_19,Скарб Пенні
+TID_HERO_BUNDLE_20,Таємниця Френка
+TID_KEY_BAR_INFO,"<c33a5d7>Жетони</c>, які можна заробити в боях.\n\nЖетони потрібні, щоб відкривати ящики."
+TID_KEY_BAR_INFO_DOUBLE_TOKEN_EVENT,"ВИХІДНІ З ПОДВОЄНИМИ ЖЕТОНАМИ\nЗаробляй удвічі більше <c33a5d7>жетонів</c> у звичайних боях.\n\nЖетони потрібні, щоб відкривати ящики."
+TID_NEW_ONLINE_FRIEND,ГРАВЕЦЬ У МЕРЕЖІ
+TID_NEW_GAME_ROOM,НОВА КОМАНДА
+TID_KEY_BAR_TITLE,"ЖЕТОНИ, ЯКІ МОЖНА ДОБУТИ В БОЮ"
+TID_PLAYAGAIN_QUIT,ВИЙТИ
+TID_BATTLE_END_WAITING,Чекаємо інших
+TID_ERROR_REPLAY_WAITING,Чекаємо початку повтору
+TID_ERROR_REPLAY_NOT_POSSIBLE,Повтор недоступний
+TID_ERROR_SPECTATE_WAITING,Чекаємо початку спостереження
+TID_ERROR_SPECTATE_NOT_POSSIBLE,Гравець зараз не б'ється
+TID_BRAWL_TV_STARTING,Завантаження BrawlTV...
+TID_ERROR_BRAWL_TV_WAITING,Очікування ввімкнення BrawlTV
+TID_BRAWL_TV_QUIT,Канал <NUM> BrawlTV
+TID_ERROR_BRAWL_TV_TUNE_FAILED,Нічого на каналі <NUM> BrawlTV — перемикаємо
+TID_BRAWL_TV_BATTLE_END_RETURN_HOME,Наступний через <NUM> с.
+TID_BRAWL_TV_BATTLE_END_RETURN_HOME_SOON,Автовідтворення
+TID_BRAWL_TV_OFF_RETURN_HOME,Вимкнути TV
+TID_FIRST_WIN_INFO_SURVIVAL,"Отримай <cff8E1b>зоряний жетон</c> за перший бій проти інших гравців, у якому ти потрапиш у четвірку лідерів."
+TID_TEAM_POPOVER_YOUR_ROOM,Це твоя команда
+TID_ERROR_SPECTATE_NOT_POSSIBLE_TEAM,Команда зараз не б'ється
+TID_TEAM_AD_JOIN_FAIL_ALREADY_IN_THIS_TEAM,Не можна вступити. Ти вже в цій команді.
+TID_TEAM_AD_JOIN_FAIL_FULL,"Не можна вступити, команда вже набрана."
+TID_HOMESCREEN_NOT_ENOUGH_TICKETS,Неможливо розпочати гру. Бракує квитків.
+TID_HOMESCREEN_TEAMS_NOT_SUPPORTED,У цій події командна гра не підтримується.
+TID_GAME_MODE_UNLOCKED,РОЗБЛОКОВАНО
+TID_ERROR_SPECTATE_DISABLED,Спостереження тимчасово відключене з технічних причин.
+TID_SPECTATE_FOLLOW,Натисни для прив'язки:
+TID_SPECTATE_FOLLOWING,Відстежую:
+TID_FIRST_WIN_INFO_TICKETED_EVENT,Отримай <cff8E1b>зоряний жетон</c> у своєму першому бою.
+TID_FIRST_WIN_INFO_TEAM_SURVIVAL,"Отримай <cff8E1b>зоряний жетон</c> за свій перший бій проти інших гравців, у якому твоя команда потрапить у двійку лідерів."
+TID_FIRST_WIN_INFO_SURVIVAL_COMBINED,"Щоб отримати <cff8E1b>зоряний жетон</c>, потрап у четвірку лідерів в одиночному режимі або в двійку — у парному."
+TID_CONNECTING_WAIT_FOR_SPECTATE,Очікування ввімкнення...
+TID_GATCHA_AD_STATUS_VIEW_SHOW_VIEWS,ДИВИТИСЯ РЕКЛАМУ ДЛЯ\nПОДВОЄННЯ ОДНІЄЇ НАГОРОДИ!\nСьогодні доступно ще <VIEWCOUNTREM> перегляди.
+TID_GATCHA_AD_STATUS_VIEW_SHOW_1VIEW,ДИВИТИСЯ РЕКЛАМУ ДЛЯ\nПОДВОЄННЯ ОДНІЄЇ НАГОРОДИ!\nСьогодні доступний ще <VIEWCOUNTREM> перегляд.
+TID_GATCHA_AD_STATUS_VIEW_SHOW_VIEWS_CHOISELESS,ОТРИМАЙ ЩЕ БІЛЬШЕ НАГОРОД!\nСьогодні доступно ще <VIEWCOUNTREM> перегляди.
+TID_GATCHA_AD_STATUS_VIEW_SHOW_1VIEW_CHOISELESS,ОТРИМАЙ ЩЕ БІЛЬШЕ НАГОРОД!\nСьогодні доступний ще <VIEWCOUNTREM> перегляд.
+TID_CANNON_DAMAGE,Пошкодження гармати
+TID_CANNON_HEALTH,Здоров'я гармати
+TID_ADD_FRIEND_ERROR_TOO_MANY_REQUESTS_OTHER,"У цього гравця забагато запитів на дружбу, що очікують відповіді. Спробуй пізніше."
+TID_ADD_FRIEND_ERROR_TOO_MANY_REQUESTS_YOU,Тобою відправлено забагато пропозицій дружити. Видали одну та спробуй знову.
+TID_ADD_FRIEND_ERROR_GENERIC,Не вдалося відправити пропозицію дружити. Спробуй пізніше.
+TID_ADD_FRIEND_ERROR_DOES_NOT_EXIST,"Гравця, якого ти намагаєшся додати, не існує."
+TID_ADD_FRIEND_ERROR_OWN_AVATAR,Відправити пропозицію дружити собі ж не можна!
+TID_ADD_FRIEND_ERROR_TOO_MANY_FRIENDS_OTHER,У твого друга забагато друзів. Спробуй пізніше.
+TID_ADD_FRIEND_ERROR_TOO_MANY_FRIENDS_YOU,"У тебе забагато друзів. Видали кого-небудь, щоб додати нового друга."
+TID_HINT_26,"Пенні може завдати значної шкоди розривною атакою, коли всі цілі вишикувані в ряд."
+TID_HINT_27,"Зібравши команду перед боєм, можна обговорити план і підібрати вигідну комбінацію бійців."
+TID_HINT_28,"Спробуй зіграти дружню гру, щоб потренуватися перед подіями, провести дружнє змагання та повеселитися!"
+TID_HINT_29,"Після хорошої гри з новими товаришами по команді можна натиснути «Грати знову», щоб зіграти разом ще раз!"
+TID_HINT_30,"У дружніх боях можна вибрати будь-який режим і карту. Крім того, бійці будуть повністю поліпшені!"
+TID_HINT_31,"Френк перестає атакувати та використовувати Супер, що дозволяє його супротивникам відійти на безпечну відстань."
+TID_EXPERIENCE,ДОСВІД
+TID_HINT_32,"У подіях за квитками не витрачаються жетони, але для гри в них тобі знадобляться квитки."
+TID_HINT_33,Можна запропонувати дружити учасникам клубу на сторінці учасників клубу.
+TID_HINT_34,"Можна запропонувати дружити учасникам команди, в якій ти перебуваєш."
+TID_HINT_35,Після декількох хороших ігор можна запропонувати дружити товаришу по команді в розділі можливих друзів.
+TID_HINT_36,"Можна запропонувати дружити учасникам команди, в якій перебуваєш."
+TID_HINT_37,"Щоб повідомити про свою команду друзям і учасникам клубу, скористайся кнопкою «Повідомити»."
+TID_COOP_GENERATED,Ревуча арена
+TID_MECHANIC_KNIGHT_SKIN,ДЖЕССІ-ДРАКОНОБОРЕЦЬ
+TID_FRANK_CAVEMAN_SKIN,ПЕЧЕРНИЙ ФРЕНК
+TID_SOLO,ОДИНОЧНЕ
+TID_DUO,ПАРНЕ
+TID_INVITE_FRIEND_TOKEN_ERROR_FRIENDS_FULL,Список друзів заповнений!
+TID_INVITE_FRIEND_TOKEN_ERROR_TOO_MANY,Забагато активних запрошень. Спробуй пізніше.
+TID_INVITE_FRIEND_TOKEN_ERROR,Помилка під час запрошення друзів
+TID_GOLDRUSH_9,Озеро пітьми
+TID_TEAM_JOIN_FINISH_TUTORIAL,"Пройди навчання, щоб вступити в команду."
+TID_ERROR_POP_UP_LOGIN_NOT_ALLOWED_TITLE,Увійти не вдалося
+TID_ERROR_POP_UP_LOGIN_NOT_ALLOWED,Бета-версія Gale Brawl ще не доступна у твоїй країні. Перевір пізніше!
+TID_ERROR_POP_UP_LOGIN_NOT_ALLOWED_BUTTON,OK
+TID_CROW_PHEONIX_SKIN,ВОРОН-ФЕНІКС
+TID_MECHANIC_SUMMER_SKIN,ЛІТНЯ ДЖЕССІ
+TID_HERO_SCREEN_DIM_COLOR_MUL,222222
+TID_FREE_BOX_AVAILABLE_0,На тебе чекає нагорода!
+TID_FREE_BOX_AVAILABLE_1,Можна отримати нагороду!
+TID_FREE_BOX_AVAILABLE_2,"Забери свою нагороду, поки вона не пропала!"
+TID_FREE_BOX_AVAILABLE_3,На тебе чекають нагороди!
+TID_FREE_BOX_AVAILABLE_4,Забери свою нагороду!
+TID_GUNSLINGER_ROCKSTAR_SKIN_SHOP,РОК-ЗІРКА\nКОЛЬТ
+TID_ROCKET_BEACH_SKIN_SHOP,ПЛЯЖНИЙ\nБРОК
+TID_CACTUS_PINK_SKIN_SHOP_OLD,РОЖЕВИЙ\nСПАЙК
+TID_SHAMAN_PANDA_SKIN_SHOP,НІТА-ПАНДА\n
+TID_CROW_WHITE_SKIN_SHOP,БІЛИЙ\nВОРОН
+TID_BULL_HAIR_SKIN_SHOP,ВІКІНГ\nБУЛЛ
+TID_TRICKSHOT_GOLD_SKIN_SHOP_OLD,ЗОЛОТИЙ МЕДАЛІСТ\nРИКОШЕТ
+TID_BARKEEP_GOLD_SKIN_SHOP,ЗОЛОТИЙ\nБАРЛІ
+TID_LUCHADOR_RUDO_SKIN_SHOP,ЕЛЬ РУДО\nПРІМО
+TID_SHOTGUN_BANDITA_SKIN_SHOP,БАНДИТКА\nШЕЛЛІ
+TID_LUCHADOR_KING_SKIN_SHOP,ЕЛЬ РЕЙ\nПРІМО
+TID_MECHANIC_KNIGHT_SKIN_SHOP,ДРАКОНОБОРЕЦЬ\nДЖЕССІ
+TID_FRANK_CAVEMAN_SKIN_SHOP,ПЕЧЕРНИЙ\nФРЕНК
+TID_MECHANIC_SUMMER_SKIN_SHOP,ЛІТНЯ\nДЖЕССІ
+TID_CROW_PHEONIX_SKIN_SHOP,ВОРОН-ФЕНІКС\n
+TID_GOLDRUSH_10,Камера відлуння
+TID_BANKHEIST_5,Химерна огорожа
+TID_BATTLE_ROYALE_D7,Супершопінг
+TID_BATTLE_ROYALE_8,Вторгнення на острів
+TID_BATTLE_ROYALE_6,Штольня
+TID_CLAN_CHAT_JUMP_TO_NEW,Нові повідомлення (<count>)
+TID_CLAN_CHAT_NEW,НОВЕ
+TID_BANKHEIST_6,Розплата
+TID_GOLDRUSH_11,Затоплена шахта
+TID_ERROR_POP_UP_LOGIN_NOT_ALLOWED_ANDROID,Необхідно завантажити Gale Brawl Beta з Google Play Store (гра доступна тільки в деяких країнах). Пристрої з root-правами в цей час не підтримуються. Заглянь пізніше!
+TID_RATE_APP_MESSAGE_ANDROID,"Будь ласка, оціни Gale Brawl чи залиш відгук. Для нас дуже важлива твоя думка!"
+TID_BIND_TO_NEW_GOOGLE_SERVICE_ACCOUNT_TITLE,Новий обліковий запис Google Play
+TID_BIND_TO_NEW_GOOGLE_SERVICE_ACCOUNT,Хочеш зберегти свою гру в цьому обліковому записі Google Play?
+TID_SHOWDOWN_END,ЗІТКНЕННЯ!
+TID_SETTINGS_FIXES_JOYSTICK,ЗАБЛОКУВАТИ ОБЛАСТЬ КЕРУВАННЯ
+TID_SETTINGS_SC_ID,SUPERCELL ID
+TID_LANGUAGE_LOCALIZED_NAME,Українська
+TID_POPUP_CHANGE_LANGUAGE_TITLE,Змінити мову?
+TID_POPUP_CHANGE_LANGUAGE,Точно хочеш змінити мову?
+TID_SKIN_RARITY_1,<cffffff>Звичайний</c>
+TID_SKIN_RARITY_2,<c0070dd>Рідкісний</c>
+TID_SKIN_RARITY_3,<ca335ee>Епічний</c>
+TID_SKIN_RARITY_4,<cff8000>Легендарний</c>
+TID_BANKHEIST_7,Кактусовий коридор
+TID_BATTLE_ROYALE_9,Західний вітер
+TID_BATTLE_ROYALE_10,Дрифт у дюнах
+TID_NO_FRIENDS_GO_TO_FRIENDS,У розділ «Друзі»
+TID_EVENT_MODIFIER_1,ЕНЕРГЕТИЧНИЙ НАПІЙ
+TID_EVENT_MODIFIER_2,ЗЛИЙ РОБОТ
+TID_EVENT_MODIFIER_3,МЕТЕОРИТНИЙ ДОЩ
+TID_EVENT_MODIFIER_4,НІЧНИЙ ДОЗОР
+TID_EVENT_MODIFIER_DESC_1,"Якщо біля тебе нікого немає, поруч може з'явитися енергетичний напій. Випий його, щоб на короткий час збільшити швидкість і пошкодження!"
+TID_EVENT_MODIFIER_DESC_2,Злий робот буде раптово з'являтися й атакувати найближчого бійця. Бережися!
+TID_EVENT_MODIFIER_DESC_3,"Це точно не той метеоритний дощ, яким захочеться милуватися. Бережися величезних каменів, що падають із неба!"
+TID_BALL_4,Шкідливі поля
+TID_EVENT_MODIFIER_DESC_4,"Ти постійно втрачаєш здоров'я, але можеш частково відновлювати його, завдаючи шкоди ворожим бійцям. Перемога над іншим бійцем відновить твоє здоров'я повністю! Ефект усіх зцілювальних здатностей знижений."
+TID_BALL_5,Форт ББ
+TID_BALL_6,Суперстадіон
+TID_BALL_7,Стрибки по калюжах
+TID_BANKHEIST_8,Кістяний тунель
+TID_EVENT_MODIFIER_DESC_3_SD,"Перебувати поруч із друзями небезпечно, коли з неба валяться величезні камені!"
+TID_DEFEATED_SHOWDOWN,Поразка
+TID_OFFER_WATCH_AD,ДИВИТИСЯ
+TID_ERROR_REPLAY_DISABLED,Повтор недоступний
+TID_WANTED_9,Гранд-канал
+TID_HOOK,ДЖИН
+TID_STAR_KEY_INFO_EXTENSION,"\n\nЗоряні жетони потрібні, щоб відкривати великі ящики."
+TID_TEAM_OWNER_TEXT,Команда гравця <NAME>
+TID_SPECTATE_AUTO,Автоматично
+TID_BATTLE_ROYALE_11,Вау-фактор
+TID_FRIEND_POPOVER_INVITE,ЗАПРОСИТИ В КОМАНДУ
+TID_TEAM_ERROR_ALREADY_IN_ROOM,Гравець уже у твоїй команді!
+TID_TEAM_ERROR_ALREADY_INVITED,Гравець уже запрошений!
+TID_BATTLE_ROYALE_D2,Вітряна долина
+TID_UNDERTAKER_GREASER_SKIN,РОКАБІЛЬЩИК МОРТИС
+TID_COMMUNITY_PROPS,Карта спільноти!\n\nІдея:\n<cff8000><CREDIT></c>
+TID_BATTLE_ROYALE_12,Спекотний лабіринт
+TID_TEAM_INVITE_ALREADY_IN_TEAM,Гравець уже в команді!
+TID_HINT_38,"Синє коло, яке обертається під бійцем, означає, що його Супер готовий!"
+TID_HINT_39,"Жовте коло, яке обертається під бійцем, означає, що його Супер наводиться на ціль!"
+TID_EVENT_NOT_AVAILABLE,Подій немає
+TID_SHOP_OFFER_PURCHASE_AD_NOT_AVAILABLE,Немає доступних відео. Заглянь пізніше!
+TID_SHOP_NOT_AVAILABLE,недоступно
+TID_UNDERTAKER_GREASER_SKIN_SHOP,РОКАБІЛЬЩИК\nМОРТИС
+TID_HINT_40,"Під'єднайся до Supercell ID у налаштуваннях, щоб захистити свій обліковий запис і мати можливість грати на різних пристроях. На додачу ти отримаєш безкоштовний скін!"
+TID_GACHA_VIDEO_REWARD_RECEIVED,Додана додаткова нагорода!
+TID_BUTTON_NAVI_SHOP,КРАМНИЦЯ
+TID_BUTTON_NAVI_SOCIAL,СПІЛКУВАННЯ
+TID_BUTTON_NAVI_BRAWLERS,БІЙЦІ
+TID_BRAWL_TICKETS_BUTTON,ГРАТИ
+TID_HOME_SCREEN_INVITE,ЗАПРОСИТИ
+TID_HINT_41,Твої трофеї складаються з трофеїв усіх твоїх бійців.
+TID_GOAL,<name> забиває гол!
+TID_EVENT_MODIFIER_5,ЦІЛЮЩІ ГРИБИ
+TID_EVENT_MODIFIER_DESC_5,"Цілющі гриби з'являються тут і там! Протягом деякого часу вони зцілюють усе, що перебуває поблизу."
+TID_EVENT_MODIFIER_DESC_5_SD,"Цілющі гриби з'являються тут і там! Гриби перестають рости, коли ти перебуваєш поруч із друзями."
+TID_NINJA,ЛЕОН
+TID_ROSA,ТРОЯНДА
+TID_HINT_42,"Якщо твій боєць не атакує та не отримує пошкодження, він починає відновлювати здоров'я."
+TID_HOOK_SHORT_DESC,ПІДТРИМКА
+TID_HOOK_DESC,"Джин випускає зі своєї чарівної лампи снаряди, що розділяються. Його Супер — чарівна рука, яка хапає та підтягає ворогів ближче!"
+TID_SPEC_ABI_HOOK,Чарівний туман
+TID_SPEC_ABI_HOOK_DESC,"Джин лікує всіх союзників поблизу, відновлюючи їм <c00cc00><VALUE1></c> очок здоров'я за секунду."
+TID_HOOK_WEAPON,ДИМОВА АТАКА
+TID_HOOK_ULTI,ЧАРІВНА РУКА
+TID_HOOK_WEAPON_DESC,"Джин стріляє з лампи щільною кулею чарівного диму. Якщо куля не влучає в ціль, то перетворюється на конус, що завдає шкоди."
+TID_HOOK_ULTI_DESC,"Джин випускає з лампи чарівну руку. Якщо рука досягає ворога, то підтягає його прямо до Джина!"
+TID_NINJA_SHORT_DESC,ПРИХОВАНИЙ УБИВЦЯ
+TID_NINJA_DESC,"Леон уражає ціль роєм метальних клинків. Його Супер — димова бомба, що робить його невидимим на деякий час!"
+TID_SPEC_ABI_SPEED_INVISIBLE,Слід диму
+TID_SPEC_ABI_SPEED_INVISIBLE_DESC,"Активувавши Супер, Леон рухається на <c00cc00><VALUE1> %</c> швидше, поки діє його невидимість."
+TID_NINJA_WEAPON,ОБЕРТОВІ ЛЕЗА
+TID_NINJA_ULTI,ДИМОВА БОМБА
+TID_NINJA_WEAPON_DESC,"Легким рухом руки Леон відправляє вперед чотири обертових леза. Що довше вони летять, то нижче пошкодження."
+TID_NINJA_ULTI_DESC,"Леон може на <time> с. стати невидимим, але атакувавши, він видасть себе. Якщо вороги підійдуть до Леона заблизько, то зможуть його помітити."
+TID_ROSA_SHORT_DESC,ВАЖКОВАГОВИК
+TID_ROSA_DESC,Ця боксерка-ботанік міцно стоїть на ногах і не боїться ближнього бою! Супер обплітає її міцною та стовідсотково веганською бронею.
+TID_SPEC_ABI_HEAL_FOREST,Відпочинок на природі
+TID_SPEC_ABI_HEAL_FOREST_DESC,"Перебуваючи в кущах, Троянда відновлює <c00cc00><VALUE1></c> очок здоров'я за секунду."
+TID_ROSA_WEAPON,КАМ'ЯНІ РУКИ
+TID_ROSA_ULTI,СИЛА ПРИРОДИ
+TID_ROSA_WEAPON_DESC,Троянда обрушує на супротивника серію потужних технічних ударів!
+TID_ROSA_ULTI_DESC,"На <time> секунд у Троянди з'являється рослинна броня, що зменшує зазнану Трояндою шкоду на <num> %."
+TID_STAT_DAMAGE_PER_CLUSTER,Пошкодження від касети
+TID_STAT_DAMAGE_PER_SHURIKEN,Пошкодження від клинка поблизу
+TID_STAT_INVISIBLE,Димова бомба
+TID_STAT_SHIELD,Щит
+TID_SELECT_HERO_INFO_RAID_BOSS,<c2288ff>Гравці проти боса</c>
+TID_EVENT_POPUP_GMV_LABEL_RAID_BOSS,Три гравці проти БОСА
+TID_GAME_MODE_10,БІЙ З БОСОМ
+TID_RAID_BOSS_INTRO_TEXT,Здолай боса
+TID_RAID_1,Арена робобоса
+TID_GAME_MODE_10_DESC,"Чи зможеш ти здолати грізного робобоса? Дій спільно з товаришами по команді, щоб укласти цього монстра. Ти зможеш повертатися в бій, поки буде живий хоч один товариш по команді. Якщо всі поляжуть, грі кінець!\n\nРівень випробування — від нормального до божевільного — визначає його складність і підвищується, коли ти перемагаєш боса."
+TID_TEAM_MATE_GONE,<ccccc00>Товариш по команді поліг!</c>
+TID_ALL_TEAM_MATES_GONE,<cee0000>Обидва товариші по команді полягли!</c>
+TID_RAID_BOSS_ENRAGE_1,<c99bb22bb>Бос ЗЛИТЬСЯ!</c>
+TID_RAID_BOSS_ENRAGE_2,<c99bb2222>Бос ЛЮТУЄ!</c>
+TID_RAID_BOSS_ENRAGE_3,<c99bbbb22>Бос ШАЛЕНІЄ!</c>
+TID_RAID_BOSS_DIFFICULTY_0,Звичайний
+TID_RAID_BOSS_DIFFICULTY_1,Складний
+TID_RAID_BOSS_DIFFICULTY_2,Експерт
+TID_RAID_BOSS_DIFFICULTY_3,Майстер
+TID_RAID_BOSS_DIFFICULTY_4,Божевілля
+TID_RAID_BOSS_DIFFICULTY_5,Божевілля II
+TID_RAID_BOSS_DIFFICULTY_6,Божевілля III
+TID_RAID_BOSS_DIFFICULTY_7,Божевілля IV
+TID_RAID_BOSS_DIFFICULTY_8,Божевілля V
+TID_RAID_BOSS_DIFFICULTY_9,Божевілля VI
+TID_RAID_BOSS_DIFFICULTY_10,Божевілля VII
+TID_RAID_BOSS_DIFFICULTY_11,Божевілля VIII
+TID_RAID_BOSS_DIFFICULTY_12,Божевілля IX
+TID_RAID_BOSS_DIFFICULTY_13,Божевілля X
+TID_RAID_BOSS_DIFFICULTY_14,Божевілля XI
+TID_RAID_BOSS_DIFFICULTY_15,Божевілля XII
+TID_RAID_BOSS_DIFFICULTY_16,Божевілля XIII
+TID_RAID_BOSS_DIFFICULTY_17,Божевілля XIV
+TID_RAID_BOSS_DIFFICULTY_18,Божевілля XV
+TID_RAID_BOSS_DIFFICULTY_19,Божевілля XVI
+TID_RAID_BOSS_DIFFICULTY_20,"НУ ВИ, ХЛОПЦІ, Й КРУТІ!"
+TID_MODES_NEW_EVENT,НОВА ПОДІЯ!
+TID_MODES_NEW_EVENTS,НОВІ ПОДІЇ!
+TID_TEAM_MEMBER_STATUS_NEW_0,<c999999>НЕ В МЕРЕЖІ</c>
+TID_TEAM_MEMBER_STATUS_NEW_1,БІЙ
+TID_TEAM_MEMBER_STATUS_NEW_2,НЕМАЄ НА МІСЦІ
+TID_TEAM_MEMBER_STATUS_NEW_3,<EMPTY>
+TID_TEAM_MEMBER_STATUS_NEW_4,ПІДБІР СУПРОТИВНИКІВ
+TID_TEAM_MEMBER_STATUS_NEW_5,ЕКРАН ЗАКІНЧЕННЯ
+TID_TEAM_MEMBER_STATUS_NEW_6,<c999999>НЕ В МЕРЕЖІ</c>
+TID_TEAM_MEMBER_STATUS_NEW_7,СПОСТЕРІГАЄ
+TID_TEAM_MEMBER_STATUS_NEW_8,ТРЕНУЄТЬСЯ
+TID_TEAM_MEMBER_STATUS_NEW_9,ДРУКУЄ...
+TID_TEAM_MEMBER_STATUS_NEW_10,ВИБИРАЄ БІЙЦЯ
+TID_TEAM_MEMBER_STATUS_NEW_11,ПЕРЕГЛЯДАЄ ПОДІЇ
+TID_TEAM_MEMBER_STATUS_NEW_READY,ГОТОВО!
+TID_BUTTON_SPECTATE,СПОСТЕРІГАТИ
+TID_NEW_EVENT_IN,До нової події <TIME>
+TID_NEW_EVENT_NOW,РОЗПОЧАЛАСЯ НОВА ПОДІЯ!
+TID_SHOP_TITLE,КРАМНИЦЯ
+TID_SELECT_EVENT_TITLE,ВИБЕРИ ПОДІЮ
+TID_HERO_LIST_LABEL_NEW,<c53C5F7><COUNT> із <TOTAL></c> БІЙЦІВ
+TID_KEY_COUNTER,<VALUE><c7984a8>/<MAX></c>
+TID_ONLINE_TAB_1,ГРАВЦІ В МЕРЕЖІ
+TID_ONLINE_TAB_2,ЧАТ КОМАНДИ
+TID_ONLINE_TAB_3,ЧАТ КЛУБУ
+TID_ALLIANCE_CHAT_TAB_NOT_IN_ALLIANCE,"Щоб користуватися чатом клубу, потрібно перебувати в клубі."
+TID_TEAM_CHAT_TAB_NOT_IN_TEAM,"Щоб користуватися чатом команди, потрібно вступити в команду."
+TID_NO_BAND_GO_TO_BANDS,До клубів
+TID_SHARE_TEAM_CODE_NO_CODE,"Дочекайся появи кода перед тим, як поділитися!"
+TID_EVENT_LOCKED_PRO_LEAGUE,"Отримай зоряну силу для одного з бійців, щоб розблокувати цю подію"
+TID_TEAM_TEAMCODE_YOURS,Код твоєї команди
+TID_BACK_BUTTON,ПОКИНУТИ КОМАНДУ
+TID_BARLEY_WIZARD_SKIN,ЧАРІВНИК БАРЛІ
+TID_EVENT_LOCKED_TROPHIES,"Виграй більше трофеїв, щоб розблокувати подію."
+TID_SHOTGUN_STAR_SKIN,ЗОРЯНА ШЕЛЛІ
+TID_PARTY_MODE_TITLE,ДРУЖНЯ ГРА
+TID_BUTTON_PARTY_MODE,СТВОРИТИ
+TID_LEAVE_TEAM_TITLE,КОМАНДА
+TID_LEAVE_TEAM_TXT,ВИЙТИ
+TID_PARTY_MODE_DESC,"Дружні ігри не приносять трофеї, але в них можна потренуватися та навіть провести дружні змагання!\n\nУ дружніх іграх усі бійці повністю покращені."
+TID_HEROES_TO_BE_UNLOCKED,НЕРОЗБЛОКОВАНІ БІЙЦІ
+TID_NITA_REINDEER_SKIN,НІТА ЧЕРВОНИЙ НІС
+TID_PENNY_ELF_SKIN,ПОМІЧНИЦЯ ПЕННІ
+TID_DYNAMIKE_SANTA_SKIN,САНТАМАЙК
+TID_DYNAMIKE_CHEF_SKIN,МАЙК-ПОВАР
+TID_BROCK_BOOMBOX_SKIN,БРЕЙК-ДАНСЕР БРОК
+TID_EVENT_SLOT_NAME_1,ЗАХОПЛЕННЯ КРИСТАЛІВ
+TID_EVENT_SLOT_NAME_8,ОДИНОЧНІ ПОДІЇ
+TID_EVENT_SLOT_NAME_9,СИЛОВА ГОНКА
+TID_EVENT_SLOT_NAME_2,ЗІТКНЕННЯ
+TID_EVENT_SLOT_NAME_3,ПОДІЇ ДНЯ
+TID_EVENT_SLOT_NAME_4,КОМАНДНІ ПОДІЇ
+TID_EVENT_SLOT_NAME_7,ПОДІЇ ЗА КВИТКАМИ
+TID_PENNY_ELF_SKIN_SHOP,ПОМІЧНИЦЯ\nПЕННІ
+TID_DYNAMIKE_SANTA_SKIN_SHOP,САНТАМАЙК
+TID_DYNAMIKE_CHEF_SKIN_SHOP,МАЙК-ПОВАР
+TID_BROCK_BOOMBOX_SKIN_SHOP,БРЕЙК-ДАНСЕР\nБРОК
+TID_NITA_REINDEER_SKIN_SHOP,НІТА\nЧЕРВОНИЙ НІС
+TID_EVENT_STARTS_IN,Подія розпочинається через <TIME>
+TID_UNDERTAKER_HAT_SKIN,МОРТИС У ЦИЛІНДРІ
+TID_CREATE_ROOM_CODE,СТВОРИТИ КОД КОМАНДИ
+TID_EVENT_LOCKED_TEAM,У цій події командна гра не підтримується!
+TID_EVENT_PREVIEW_TITLE,ІНФОРМАЦІЯ ПРО ПОДІЮ
+TID_EVENT_POPUP_GAME_MODE_6_SOLO_DUO,Виживи на арені
+TID_GAME_MODE_6_SOLO_DUO_DESC,"Візьми участь у зіткненні на арені поодинці або з напарником! Перемагає той, що залишився в живих.\n\nЗбирай кубики підсилень, щоб збільшити здоров'я та завдану шкоду. І не забувай рухатися: отруйні хмари підступають!"
+TID_INVITE_PENDING,ЗАПРОШЕННЯ
+TID_JOIN_REQUEST_PENDING,ВСТУП
+TID_GOAL_MATCH_OVER,<name> забиває гол!\nМатч закінчений.
+TID_GOLDRUSH_XMAS_1,Снігова фортеця
+TID_GOLDRUSH_XMAS_2,Святковий мороз
+TID_GOLDRUSH_XMAS_3,Гра у сніжки
+TID_GOLDRUSH_XMAS_4,Гора криги
+TID_GOLDRUSH_XMAS_5,Снігова облога
+TID_GOLDRUSH_XMAS_6,Подарунковий пакунок
+TID_GOLDRUSH_XMAS_7,Прикраса
+TID_GOLDRUSH_XMAS_8,Замерзле озеро
+TID_GOLDRUSH_XMAS_9,Морозні кристали
+TID_GOLDRUSH_XMAS_10,Полювання за скарбами
+TID_RAID_BOSS_DIFFICULTY_CAP,"Рівень випробування боса був знижений, щоб відповідати рівню учасників команди. Для участі у випробуванні зниженого рівня не потрібні квитки, але нагороду можна отримати, тільки б'ючись із босом свого рівня!"
+TID_RAID_BOSS_DIFFICULTY,Випробування:
+TID_BOSS_3,Прочухан
+TID_BOSS_4,Командний день
+TID_BOSS_5,Погром
+TID_BOSS_6,Мисливський загін
+TID_COOP_3,Захисники сховища
+TID_COOP_4,У чорта на виступці
+TID_COOP_5,Перерваний транзит
+TID_COOP_6,Бережи та бережися
+TID_RAID_2,Ігрова зона
+TID_RAID_3,Металобрухт
+TID_BUTTON_INVITE_PLAYER,ЗАПРОСИТИ
+TID_BUTTON_JOIN_TEAM,ПОПРОСИТИ ПРИЙНЯТИ
+TID_BUTTON_TEAM_FULL,НАБРАНА
+TID_DECIMAL_MARK,","
+TID_RARITY_HEADER_0,НАГОРОДА ШЛЯХУ ДО СЛАВИ
+TID_RARITY_HEADER_1,РІДКІСНИЙ
+TID_RARITY_HEADER_2,НАДРІДКІСНИЙ
+TID_RARITY_HEADER_3,ЕПІЧНИЙ
+TID_RARITY_HEADER_4,МІФІЧНИЙ
+TID_RARITY_HEADER_5,ЛЕГЕНДАРНИЙ
+TID_SETTINGS_KAKAO,ДРУЗІ В KAKAO
+TID_HERO_INFO_LEVEL_WITH_NUMBER,СИЛА: <NUMBER>
+TID_EVENT_LOCKED_CAN_CLAIM,Вітаємо! Тепер подію можна розблокувати на екрані «Шлях до слави».
+TID_IN_YOUR_TEAM,ТВОЯ КОМАНДА
+TID_TEAM_REQEST_JOIN_FAIL_TEAM_FULL,Не можна відправити запит на вступ. Команда вже набрана.
+TID_EVENT_ENDS_IN,Подія закінчується через <TIME>
+TID_EVENT_LOCKED_CAN_CLAIM_WARNING,Розблокуй подію на екрані «Шлях до слави»
+TID_EVENT_LOCKED_CAN_CLAIM,Вітаємо! Тепер ти можеш розблокувати подію на екрані «Шлях до слави».
+TID_BATTLE_ROYALE_3D,Долина смерті
+TID_BATTLE_ROYALE_7D,Кам'яниста долина
+TID_WANTED_4D,Мухомор
+TID_GOLDRUSH_3D,Грибна печера
+TID_WEEKEND_OFFER,Акція вихідного дня
+TID_EXCLUSIVE_OFFER,Ексклюзивна акція
+TID_EPIC_OFFER,Епічна акція
+TID_MEGA_OFFER,Мегаакція
+TID_FEATURED_OFFER,Рекомендована акція
+TID_TAIPEI_OFFER,Акція Taipei Game Show
+TID_RAID_BOSS_ENRAGE_4,<c99ffffff>Бос увійшов у РЕЖИМ БОГА!</c>
+TID_RAID_BOSS_ENRAGE_WARNING_1,Бос почне <cffbb22bb>ЗЛИТИСЯ</c> через:
+TID_RAID_BOSS_ENRAGE_WARNING_2,Бос <cffbb2222>РОЗЛЮТУЄТЬСЯ</c> через:
+TID_RAID_BOSS_ENRAGE_WARNING_3,Бос <cffbbbb22>РОЗШАЛЕНІЄ</c> через:
+TID_RAID_BOSS_ENRAGE_WARNING_4,Бос перейде в <cffffffff>РЕЖИМ БОГА</c> через:
+TID_HERO_INFO_LOCKED_INFO_SHORT,"Щоб розблокувати, відкривай ящики!"
+TID_ROBO_WARS_1,Облога по-шведськи
+TID_ROBO_WARS_INTRO_TEXT,Знищ базу ворога
+TID_ROBO_WARS_SCRAP,Болти:
+TID_ROBO_WARS_OWN_ROBO_SPAWNED_0,<c998888ff>Твоя команда</c> зібрала облогового робота!
+TID_ROBO_WARS_ENEMY_ROBO_SPAWNED_0,<c99dd3333>Команда ворога</c> зібрала облогового робота!
+TID_ROBO_WARS_OWN_ROBO_SPAWNED_1,<c998888ff>Твоя команда</c> зібрала <c99bb22bb>ЗЛОГО робота!</c>
+TID_ROBO_WARS_ENEMY_ROBO_SPAWNED_1,<c99dd3333>Команда ворога</c> зібрала <c99bb22bb>ЗЛОГО робота!</c>
+TID_ROBO_WARS_OWN_ROBO_SPAWNED_2,<c998888ff>Твоя команда</c> зібрала <c99bb2222>ЛЮТОГО робота!</c>
+TID_ROBO_WARS_ENEMY_ROBO_SPAWNED_2,<c99dd3333>Команда ворога</c> зібрала <c99bb2222>ЛЮТОГО робота!</c>
+TID_ROBO_WARS_OWN_ROBO_SPAWNED_3,<c998888ff>Твоя команда</c> зібрала <c99bbbb22>ШАЛЕНОГО робота</c>!
+TID_ROBO_WARS_ENEMY_ROBO_SPAWNED_3,<c99dd3333>Команда ворога</c> зібрала <c99bbbb22>ШАЛЕНОГО робота</c>!
+TID_ROBO_WARS_SCRAP_AMOUNT,<v1>/<v2>
+TID_BRAWL_BOX_INFO,"Збери в боях <c33a5d7><COUNT> жетонів</c>, щоб відкрити цей ящик."
+TID_STAR_BOX_INFO,"Збери <cff8E1b><COUNT> зоряних жетонів</c> за першу перемогу в різних подіях, щоб відкрити великий ящик."
+TID_ALLIANCE_LOCATION,РОЗТАШУВАННЯ КЛУБУ
+TID_LOCATION_TITLE,ВИБРАТИ РОЗТАШУВАННЯ
+TID_SETTINGS_LOCATION,РОЗТАШУВАННЯ
+TID_REGION_INT,Міжнародний клуб
+TID_POPUP_CHANGE_LOCATION_TITLE,Змінити розташування?
+TID_POPUP_CHANGE_LOCATION,Точно хочеш змінити розташування? Розташування можна міняти тільки раз на день.
+TID_CHANGE_LOCATION_RESULT_0,Нове розташування: <COUNTRY>
+TID_CHANGE_LOCATION_RESULT_1,Розташування поки не можна змінити. Спробуй знову через <TIME>.
+TID_SKIN_INFO_CAMPAIGN_2_AVAILABLE,Зустрічай місячний Новий рік зі святковим скіном!
+TID_SKIN_INFO_CAMPAIGN_2_NOT_AVAILABLE,Скін до місячного Нового року
+TID_CACTUS_PINK_SKIN,САКУРА СПАЙК
+TID_CACTUS_PINK_SKIN_SHOP,САКУРА\nСПАЙК
+TID_TRICKSHOT_DUDE,РІКО
+TID_TRICKSHOT_GOLD_SKIN,МАЖОР РІКО
+TID_TRICKSHOT_GOLD_SKIN_SHOP,МАЖОР\nРІКО
+TID_SKIN_POPCORN_RICO,ПОПКОРН РІКО
+TID_SKIN_POPCORN_RICO_SHOP,ПОПКОРН\nРІКО
+TID_SKIN_FOOTBULL,ТАЧДАУН БУЛЛ
+TID_SKIN_FOOTBULL_SHOP,ТАЧДАУН\nБУЛЛ
+TID_SKIN_DUMPLING_DARRYL,СОЄВИЙ ДЕРРІЛ
+TID_SKIN_DUMPLING_DARRYL_SHOP,СОЄВИЙ\nДЕРРІЛ
+TID_SKIN_LUNAR_BROCK,КУНГ-ФУ БРОК
+TID_SKIN_LUNAR_BROCK_SHOP,КУНГ-ФУ\nБРОК
+TID_SKIN_LUNAR_COLT,ГВАРДІЄЦЬ КОЛЬТ
+TID_SKIN_LUNAR_COLT_SHOP,ГВАРДІЄЦЬ\nКОЛЬТ
+TID_SKIN_VALENTINE_POCO,МЕНЕСТРЕЛЬ ПОКО
+TID_SKIN_VALENTINE_POCO_SHOP,МЕНЕСТРЕЛЬ\nПОКО
+TID_BANKHEIST_9,Частка секунди
+TID_BANKHEIST_10,Шум і лють
+TID_BANKHEIST_11,Перестрілка
+TID_BANKHEIST_12,Взяття моста
+TID_BANKHEIST_13,Загнані в кут
+TID_WANTED_10,Вечірка в басейні
+TID_WANTED_11,Корида
+TID_WANTED_12,Цар гори
+TID_WANTED_13,Кремовий торт
+TID_WANTED_14,Посуха
+TID_NOT_ENOUGH_LEGENDARY_TROPHIES,Бракує зоряних очок!
+TID_NOT_ENOUGH_GOLD_TITLE,Бракує монет!
+TID_NOT_ENOUGH_GOLD_TEXT,Купити відсутні монети (<NUM>)?
+TID_NOT_ENOUGH_GOLD_TEXT_ONE,Купити відсутні монети?
+TID_TEAM_INVITATION_POPUP_MUTE_ALL,БЛОКУВАТИ ВСІ ЗАПРОШЕННЯ НА 1 ГОДИНУ
+TID_TEAM_INVITATION_SETTING_MUTE,Блокувати всі запрошення в команду
+TID_BUTTON_TEAM_DND,НЕ ТУРБУВАТИ
+TID_SHOP_VALENTINE_OFFER,Акція до Дня святого Валентина
+TID_SHOP_BRAWLER_BUNDLE,Комплект з бійцем
+TID_SHOP_SEASONAL_SKIN_OFFER,Акція на сезонний скін
+TID_SHOP_WELCOME_OFFER,Привітальна акція
+TID_SHOP_BRAWLER_PACK,Набір з бійцем
+TID_SHOP_STAR_POWER_OFFER,Акція на зоряну силу
+TID_SHOP_UPGRADE_BUNDLE,Комплект для поліпшення
+TID_SHOP_NEW_BRAWLER_OFFER,Акція на нового бійця
+TID_SHOP_NEW_SKIN_RELEASE,Вийшов новий скін!
+TID_SHOP_NEW_SKIN_OFFER,Акція на новий скін
+TID_FRIENDLY_GAME_ROOM_LOCKED,"Досягни <NUM>-го рівня, щоб розблокувати дружню гру"
+TID_HEROES_COMING_SOON,НЕЗАБАРОМ З'ЯВЛЯТЬСЯ НОВІ БІЙЦІ
+TID_RARITY_NAME_0_UPPER,НАГОРОДИ ШЛЯХУ ДО СЛАВИ
+TID_RARITY_NAME_1_UPPER,РІДКІСНИЙ
+TID_RARITY_NAME_2_UPPER,НАДРІДКІСНИЙ
+TID_RARITY_NAME_3_UPPER,ЕПІЧНИЙ
+TID_RARITY_NAME_4_UPPER,МІФІЧНИЙ
+TID_RARITY_NAME_5_UPPER,ЛЕГЕНДАРНИЙ
+TID_STARTER_PACK_5,Набір 50-го рівня
+TID_STARTER_PACK_6,Набір 75-го рівня
+TID_STARTER_PACK_7,Набір 100-го рівня
+TID_STARTER_PACK_8,Набір 125-го рівня
+TID_WHIRLWIND,КАРЛ
+TID_WHIRLWIND_SHORT_DESC,ВОЇН
+TID_WHIRLWIND_DESC,"Карл кидає кирку, немов бумеранг.\nЙого Супер — шалене обертання вагонетки, що збиває всіх навколо."
+TID_WHIRLWIND_WEAPON,КИРКА
+TID_WHIRLWIND_ULTI,ДЗИҐА
+TID_WHIRLWIND_WEAPON_DESC,"Карл кидає кирку, немов бумеранг. Щойно кирка прилітає назад, він може метнути її знову."
+TID_WHIRLWIND_ULTI_DESC,"Карл крутиться дзиґою протягом кількох секунд, збиваючи ворогів, які перебувають поруч, і завдаючи їм шкоди."
+TID_STAT_DAMAGE_EACH_WAY,Пошкодження під час влучення
+TID_STAT_DAMAGE_PER_SWING,Пошкодження від обертання
+TID_HINT_43,"Якщо кирка Карла вдариться об перешкоду, то відскочить і повернеться назад. Це дозволить Карлу скористатися нею знову швидше."
+TID_SPEC_ABI_PROJECTILE_SPEED,Підсилений кидок
+TID_SPEC_ABI_PROJECTILE_SPEED_DESC,"Карл кидає кирку на <c00cc00><VALUE1> %</c> сильніше ніж звичайно, так що вона летить і повертається швидше."
+TID_SPEC_ABI_SUPERSPEED,Розкрутка
+TID_SPEC_ABI_SUPERSPEED_DESC,"Вагонетка Карла, що крутиться, набирає додаткову швидкість, поки діє його Супер!"
+TID_HERO_SORTING_TROPHIES,Найменше трофеїв
+TID_HERO_SORTING_TROPHIES_DESC,Найбільше трофеїв
+TID_HERO_SORTING_RARITY,Спочатку менш рідкісні
+TID_HERO_SORTING_RARITY_DESC,Спочатку більш рідкісні
+TID_HERO_SORTING_POWER_DESC,Рівень сили
+TID_HERO_SORTING_RANKUP,Ближче до нового рангу
+TID_MUTE_INVITES_LABEL,Не турбувати:
+TID_GEM_BALANCE_TITLE,Всього кристалів
+TID_JP_BUTTON,Всього кристалів
+TID_GEM_BALANCE,Всього кристалів зараз: <total>\n\nБезкоштовні кристали: <free>\n\nКуплені кристали: <paid>
+TID_IAP_INFO_TEXT,"Відмова від підписки може бути здійснена протягом 7 днів з дати купівлі (але не може бути відмовлено, якщо використовується)."
+TID_SETTINGS_LINE,LINE
+TID_AVATAR_MESSAGE_TEXT_GEM_REVOKE,"Або за операцією, зробленою власником цього облікового запису, було оформлене повернення коштів <DATE>, або ця операція була визнана шахрайською. Якщо запитано повернення, то кошти будуть повернуті тим самим способом, яким була здійснена оплата. З вашого рахунку списана відповідна кількість кристалів — <X>. Це могло призвести до від'ємного балансу кристалів. Відновити баланс можна, здійснюючи додаткові купівлі чи збираючи ресурси в грі."
+TID_HERO_DISABLED_CURRENTLY,Цей боєць тимчасово недоступний
+TID_SKIN_FARMER_POCO,ФЕРМЕР ПОКО
+TID_SKIN_FARMER_POCO_SHOP,ФЕРМЕР\nПОКО
+TID_UNDERTAKER_NIGHTWITCH_SKIN,НІЧНА ВІДЬМА МОРТИС
+TID_UNDERTAKER_NIGHTWITCH_SKIN_SHOP,НІЧНА ВІДЬМА\nМОРТИС
+TID_FRIEND_ADDED,Тепер <FRIEND> — твій друг!
+TID_IAP_REFRESHER_BUNDLE,Новий комплект
+TID_IAP_REFRESHER_PACK,Новий набір
+TID_IAP_WOMENS_DAY_1,Жіноча сила
+TID_IAP_WOMENS_DAY_2,З 8 березня!
+TID_IAP_LIMITED_TIME_DISCOUNT,Тимчасова знижка
+TID_IAP_GOLDENWEEK_PACK,Весняний набір
+TID_IAP_GOLDENWEEK_PACK_DESC,З нагоди весняних свят
+TID_LIMITED_AVAILABILITY,"Хапай, поки є"
+TID_ROBO_WARS_2,Механічний матч
+TID_ROBO_WARS_3,Заводська лихоманка
+TID_ROBO_WARS_4,Складальний наступ
+TID_ROBO_WARS_5,Повний демонтаж
+TID_ROBO_WARS_6,Ботобійня
+TID_ROBO_WARS_7,Болти та гайки
+TID_ROBO_WARS_8,Доробка напилком
+TID_ROBO_WARS_9,Облога фабрики
+TID_GOLDRUSH_12,Алмазний пил
+TID_GOLDRUSH_13,Чотири кути
+TID_GOLDRUSH_14,Вигідна позиція
+TID_GOLDRUSH_15,Стриб-скік
+TID_GOLDRUSH_16,Зворотний відлік
+TID_GOLDRUSH_17,Швидкісний обгін
+TID_GOLDRUSH_18,Міцна ланка
+TID_BATTLE_ROYALE_13,Примарна точка
+TID_BATTLE_ROYALE_14,Двір
+TID_BATTLE_ROYALE_15,Сонячний годинник
+TID_BATTLE_ROYALE_16,Суперзірка
+TID_BATTLE_ROYALE_17,Темний прохід
+TID_BATTLE_ROYALE_18,Годинниковий механізм
+TID_BALL_8,Кидок з відскоком
+TID_BALL_9,Ігровий майданчик
+TID_BALL_10,Пенальті
+TID_BALL_11,Заміна на полі
+TID_BANKHEIST_14,Королівська арена
+TID_HERO_DISABLED_CURRENTLY_PRINT,Цей боєць тимчасово недоступний. Спробуй ще раз пізніше!
+TID_NEXT_ROBO_IN,Наступна облога через
+TID_ROBO_WARS_OWN_ROBO_SPAWNED,<c998888ff>АТАКУЙ</c> з <c998888ff>ОБЛОГОВИМ РОБОТОМ</c> <num>-го рівня!
+TID_ROBO_WARS_ENEMY_ROBO_SPAWNED,<c99dd3333>ЗАХИЩАЙСЯ</c> від <c99dd3333>ОБЛОГОВОГО РОБОТА</c> <num>-го рівня!
+TID_HERO_DISABLED_CURRENTLY_START_GAME,Цей боєць тимчасово недоступний. Спробуй вибрати іншого!
+TID_HERO_COMING_SOON,Незабаром з'явиться новий боєць!
+TID_NO_ROBOS_SPAWNED,Нічия! ОБЛОГИ не буде.
+TID_LAST_ROBO_IN,Остання облога через
+TID_ROBO_LEVEL,Облоговий робот <num>-го рівня
+TID_BATTLE_ROYALE_19,Валуни
+TID_BATTLE_ROYALE_20,Опала зірка
+TID_BATTLE_ROYALE_21,Око бурі
+TID_BATTLE_ROYALE_22,Заливні луки
+TID_BATTLE_ROYALE_23,Річкові пороги
+TID_BATTLE_ROYALE_24,Подвійна гра
+TID_BATTLE_ROYALE_25,Сад за стіною
+TID_BATTLE_ROYALE_26,Замковий двір
+TID_BATTLE_ROYALE_27,Сніг і сажа
+TID_BALL_12,Давай драла
+TID_BALL_13,Бойова позиція
+TID_BALL_14,Ігровий автомат
+TID_BALL_15,Пінбол
+TID_BALL_16,Льох із бочками
+TID_GOLDRUSH_19,Капкан
+TID_GOLDRUSH_20,Шах і мат
+TID_GOLDRUSH_21,Короткий шлях
+TID_GOLDRUSH_22,Гострий кут
+TID_GOLDRUSH_23,Відбите відлуння
+TID_GOLDRUSH_24,Ділення клітини
+TID_GOLDRUSH_25,Вжух-вжух
+TID_GOLDRUSH_26,Інь і ян
+TID_ROBO_HEALTH,ОБЛОГОВИЙ РОБОТ:
+TID_TEAMING_WARNING,"<c99dd3333>АТАКУЙ ВОРОГІВ,</c> або на тебе обрушаться <c99dd3333>СУПЕРМЕТЕОРИТИ!</c>"
+TID_FREE_NAME_CHANGE_INTRO_TEXT,Змінити ім'я безкоштовно можна тільки раз. Обміркуй свій вибір як слід — у майбутньому змінити ім'я вийде тільки за кристали.
+TID_PAID_NAME_CHANGE_INTRO_TEXT,"Змінити ім'я за кристали?\nЯкщо вибране непристойне ім'я, ми залишаємо за собою право змінити його, не повертаючи кристали."
+TID_NAME_CHANGE_INTRO_TITLE,ЗМІНИТИ ІМ'Я
+TID_NAME_CHANGE_ON_COOLDOWN,Змінити ім'я знову можна буде через <time>
+TID_NAME_CHANGE_FREE,БЕЗКОШТОВНО
+TID_PLAYER_YOU,ТИ
+TID_NEWS_TAB_NEWS,НОВИНИ
+TID_NEWS_TAB_VIDEOS,ВІДЕО
+TID_VS_TRAINING,Тренувальна печера
+TID_TRAINING_DPS,Пошкодження за секунду:
+TID_SHOP_SHORTCUT_1,АКЦІЇ
+TID_SHOP_SHORTCUT_2,АКЦІЇ ДНЯ
+TID_SHOP_SHORTCUT_NOT_USED,ЯЩИКИ
+TID_SHOP_SHORTCUT_3,СКІНИ
+TID_SHOP_SHORTCUT_4,ЗОРЯНА КРАМНИЦЯ
+TID_SHOP_SHORTCUT_5,РЕСУРСИ
+TID_SHOP_NOTIFICATION_NEW,НОВИНКА!
+TID_SHOP_NOTIFICATION_FREE,ПОДАРУНОК!
+TID_SKIN_INFO_INCLUDES,Скін містить:\n
+TID_SKIN_INFO_NORMAL,— особливу модель бійця.
+TID_SKIN_INFO_NORMAL_PET,— особливу модель бійця;\n— особливу модель компаньйона.
+TID_SKIN_INFO_NORMAL_TURRET,— особливу модель бійця;\n— особливу модель турелі.
+TID_SKIN_INFO_FX,— особливу модель бійця;\n— особливі ефекти.
+TID_SKIN_INFO_ANIM_PET,— особливу модель бійця;\n— особливу модель компаньйона;\n— особливу анімацію.
+TID_SKIN_INFO_ANIM_FX_SOUND_TURRET,— особливу модель бійця;\n— особливу модель турелі;\n— особливі ефекти;\n— особливу анімацію;\n— особливий звуковий супровід.
+TID_SKIN_INFO_ANIM_TURRET,— особливу модель бійця;\n— особливу модель турелі;\n— особливу анімацію.
+TID_SKIN_INFO_ANIM_FX,— особливу модель бійця;\n— особливі ефекти;\n— особливу анімацію.
+TID_SKIN_INFO_FX_SOUND,— особливу модель бійця;\n— особливі ефекти;\n— особливий звуковий супровід.
+TID_SKIN_INFO_SOUND,— особливу модель бійця;\n— особливий звуковий супровід.
+TID_SKIN_INFO_ANIM_FX_PET,— особливу модель бійця;\n— особливу модель компаньйона;\n— особливі ефекти;\n— особливу анімацію.
+TID_SKIN_INFO_ANIM_FX_SOUND_PET,— особливу модель бійця;\n— особливу модель компаньйона;\n— особливі ефекти;\n— особливу анімацію;\n— особливий звуковий супровід.
+TID_SKIN_INFO_ANIM_FX_TURRET,— особливу модель бійця;\n— особливу модель турелі;\n— особливі ефекти;\n— особливу анімацію.
+TID_SKIN_INFO_ANIM,— особливу модель бійця;\n— особливу анімацію.
+TID_SKIN_INFO_ANIM_SOUND_FX,— особливу модель бійця;\n— особливі ефекти;\n— особливу анімацію;— особливий звуковий супровід.
+TID_GOLDRUSH_27,Шахтарський потяг
+TID_BUTTON_SETTINGS,НАЛАШТУВАННЯ
+TID_BUTTON_BATTLELOG,ДАНІ БОЮ
+TID_BUTTON_LEADERBOARD,СПИСКИ ЛІДЕРІВ
+TID_BUTTON_BRAWLTV,BRAWL TV
+TID_BUTTON_NEWS,НОВИНИ
+TID_BRAWL_TV_LIVE,ПРЯМИЙ ЕФІР
+TID_BUTTON_TEST_HERO,ВИПРОБУВАТИ
+TID_CONTENT_UPDATE,Завантаження даних...
+TID_BATTLE_ROYALE_28,Політ фантазії
+TID_SHAMAN_SHIBA_SKIN,ШІБА-ІНУ НІТА
+TID_PENNY_BUNNY_SKIN,ЗАЙКА ПЕННІ
+TID_SHAMAN_SHIBA_SKIN_SHOP,ШІБА-ІНУ НІТА
+TID_PENNY_BUNNY_SKIN_SHOP,ЗАЙКА ПЕННІ
+TID_PURCHASE_POPUP_CONFIRM_OFFER,КУПИТИ ВИБРАНЕ?
+TID_PURCHASE_POPUP_CONFIRM_SKIN,КУПИТИ СКІН?
+TID_PURCHASE_POPUP_CONFIRM_HERO,КУПИТИ БІЙЦЯ?
+TID_SELECT_COLOR_TITLE,ВИБРАТИ КОЛІР
+TID_PROFILE_COLOR,КОЛІР
+TID_POPUP_BRAWLTV_TITLE,BRAWL TV
+TID_POPUP_BRAWLTV_TEXT,Спостерігайте за грою зірок Gale Brawl зі всього світу.
+TID_POPUP_BRAWLTV_BUTTON,ВПЕРЕД
+TID_GOLDRUSH_28,Чух-чух
+TID_GOLDRUSH_29,Всі по вагонах
+TID_GOLDRUSH_30,Божевільний поїзд
+TID_GOLDRUSH_31,Вагонетка без гальм
+TID_GOLDRUSH_32,Спільний вагон
+TID_GOLDRUSH_33,Зміїна печера
+TID_GOLDRUSH_34,Конвеєр
+TID_ROBO_WARS_10,Прямо до цілі
+TID_ROBO_WARS_11,Спаринг
+TID_ROBO_WARS_12,Шосе роботів
+TID_ROBO_WARS_13,Барахолка
+TID_ROBO_WARS_14,Небезпечна зона
+TID_BATTLE_ROYALE_29,Золота лихоманка
+TID_BATTLE_ROYALE_30,Пляжна бійка
+TID_BATTLE_ROYALE_31,Королівський прийом
+TID_BATTLE_ROYALE_32,Райдужні острови
+TID_BATTLE_ROYALE_33,Прямо в яблучко
+TID_BALL_17,У центрі уваги
+TID_BALL_18,Місиво на полі
+TID_BALL_19,Точний удар
+TID_BALL_20,Вирішальний момент
+TID_BALL_21,Кручена подача
+TID_SUPPORT_CREATOR_BUTTON,Підтримати автора
+TID_SUPPORT_CREATOR_LABEL,Підтриманий: <NAME>
+TID_SUPPORT_CREATOR_POPUP_TITLE,ПІДТРИМКА АВТОРА КОНТЕНТУ
+TID_SUPPORT_CREATOR_POPUP_TEXT,Підтримай улюбленого автора. Всі витрачені тобою кристали допоможуть підтримати цього автора.
+TID_SUPPORT_CREATOR_POPUP_ENTER_CODE,Введи код автора:
+TID_SUPPORT_CREATOR_POPUP_BUTTON,ВВІД
+TID_SUPPORT_CREATOR_POPUP_INPUT_CODE,Введи тут код автора
+TID_SUPPORT_CREATOR_POPUP_BUTTON_MORE,Докладніше
+TID_SUPPORT_CREATOR_POPUP_INVALID_NAME,"Недійсний код автора!\nПеревір ще раз, будь ласка."
+TID_SUPPORT_SUCCESS_FLOATER,Тепер ти підтримуєш автора <NAME>!
+TID_SUPPORT_LINK_FAIL_FLOATER,Посилання для підтримки автора недійсне або термін його дії минув.
+TID_STAT_DAMAGE_PER_PROXIMITY_MINE,Пошкодження від міни
+TID_SUPPORT_CREATOR_SHOP_TITLE,ПІДТРИМКА АВТОРА КОНТЕНТУ
+TID_SUPPORT_CREATOR_BTN_SUPPORT,ВВІД КОДУ
+TID_SUPPORT_CREATOR_BTN_CHANGE,ЗМІНИТИ
+TID_SUPPORT_CREATOR_BTN_STOP,ПРИПИНИТИ
+TID_SUPPORT_CREATOR_INFO,"Введи код автора контенту, і\nкожна твоя купівля за кристали допоможе підтримати цього автора!"
+TID_SUPPORT_CREATOR_SUPPORTING,Я підтримую автора
+TID_SUPPORT_CREATOR_NOT_SUPPORTING,Ти не підтримуєш нікого з авторів контенту.
+TID_STOP_SUPPORTING_CREATOR_TITLE,Припинення підтримки автора контенту
+TID_STOP_SUPPORTING_CREATOR_DESC,<NAME>: хочеш припинити підтримку?
+TID_OFFER_POPUP_CONFIRMATION_POPUP,Точно хочеш купити «<offer_name>»?
+TID_OFFER_POPUP_CONFIRMATION_POPUP_NO_NAME,Точно хочеш зробити купівлю?
+TID_BRAWLTV_FAILED,Не вдалося ввімкнути Brawl TV. Спробуй пізніше!
+TID_LINE_ACCOUNT_BIND_INFO_TITLE,Прив'язати LINE
+TID_LINE_ACCOUNT_BIND_INFO,"Прив'язавши обліковий запис до LINE, ти зможеш бачити в списку друзів своїх друзів із LINE, що грають у Gale Brawl. Вони також бачитимуть твій обліковий запис Gale Brawl, онлайн-статус і зможуть запрошувати тебе грати разом. Прив'язати зараз?"
+TID_LINE_LOG_OUT_TITLE,Відв'язати LINE
+TID_LINE_LOG_OUT_DESC,Точно хочеш відв'язати свій обліковий запис LINE?
+TID_LINE_CONNECT,Під'єднати LINE
+TID_LINE_CONNECT_UP,ПІД'ЄДНАТИ LINE
+TID_LINE_CONNECTED,LINE під'єднаний
+TID_LINE_CONNECTED_UP,LINE ПІД'ЄДНАНИЙ
+TID_SKIN_INFO_FX_TURRET,— особливу модель бійця;\n— особливу модель турелі;\n— спеціальні ефекти.
+TID_SPEC_ABI_SPED_FULL_AMMO,Хоум-ран
+TID_SPEC_ABI_SPED_FULL_AMMO_DESC,"Коли шкала хоум-рану заряджена повністю, Бібі рухається на <c00cc00><VALUE1> %</c> швидше."
+TID_BASEBALL,БІБІ
+TID_BASEBALL_SHORT_DESC,ВІДБИВАЮЧИЙ
+TID_BASEBALL_DESC,"На полі! Коли шкала хоум-рану заряджена повністю, удар Бібі відкидає ворогів назад. Її Супер — пружна кулька з жуйки, що прошиває ворогів наскрізь."
+TID_BASEBALL_WEAPON,ТРИ СТРАЙКИ
+TID_BASEBALL_ULTI,ЖУЙКА
+TID_BASEBALL_WEAPON_DESC,"Коли шкала атаки Бібі заповниться, почне заряджатися шкала хоум-рану. Зарядивши її повністю, Бібі відкине ворогів назад одним ударом!"
+TID_BASEBALL_ULTI_DESC,"Бібі відбиває битою пружну кульку жуйки, яка прошиває ворогів наскрізь і може вразити одну й ту саму ціль кілька разів!"
+TID_BARLEY_MS_SKIN,БАРЛІ З ВИПІЧКАМИ
+TID_BARLEY_MS_SKIN_SHOP,БАРЛІ\nЗ ВИПІЧКАМИ
+TID_BROCK_HOTROD_SKIN,СТРІТРЕЙСЕР БРОК
+TID_BROCK_HOTROD_SKIN_SHOP,СТРІТРЕЙСЕР\nБРОК
+TID_CARL_RR_SKIN,ШАЛЕНИЙ КАРЛ
+TID_CARL_RR_SKIN_SHOP,ШАЛЕНИЙ\nКАРЛ
+TID_BARLEY_MAPLE_SKIN,КЛЕНОВИЙ БАРЛІ
+TID_BARLEY_MAPLE_SKIN_SHOP,КЛЕНОВИЙ\nБАРЛІ
+TID_BANKHEIST_14B,Піт-стоп
+TID_BANKHEIST_15,На узбіччі
+TID_IAP_RETROPOLIS_PACK,Набір кристалів «Ретрополіс»
+TID_IAP_RETROCOIN_PACK_1,Набір монет (1/3)
+TID_IAP_RETROCOIN_PACK_2,Набір монет (2/3)
+TID_IAP_RETROCOIN_PACK_3,Набір монет (3/3)
+TID_GOLDRUSH_21C,Біржовий крах
+TID_SPEC_SPOT_FROM_AIR,Пильність
+TID_SPEC_SUPER_RANGE,Шквал картечі
+TID_SPEC_SUPER_RANGE_DESC,"Дальність і швидкість пострілів Супера Шеллі збільшуються на <c00cc00><VALUE1> %,</c> а купчастість стрільби підвищується."
+TID_SPEC_ABI_PET_ATTACK_SPEED,Ведмідь-шатун
+TID_SPEC_ABI_PET_ATTACK_SPEED_DESC,Ведмідь Ніти атакує швидше. Час між його ударами скорочується на <c00cc00><VALUE1> %.</c>
+TID_SPEC_ABI_LOW_HEALTH_SHIELD,Міцний хлопець
+TID_SPEC_ABI_LOW_HEALTH_SHIELD_DESC,"Коли в Булла залишається менше <c00cc00><VALUE1> %</c> здоров'я, у нього з'являється щит. Цей щит зменшує всю зазнану ним шкоду на <c00cc00><VALUE2> %.</c>"
+TID_SPEC_ABI_ATTACK_RANGE,Магнум
+TID_SPEC_ABI_ATTACK_RANGE_DESC,Дальність і швидкість пострілів Кольта збільшуються на <c00cc00><VALUE1> %.</c>
+TID_SPEC_ABI_TURRET_AOE,Мамині обійми
+TID_SPEC_ABI_TURRET_AOE_DESC,Лікувальна турель тепер ще й завдає ворогам <c00cc00><VALUE1></c> очок шкоди за секунду.
+TID_SPEC_ABI_SPEED_AFTER_ULTI,Швидкість метеорита
+TID_SPEC_ABI_SPEED_AFTER_ULTI_DESC,Ель Прімо рухається на <c00cc00><VALUE1> %</c> швидше протягом <c00cc00><VALUE2></c> с. після активації Супера.
+TID_SPEC_ABI_HOT_INVISIBLE,Таємні ліки
+TID_SPEC_ABI_HOT_INVISIBLE_DESC,"Леон відновлює <c00cc00><VALUE1></c> очок здоров'я за секунду, поки діє його Супер."
+TID_SPEC_ULTI_BURN,Вогняні кулі
+TID_SPEC_ULTI_BURN_DESC,Ядра з гармати Пенні підпалюють землю на 3 секунди. Вороги в зоні пожежі втрачають <c00cc00><VALUE1></c> очок здоров'я за секунду!
+TID_SPEC_ABI_REPAIR_SELF,Добре змащений
+TID_SPEC_ABI_REPAIR_SELF_DESC,"Якщо Тік не втрачає здоров'я та не атакує сам, він починає відновлювати здоров'я на <c00cc00><VALUE1></c> с. раніше."
+TID_HEAD_HEALTH,Свіжа голова
+TID_CLUSTER_BOMB_DUDE_SHORT_DESC,МЕТАЛЬНИК
+TID_CLUSTER_BOMB_DUDE_DESC,"Вибуховий характер і невгамовна енергія в металічній оболонці! Тік кидає міни, а за допомогою Супера — і свою голову, яка шукає найближчу ціль і вибухає."
+TID_CLUSTER_BOMB_DUDE_WEAPON,МІНІМІНИ
+TID_CLUSTER_BOMB_DUDE_ULTI,ШИБАЙГОЛОВА
+TID_CLUSTER_BOMB_DUDE_WEAPON_DESC,"Тік кидає касетну міну, яка розділяється до приземлення. Міни вибухають через кілька секунд або під час зіткнення з ціллю."
+TID_CLUSTER_BOMB_DUDE_ULTI_DESC,"Тік знімає та кидає власну голову. Приземлившись, голова шукає найближчу ціль і вибухає під час контакту!"
+TID_CLUSTER_BOMB_DUDE,ТІК
+TID_SPEC_ABI_PREY_ON_THE_WEAK,Стерв'ятник
+TID_SPEC_DAMAGE_SUPER,Сольний номер
+TID_SPEC_DAMAGE_SUPER_DESC,"Супер Поко тепер уражає й ворогів, завдаючи <c00cc00><VALUE1></c> очок шкоди."
+TID_SPEC_ABI_SUPER_DESTROY_WALLS,Розгром
+TID_SPEC_ABI_SUPER_DESTROY_WALLS_DESC,Тепер Супер Карла знищує укриття та перешкоди.
+TID_SPEC_ABI_SUPER_SLOW,Липка жуйка
+TID_SPEC_ABI_SUPER_SLOW_DESC,Супер Бібі сповільнює ворогів на <c00cc00><VALUE1></c> с.!
+TID_SPEC_ABI_DAMAGE_BUFF_SUPER,Їжакові рукавиці
+TID_SPEC_ABI_DAMAGE_BUFF_SUPER_DESC,"Удари Троянди завдають на <c00cc00><VALUE1></c> очок шкоди більше, поки діє її Супер."
+TID_SPEC_ABI_STUN_TRAP,Ведмежий капкан
+TID_SPEC_ABI_STUN_TRAP_DESC,"Замість того, щоб відкидати ворогів назад, пастки Бо тепер оглушують ворога на <c00cc00><VALUE1></c> с.!"
+TID_SPEC_ABI_TURRET_ELECTRICITY,Масовий шок
+TID_SPEC_ABI_TURRET_ELECTRICITY_DESC,"Скраппі стріляє енергосферами, які відскакують від одного ворога до іншого. Після відскоку сфера пролітає <c00cc00><VALUE1> %</c> своєї звичайної дистанції."
+TID_SPEC_EXTRA_BULLET,Ракета № 4
+TID_SPEC_EXTRA_BULLET_DESC,"Брок збільшує кількість боєприпасів, заряджаючи пристрій четвертою ракетою (довелося викинути термос, що займав її комірку)."
+TID_SPEC_ABI_SPIKES_LOW_HEALTH,Гостра реакція
+TID_SPEC_ABI_SPIKES_LOW_HEALTH_DESC,"Коли в Спайка залишається менше <c00cc00><VALUE1> %</c> здоров'я, він починає стріляти голками, кожна з яких завдає <c00cc00><VALUE2></c> очок шкоди!"
+TID_SPEC_ABI_RELOAD_ON_HIT,Кешбек
+TID_SPEC_ABI_RELOAD_ON_HIT_DESC,"Якщо постріл Пайпер досягає ворога, її гвинтівка тут же відновлює <c00cc00><VALUE1></c> заряду."
+TID_SPEC_ABI_GAIN_HEALTH,Губка
+TID_SPEC_ABI_GAIN_HEALTH_DESC,Френк отримує <c00cc00><VALUE1></c> додаткових очок здоров'я.
+TID_SPEC_ABI_DASH_SHIELD,Невловимий
+TID_SPEC_ABI_DASH_SHIELD_DESC,"Коли Мортис стрибає вперед, то вся завдана йому шкода зменшується на <c00cc00><VALUE2> %</c> на <c00cc00><VALUE1></c> с."
+TID_SPEC_ABI_SUPER_DAMAGE,Демонтаж
+TID_SPEC_ABI_SUPER_DAMAGE_DESC,Супер Майка завдає на <c00cc00><VALUE1></c> очок шкоди більше.
+TID_SPEC_ABI_SPEED_LOW_HEALTH,Відступ машин
+TID_SPEC_ABI_SPEED_LOW_HEALTH_DESC,"Коли в Ріко залишається менше <c00cc00><VALUE2> %</c> здоров'я, він рухається на <c00cc00><VALUE1> %</c> швидше!"
+TID_SPEC_ABI_SUPER_RELOAD,Перезарядка на ходу
+TID_SPEC_ABI_SUPER_RELOAD_DESC,Під час використання Супера швидкість перезарядки Дерріла збільшується вдвічі на <c00cc00><VALUE1></c> сек.
+TID_SPEC_ABI_DAMAGE_MAIN_ATTACK,Небезпечно для здоров'я
+TID_SPEC_ABI_DAMAGE_MAIN_ATTACK_DESC,Пошкодження від основної атаки Барлі збільшується на <c00cc00><VALUE1></c> очок за секунду.
+TID_SPEC_ABI_SUPER_HEALS,Рука допомоги
+TID_SPEC_ABI_SUPER_HEALS_DESC,"Якщо Супер Джина потрапляє в союзників, вони відновлюють <c00cc00><VALUE1></c> очок здоров'я."
+TID_SPEC_ABI_BLACK_HOLE_HEALER,Зцілювальна тінь
+TID_SPEC_ABI_BLACK_HOLE_HEALER_DESC,"Супер Тари відкриває просторовий портал, із якого з'являється тіньовий клон Тари, що лікує її саму та її союзників."
+TID_SPEC_ABI_RECHARGE,Автоматична перезарядка
+TID_SPEC_ABI_RECHARGE_DESC,Тік перезаряджається на <c00cc00><VALUE1> %</c> швидше.
+TID_SPEC_ABI_CURVEBALL,Кручена подача
+TID_SPEC_ABI_CURVEBALL_DESC,"Голки від кактусової гранати летять по кривій, що збільшує шанс влучення в ціль."
+TID_SPEC_ABI_MEDIKIT,Аптечка
+TID_SPEC_ABI_MEDIKIT_DESC,"Шеллі миттєво відновлює <c00cc00><VALUE2></c> очок здоров'я, коли його рівень падає нижче ніж <c00cc00><VALUE1> %.</c> Аптечка перезаряджається за <c00cc00><VALUE3></c> с."
+TID_SPEC_ABI_IMMUNE_TO_CC,Камінь
+TID_SPEC_ABI_IMMUNE_TO_CC_DESC,"Тепер на Сенді не діє ні відкидання назад, ні сповільнення, ні оглушення."
+TID_SPEC_ABI_CURE_DEBUFFS,Звукотерапія
+TID_SPEC_ABI_CURE_DEBUFFS_DESC,"Атака Поко нейтралізує ефект уповільнення, приголомшення, отрути чи горіння, що діє на товаришів по команді."
+TID_SPEC_ABI_SHIELD_HOMERUN,Повна готовність
+TID_SPEC_ABI_SHIELD_HOMERUN_DESC,"Коли шкала хоум-рану заряджена повністю, вся зазнана Бібі шкода зменшується на <c00cc00><VALUE1> %.</c>"
+TID_SPEC_ABI_WHIRLWIND_SHIELD,Захисний пірует
+TID_SPEC_ABI_WHIRLWIND_SHIELD_DESC,"Поки Супер Карла діє, вся завдана йому шкода зменшується на <c00cc00><VALUE2> %.</c>"
+TID_SELFHELP_UNAVAILABLE,"Розділ допомоги та підтримки зараз недоступний. Будь ласка, спробуйте пізніше."
+TID_SPEC_ABI_LONGER_DASH,Зсіла змія
+TID_SPEC_ABI_LONGER_DASH_DESC,"У Мортиса з'являється шкала стрибка! Зарядивши її, він стрибає на <c00cc00><VALUE1> %</c> далі. Зарядка йде <c00cc00><VALUE3></c> с. і починається тільки після заповнення шкали атаки."
+TID_HERO_BUNDLE_HOOK,Дар Джина
+TID_HERO_BUNDLE_CLUSTER_BOMB_DUDE,Сховок Тіка
+TID_HERO_BUNDLE_NINJA,Крамниця Леона
+TID_HERO_BUNDLE_ROSA,Резерв Троянди
+TID_HERO_BUNDLE_WHIRLWIND,Скарб Карла
+TID_HERO_BUNDLE_BASEBALL,Багаж Бібі
+TID_BO_MECHA_SKIN,БО-МЕХА
+TID_CROW_MECHA_SKIN,ВОРОН-МЕХА
+TID_BO_MECHA_SKIN_SHOP,БО-МЕХА\n
+TID_MIKE_ROBO_SKIN,РОБОМАЙК
+TID_CROW_MECHA_SKIN_SHOP,ВОРОН-МЕХА\n
+TID_SPIKE_ROBO_SKIN,РОБОСПАЙК
+"TID_MIKE_ROBO_SKIN_SHOP""РОБОМАЙК\n",
+TID_BO_MECHA_GOLD_SKIN,ЗОЛОТИЙ БО-МЕХА
+TID_SPIKE_ROBO_SKIN_SHOP,РОБОСПАЙК\n
+TID_CROW_MECHA_GOLD_SKIN,ЗОЛОТИЙ ВОРОН-МЕХА
+TID_BO_MECHA_GOLD_SKIN_SHOP,ЗОЛОТИЙ\nБО-МЕХА
+TID_BO_MECHA_LIGHT_SKIN,СВІТЛИЙ БО-МЕХА
+TID_CROW_MECHA_GOLD_SKIN_SHOP,ЗОЛОТИЙ\nВОРОН-МЕХА
+TID_CROW_MECHA_NIGHT_SKIN,ТЕМНИЙ ВОРОН-МЕХА
+TID_BO_MECHA_LIGHT_SKIN_SHOP,СВІТЛИЙ\nБО-МЕХА
+TID_BULL_LINEBACKER_SKIN,ПІВЗАХИСНИК БУЛЛ
+TID_CROW_MECHA_NIGHT_SKIN_SHOP,ТЕМНИЙ\nВОРОН-МЕХА
+TID_COLT_OUTLAW_SKIN,БАНДИТ КОЛЬТ
+TID_BULL_LINEBACKER_SKIN_SHOP,ПІВЗАХИСНИК\nБУЛЛ
+TID_CARL_HOG_RIDER_SKIN,ВЕРШНИК НА КАБАНІ КАРЛ
+TID_COLT_OUTLAW_SKIN_SHOP,БАНДИТ\nКОЛЬТ
+TID_SKIN_INFO_ANIM_SOUND_FX_VOICE,— особливу модель бійця;\n— особливі ефекти;\n— особливу анімацію;\n— особливий звуковий супровід;\n— особливий голос.
+TID_CARL_HOG_RIDER_SKIN_SHOP,ВЕРШНИК НА КАБАНІ\nКАРЛ
+TID_SHOP_OFFER_STAR_SKIN_LABEL,ЗОРЯНИЙ СКІН
+TID_WANTED_15,Пляжні лови
+TID_WANTED_16,Тепловий удар
+TID_WANTED_17,Розпечений пісок
+TID_BANKHEIST_16,Пляжні нероби
+TID_BANKHEIST_17,Скарби на піску
+TID_BANKHEIST_18,Гаряча кукурудза
+TID_BALL_22,Пляжний волейбол
+TID_BANKHEIST_18B,Вісімка
+TID_BALL_23,Сонячний футбол
+TID_BALL_24,Біг босоніж
+TID_BALL_25,Літні ігри
+TID_STARPOINTSGAINED,Списані трофеї (<TOTALDECAY>) перетворилися на зоряні очки (<STARPOINTSGAINED>)
+TID_TROPHIES_LOST,Списано трофеїв: <AMOUNT>
+TID_TROPHIES_CONVERTED,Зоряних очок за списані трофеї: <AMOUNT>
+TID_STAR_POWER_INFO,Зоряна сила: <cde9700><NAME></c>\n<DESC>
+TID_IAP_SOM_PACK_1,Літня акція
+TID_IAP_SOM_PACK_2,Літня акція
+TID_IAP_SOM_PACK_3,Літня акція
+TID_IAP_SOM_PACK_4,Літня акція
+TID_IAP_AUGUST_PACK_1,Літня акція
+TID_IAP_AUGUST_PACK_2,"ЛІТО, ПРОЩАВАЙ!"
+TID_IAP_FLASH_PACK_1,ДОБАВКА
+TID_IAP_FLASH_PACK_2,ВЕЛИКА ВИГОДА
+TID_IAP_MOON_19_PACK_1,СВЯТО МІСЯЦЯ
+TID_IAP_MOON_19_PACK_2,СВЯТО МІСЯЦЯ
+TID_SPEC_ABI_RESURRECT,Нове життя
+TID_SPEC_ABI_RESURRECT_DESC,"Полігши в бою вперше, 8-БІТ воскресає миттєво."
+TID_SPEC_ABI_GROW_FROM_DAMAGE,Будь здоровий
+TID_SPEC_ABI_GROW_FROM_DAMAGE_DESC,"Шкала міці заповнюється разом із зарядкою Супера. Повна шкала збільшує максимальну кількість очок здоров'я на <c00cc00><VALUE1>.</c> Полігши в бою, Ель Прімо втрачає цю перевагу."
+TID_SPEC_ABI_ARMOR,Бронежилет
+TID_SPEC_ABI_ARMOR_DESC,"Жилет поглинає перші <c00cc00><VALUE1></c> очок шкоди. Полігши в бою, Кольт отримує новий жилет. Жовта шкала відображає міцність жилета."
+TID_SPEC_ABI_WALKING_TURRET,На вигулі
+TID_SPEC_ABI_WALKING_TURRET_DESC,Скраппі повсюди слідує за Джессі.
+TID_SPEC_SHIELD_ULTI,Щит
+TID_SPEC_SHIELD_ULTI_DESC,"Коли Супер Брока заряджений повністю та не використовується, у Брока з'являється щит. Цей щит знижує завдану Броку шкоду на <c00cc00><VALUE1> %.</c>"
+TID_SPEC_ABI_PET,"Лети, пташка!"
+TID_SPEC_ABI_PET_DESC,Динамайк б'ється разом зі своїм птахом!
+TID_SPEC_ABI_DAMAGE_ULTI,Чарівний пендель
+TID_SPEC_ABI_DAMAGE_ULTI_DESC,"Коли Супер Джина заряджений повністю, його атака завдає на <c00cc00><VALUE1></c> одиниць шкоди більше."
+TID_ARCADE,8-БІТ
+TID_ARCADE_DESC,"8-БІТ схожий на ходячий ігровий автомат. Він стріляє променями з бластера, а його Супер підсилює пошкодження товаришів по команді!"
+TID_ARCADE_SHORT_DESC,СТРІЛЕЦЬ
+TID_HERO_BUNDLE_ARCADE,Тайник 8-БІТ
+TID_ARCADE_WEAPON,ПРОМЕНЕВИЙ БЛАСТЕР
+TID_ARCADE_ULTI,ПІДСИЛЮВАЧ ПОШКОДЖЕННЯ
+TID_ARCADE_WEAPON_DESC,Бластер стріляє променями середньої дальності та великої купчастості. У разі влучення по супротивнику промені завдають шкоди.
+TID_ARCADE_ULTI_DESC,"Встановлює турель, яка підвищує пошкодження всіх товаришів по команді, що потрапили в зону її дії."
+TID_STAT_DAMAGE_BOOST,Підсилення пошкодження
+TID_HERO_INFO_ABILITY_POWER_PERCENT,<BASEPOW> %
+TID_STAT_DAMAGE_PER_BEAM,Пошкодження від променя
+TID_SPEC_ABI_LARGER_AREA_ULTI,Підсилений підсилювач
+TID_SPEC_ABI_LARGER_AREA_ULTI_DESC,Радіус дії підсилювача пошкодження збільшується на <c00cc00><VALUE1> %.</c>
+TID_DAMAGE_BOOSTER_HEALTH,Здоров'я підсилювача пошкодження
+TID_BEST_VALUE_DISCOUNT,ЗНИЖКА\n<VALUE> %
+TID_BEST_VALUE_EXTRA,НА <VALUE> %\nБІЛЬШЕ
+TID_BEST_VALUE_BONUS,БОНУС\n<VALUE> %
+TID_PROMOCODE_PACK,Набір за промокодом
+TID_DIAMONDS,Кристали
+TID_BATTLE_ROYALE_22A,Дикий пік
+TID_BATTLE_ROYALE_23A,Порушники спокою
+TID_BATTLE_ROYALE_24A,Пустка
+TID_GOLDRUSH_24A,Роял-флеш
+TID_WANTED_17A,Зарослий оазис
+TID_BALL_14A,Філдгол
+TID_BALL_15A,На всіх парах
+TID_SHOP_LABEL_BEST_VALUE,ВИГІДНІШЕ ЗА ВСЕ
+TID_SHOP_LABEL_MOST_POPULAR,ПОПУЛЯРНІШЕ ЗА ВСЕ
+TID_SHOP_LABEL_POPULAR,ПОПУЛЯРНО
+TID_SHOP_LABEL_PERCENT_BONUS,БОНУС <VALUE> %
+TID_SHOP_LABEL_PERCENT_EXTRA,НА <VALUE> % <cFFDB4F>БІЛЬШЕ</c>
+TID_BATTLE_ROYALE_25A,Виживання на острові
+TID_BATTLE_ROYALE_26A,Гарячка
+TID_BATTLE_ROYALE_27A,Удар у польоті
+TID_BATTLE_ROYALE_28A,"Добре там, де нас нема"
+TID_PIPER_PINK_SKIN,РОЖЕВА ПАЙПЕР
+TID_PIPER_PINK_SKIN_SHOP,РОЖЕВА\nПАЙПЕР
+TID_TARA_BLUE_SKIN,ІНДИГО ТАРА
+TID_TARA_BLUE_SKIN_SHOP,ІНДИГО\nТАРА
+TID_8BIT_CLASSIC_SKIN,КЛАСИЧНИЙ 8-БІТ
+TID_8BIT_CLASSIC_SKIN_SHOP,КЛАСИЧНИЙ\n8-БІТ
+TID_LEON_SHARK_SKIN,ЛЕОН-АКУЛА
+TID_LEON_SHARK_SKIN_SHOP,ЛЕОН-АКУЛА\n
+TID_BATTLE_ROYALE_29A,Грім у раю
+TID_BATTLE_ROYALE_30A,Критичний момент
+TID_BATTLE_ROYALE_31A,Розділ території
+TID_BALL_16A,Слалом напролом
+TID_BALL_17A,Тернистий шлях
+TID_BALL_18A,Сильний удар
+TID_BALL_19A,Флайбол
+TID_BALL_20A,Догори сподом
+TID_IAP_INFO_MORE_INFO_BTN,Докладніше
+TID_SANDSTORM,СЕНДІ
+TID_HERO_BUNDLE_SANDSTORM,Замок Сенді
+TID_GAME_MODE_14,ПЕРЕХОПЛЕННЯ
+TID_GAME_MODE_14_DESC,"Завдай більше шкоди босу, ніж інші гравці. Що більше шкоди ти завдаси, то вище буде твоє місце за підсумками бою.\n\nЗбирай кубики підсилень, щоб збільшити здоров'я та пошкодження, — під час бою вони з'являтимуться тут і там!"
+TID_BOSS_RACE_INTRO_TEXT,Завдай якомога більше шкоди босу!
+TID_EVENT_POPUP_GMV_LABEL_ALL_VS_ALL,Усі проти всіх
+TID_BOSS_RACE_1,Останній рубіж
+TID_BOSS_RACE_IN_LEAD,Ти попереду!
+TID_BOSS_RACE_DOING_GOOD,Провадь у тім самім дусі!
+TID_BOSS_RACE_DOING_OK,Виходить непогано!
+TID_BOSS_RACE_DOING_BAD,Завдай більше шкоди босу!
+TID_SHOP_SCID_SKIN_OFFER_TITLE,ПІД'ЄДНАЙСЯ ДО SUPERCELL ID І ОТРИМАЙ СКІН «<NAME>» <c<COLOR>>У ПОДАРУНОК!</c>
+TID_SHOP_SCID_SKIN_OFFER_DESC,SUPERCELL ID
+TID_SHOP_SCID_SKIN_OFFER_CLAIM,ПІД'ЄДНАТИ
+TID_GAME_MODE_15,САМОТНЯ ЗІРКА
+TID_GAME_MODE_15_DESC,"Збирай зірки, перемагаючи супротивників. З кожною перемогою нагорода за твою голову збільшується на одну зірку, поки не досягне семи зірок.\n\nЗ плином часу перемагає гравець, що набрав більше зірок."
+TID_SOLO_BOUNTY_IN_LEAD,Ти попереду!
+TID_SOLO_BOUNTY_DOING_GOOD,Провадь у тім самім дусі!
+TID_SOLO_BOUNTY_DOING_OK,Виходить непогано!
+TID_SOLO_BOUNTY_DOING_BAD,Потрібно більше зірок!
+TID_SANDSTORM_SHORT_DESC,ВОЇН
+TID_SANDSTORM_DESC,"Сенді — це боєць із хронічним недосипом, здатний керувати стихією землі: закидає ворога колючим гравієм і ховає товаришів за піщаною завісою."
+TID_SANDSTORM_WEAPON,Гравій
+TID_SANDSTORM_WEAPON_DESC,Сенді закидає ворогів колючим гравієм. Ай!
+TID_SANDSTORM_ULTI,Піщана буря
+TID_SANDSTORM_ULTI_DESC,Сенді закликає піщану бурю та ховає в ній товаришів по команді на <time> с.
+TID_STAT_SANDSTORM,Піщана буря
+TID_SPEC_ABI_SANDSTORM_DOT,Шкідливий пісок
+TID_SPEC_ABI_SANDSTORM_DOT_DESC,Піщана буря також завдає ворогам <c00cc00><VALUE1></c> очок шкоди за секунду.
+TID_SPEC_ABI_SANDSTORM_HOT,Цілющий вітер
+TID_SPEC_ABI_SANDSTORM_HOT_DESC,Піщана буря також відновлює товаришам <c00cc00><VALUE1></c> очок здоров'я за секунду.
+TID_SHOP_SKIN_SALE,РОЗПРОДАЖ СКІНІВ
+TID_IAP_B2S_19_PACK_1,ЗНОВУ ДО ШКОЛИ!
+TID_IAP_B2S_19_PACK_2,ЗНОВУ ДО ШКОЛИ!
+TID_IAP_B2S_19_PACK_3,ЗНОВУ ДО ШКОЛИ!
+TID_GENE_PIRATE_SKIN,ПІРАТ ДЖИН
+TID_GENE_PIRATE_SKIN_SHOP,ПІРАТ\nДЖИН
+TID_BARLEY_RED_WIZARD_SKIN,ЧЕРВОНИЙ ЧАРІВНИК БАРЛІ
+TID_BARLEY_RED_WIZARD_SKIN_SHOP,ЧЕРВОНИЙ ЧАРІВНИК\nБАРЛІ
+TID_SANDY_SLEEPY_SKIN,СОННИЙ СЕНДІ
+TID_SANDY_SLEEPY_SKIN_SHOP,СОННИЙ\nСЕНДІ
+TID_BOSS_RACE_2,Операція «Бос»
+TID_BOSS_RACE_3,Закляті друзі
+TID_BOSS_RACE_4,Набираючи оберти
+TID_BOSS_RACE_5,Тренувальний монтаж
+TID_BOSS_RACE_6,Шалений лабіринт
+TID_BOSS_RACE_7,У глухому куті
+TID_SHOP_SKIN_NEW_RELEASE,НОВИНКА!
+TID_SEASON_END_OFFER,АКЦІЯ ДО КІНЦЯ СЕЗОНУ
+TID_IAP_OCTOBER_OFFER,ЖОВТНЕВА АКЦІЯ
+TID_IAP_MONDAY_OFFER,СКРАСИТИ ПОНЕДІЛОК
+TID_IAP_VERY_SPECIAL_OFFER,ДУЖЕ ОСОБЛИВА АКЦІЯ
+TID_IAP_IKE_ROYALE,ІКЕ ROYALE
+TID_IAP_COIN_SHOWER,ЛАВИНА МОНЕТ
+TID_MUMMY,ЕМЗ
+TID_ADDITIONAL_GEM_TOOLTIP_FOR_JAPAN,\n\nКуплені кристали: <PAID>\nБезкоштовні кристали: <FREE>\nУсього: <TOTAL>
+TID_RANK,Місце: <val> із 10
+TID_SOLO_BOUNTY_NO_RANK,Перемагай бійців й отримуй зірки!
+TID_BOSS_RACE_NO_RANK,Завдай шкоди босу!
+TID_MUMMY_SHORT_DESC,ВОЇН
+TID_MUMMY_DESC,"Емз атакує, розбризкуючи лак для волосся, хмари якого завдають шкоди з плином часу. Її Супер сповільнює ворогів."
+TID_MUMMY_WEAPON,Спрей
+TID_MUMMY_WEAPON_DESC,"Емз заливає все навколо лаком для волосся! Він такий їдкий, що може розплавити обличчя."
+TID_MUMMY_ULTI,Пекуча харизма
+TID_MUMMY_ULTI_DESC,"Емз оточує себе отруйною хмарою, яка сповільнює ворогів і завдає їм шкоди."
+TID_STAT_MUMMY,Емз
+TID_SPEC_ABI_TICK_DMG_GROW,Погана карма
+TID_SPEC_ABI_TICK_DMG_GROW_DESC,"Шкода, зазнана ворогами в хмарах отруйного лаку Емз, зростає на <c00cc00><VALUE1> %</c> з кожним ударом."
+TID_SPEC_ABI_HEAL_SUPER_DMG,Хайп
+TID_SPEC_ABI_HEAL_SUPER_DMG_DESC,Емз відновлює <c00cc00><VALUE1></c> очок здоров'я за секунду за кожного ворожого бійця в зоні дії її Супера.
+TID_FRIEND_ADD_YOUR_ID,Твій ID: <ID>
+TID_FRIEND_ADD_BUTTON,ДОДАТИ\nДРУГА
+TID_FRIEND_ADD_BUTTON_SHORT,ДОДАТИ
+TID_FRIEND_ADD_DEFAULT_TEXT,Введи ID гравця
+TID_FRIEND_ADD_CODE_SENT,Пропозиція відправлена
+TID_FRIEND_ADD_CODE_INVALID,Недійсний ID гравця!
+TID_IAP_CYBER_WEEK_19_1,АКЦІЯ КІБЕРТИЖНЯ
+TID_IAP_CYBER_WEEK_19_2,АКЦІЯ КІБЕРТИЖНЯ
+TID_IAP_CYBER_WEEK_19_3,АКЦІЯ КІБЕРТИЖНЯ
+TID_IAP_GSTAR2019_FINALS,НАБІР СВІТОВОГО ФІНАЛУ
+TID_IAP_BRAWLOWEEN_19_1,ХЕЛЛОВІН!
+TID_IAP_BRAWLOWEEN_19_2,ЦУКЕРКИ... АБО МОНЕТИ?
+TID_IAP_BRAWLOWEEN_19_3,УСІ СКІНИ!
+TID_IAP_ARABIC_19_1,ГРАЙ АРАБСЬКОЮ
+TID_IAP_ARABIC_19_2,ГРАЙ АРАБСЬКОЮ
+TID_EVENT_MODIFIER_8,БОС ІЗ ЛАЗЕРАМИ
+TID_EVENT_MODIFIER_DESC_8,Бос стріляє лазерними променями.
+TID_EVENT_MODIFIER_9,БОС ІЗ ЛАНЦЮГОВОЮ БЛИСКАВКОЮ
+TID_EVENT_MODIFIER_DESC_9,Бос стріляє ланцюговими блискавками.
+TID_EVENT_MODIFIER_10,БОС ІЗ РАКЕТАМИ
+TID_EVENT_MODIFIER_DESC_10,Бос стріляє ракетами.
+TID_STAT_DAMAGE_PER_HALF_SECOND,"Пошкодження за 0,5 секунд"
+TID_FRIENDS_PAGE_BUTTON_INVITE,ЗАПРОСИТИ
+TID_TEAM_ROOM_CODE,КОД КОМАНДИ:\n<NUM>
+TID_TEAM_ROOM_CODE_SHORT,КОМАНДА:\n<NUM>
+TID_FRIENDS_PAGE_SOCIAL_NETWORKS,СОЦІАЛЬНІ МЕРЕЖІ
+TID_CLAN_TAB_MEMBERS,Учасники: <NUM> із <TOTAL>
+TID_CLAN_TAB_CHAT,Чат
+TID_SHELLY_WITCH_SKIN,ВІДЬМА ШЕЛЛІ
+TID_SHELLY_WITCH_SKIN_SHOP,ВІДЬМА\nШЕЛЛІ
+TID_LEON_WEREWOLF_SKIN,ПЕРЕВЕРТЕНЬ ЛЕОН
+TID_LEON_WEREWOLF_SKIN_SHOP,ПЕРЕВЕРТЕНЬ\nЛЕОН
+TID_PIPER_CALAVERA_SKIN,КАЛАВЕРА ПАЙПЕР
+TID_PIPER_CALAVERA_SKIN_SHOP,КАЛАВЕРА\nПАЙПЕР
+TID_FRANK_DJ_SKIN,ДІДЖЕЙ ФРЕНК
+TID_FRANK_DJ_SKIN_SHOP,ДІДЖЕЙ\nФРЕНК
+TID_JESSIE_DARK_KNIGHT_SKIN,ТЕМНИЙ ЛИЦАР ДЖЕССІ
+TID_JESSIE_DARK_KNIGHT_SKIN_SHOP,ТЕМНИЙ ЛИЦАР\nДЖЕССІ
+TID_SKIN_FEATURE_MODEL,— особливу модель бійця.
+TID_SKIN_FEATURE_PET_MODEL,— особливу модель компаньйона.
+TID_SKIN_FEATURE_TURRET_MODEL,— особливу модель турелі.
+TID_SKIN_FEATURE_VFX,— особливі ефекти.
+TID_SKIN_FEATURE_ANIM,— особливу анімацію.
+TID_SKIN_FEATURE_SFX,— особливий звуковий супровід.
+TID_SKIN_FEATURE_TEXTURE,— особливий матеріал.
+TID_SKIN_FEATURE_COLOR,— особливі кольори.
+TID_HERO_BUNDLE_MUMMY,Саркофаг Емз
+TID_HINT_44,У СИЛОВІЙ ГОНЦІ підбір супротивників ґрунтується на твоїй поточній кількості очок у сезоні СИЛОВОЇ ГОНКИ.
+TID_OPTIONAL_OR,АБО
+TID_LONESTAR_01,Загублене джерело
+TID_LONESTAR_02,На березі
+TID_LONESTAR_03,Загроза безпеки
+TID_LONESTAR_04,Крадена слава
+TID_LONESTAR_05,Цвітна капуста
+TID_LONESTAR_06,На краю загибелі
+TID_LONESTAR_07,Вальс поодинці
+TID_LONESTAR_08,Перехрестя
+TID_BOSS_RACE_8,Пік нафти
+TID_BOSS_RACE_9,Спритний хід
+TID_BOSS_RACE_10,Металобрухт
+TID_BOSS_RACE_11,Фанкі-панк
+TID_BOSS_RACE_12,Бойова позиція
+TID_BOSS_RACE_13,Крокодилячий провулок
+TID_BOSS_RACE_14,Жорстка штучка
+TID_CONTACT_US_WELCOME_TEXT,Ласкаво просимо в автоматизовану службу підтримки Supercell!
+TID_TEAM_CHAT_POPUP_INVITE,ЗАПРОСИТИ
+TID_IAPS_NOT_READY,Акції ще не завантажилися. Спробуй зайти пізніше.
+TID_IAP_NOT_FOUND,Товар не знайдений.
+TID_TEAM_LOG_TAB,ДАНІ КОМАНДИ
+TID_TEAM_LOG_TITLE,ДАНІ КОМАНДИ
+TID_LEON_SALLY_SKIN,ЛЕОН SALLY
+TID_LEON_SALLY_SKIN_SHOP,ЛЕОН\nSALLY
+TID_CARL_LEONARD_SKIN,КАРЛ LEONARD
+TID_CARL_LEONARD_SKIN_SHOP,КАРЛ\nLEONARD
+TID_EL_PRIMO_BROWN_SKIN,ЕЛЬ BROWN
+TID_EL_PRIMO_BROWN_SKIN_SHOP,ЕЛЬ BROWN
+TID_PLAYER_CTX_SEND_FRIEND_REQUEST,ЗАПРОПОНУВАТИ ДРУЖИТИ
+TID_PLAYER_CTX_PROFILE,ПРОФІЛЬ
+TID_PLAYER_CTX_KICK,ВИГНАТИ
+TID_EMOJIS_TITLE,ЕМОДЗІ
+TID_SHOP_OFFER_TITLE_NEW_BRAWLER,НОВИЙ БОЄЦЬ
+TID_SHOP_OFFER_TITLE_NEW_SKIN,НОВИЙ СКІН
+TID_SHOP_OFFER_TITLE_BRAWLIDAYS_GIFT,ПОДАРУНОК ДО СВЯТА
+TID_LONESTAR_09,Чотири містечка
+TID_EXTRA_COPYRIGHT,\nАвторські права на BROWN & FRIENDS належать LINE.\n
+TID_ESTIMATED_MAINENANCE_TIME,Залишилося приблизно <TIME>
+TID_REGION_CUSTOM1,
+TID_REGION_CUSTOM2,
+TID_REGION_CUSTOM3,
+TID_REGION_CUSTOM4,
+TID_REGION_CUSTOM5,
+TID_IAP_XMAS_19_0,ТА САМА ПОРА
+TID_IAP_XMAS_19_1,ЗІ СВЯТАМИ!
+TID_IAP_XMAS_19_2,ЗІ СВЯТАМИ!
+TID_IAP_XMAS_19_3,ЗІ СВЯТАМИ!
+TID_IAP_XMAS_19_4,ЗІ СВЯТАМИ!
+TID_IAP_COINPACK_11_19,ДЗВІНКІ МОНЕТИ
+TID_IAP_NEWYEAR_20,З НОВИМ РОКОМ!
+TID_SKIN_INFO_CAMPAIGN_4_NOT_AVAILABLE,Скін BROWN & FRIENDS
+TID_HOME_PAGE_PENDING_DONATION,ВАЖЛИВЕ\nПОВІДОМЛЕННЯ
+TID_SETTINGS_BLOCK_FRIEND_REQUESTS,БЛОКУВАТИ ПРОПОЗИЦІЇ ДРУЖИТИ
+TID_BUTTON_NAVI_FRIENDS,ДРУЗІ
+TID_BUTTON_NAVI_CLAN,КЛУБ
+TID_BUTTON_NAVI_CHAT,ЧАТ
+TID_BRAWL_PASS_BUTTON,BRAWL PASS
+TID_BRAWL_PASS_BUY,АКТИВУВАТИ
+TID_BRAWL_PASS_PREMIUM,BRAWL PASS
+TID_BRAWL_PASS_FREE,Безкоштовно
+TID_BRAWL_PASS_SEASON_0,БАЗАР ТАРИ
+TID_BRAWL_PASS_POPUP_INFO,2-Й СЕЗОН
+TID_PURCHASE_BRAWL_PASS_TITLE,КУПИТИ BRAWL PASS 
+TID_PURCHASE_BRAWL_PASS_TITLE_PLAIN,BRAWL PASS
+TID_PURCHASE_BRAWL_PASS_INFO_PLAIN,Розблокуй нагороди Brawl Pass і додаткові квести 
+TID_PURCHASE_BRAWL_PASS_TITLE_BUNDLE,НАБОР BRAWL PASS
+TID_PURCHASE_BRAWL_PASS_INFO_BUNDLE,BRAWL PASS + РІВНІ ПРОХОДЖЕННЯ(10)
+TID_BRAWL_PASS_PURCHASE_OR,АБО
+TID_BRAWL_PASS_INFO_TITLE_0,ПІДПИСУЮЧИСЬ НА ЦЮ ПІДПИСКУ ВИ:
+TID_BRAWL_PASS_INFO_TEXT_0,"ПОГОДЖУЄТЕСЬ З ТИМ ЩО ВОНА ЗЛІТАЄ ЧЕРЕЗ <c2>1</c> МІСЯЦЬ.
+
+НАША КОМАНДА БЕРЕ НА СЕБЕ МОЖЛИВІСТЬ ЗАБРАТИ У ВАС ЦЮ ПІДПИСКУ
+
+ПІДПИСКА НЕ СКАСОВУЄТЬСЯ
+
+ПІСЛЯ ЇЇ ЗАКІНЧЕННЯ ЇЇ ПОТРІБНО АКТИВУВАТИ ЗНОВУ.
+
+Купити Кристали: @Nex_Brawlbot
+"
+TID_BRAWL_PASS_TAB_REWARDS,НАГОРОДИ
+TID_BRAWL_PASS_QUESTS_LABEL,КВЕСТИ
+TID_BRAWL_PASS_QUESTS_INFO_LOCKED,ЗБЕРИ 300 ТРОФЕЇВ ЩОБ РОЗБЛОКУВАТИ КВЕСТИ
+TID_BRAWL_PASS_TIER_INFO,Заробляй жетони щоб відкрити цей рівень. Жетони можна отримати в боях і за проходження квестів!
+TID_BRAWL_PASS_UNLOCK_PASS,Щоб розблокувати преміум нагороди потрібен BRAWL PASS!
+TID_BRAWL_PASS_GET_MORE_POINTS,Щоб відкрити цей рівень потрібно більше жетонів!
+TID_BRAWL_PASS_TAIL_TITLE,Бонусний Великий Ящик!
+TID_BRAWL_PASS_TAIL_INFO,Як тільки-но ти пройдеш Brawl Pass до кінця ти будеш отримувати по Великому Ящику за кожні 500 жетонів!
+TID_BRAWL_PASS_GET_MORE_POINTS_TAIL,"Щоб отримати БОНУСНІ нагороди, потрібно більше жетонів!"
+TID_BLOWER,ГЕЙЛ
+TID_SHOP_OFFER_TITLE_19,Емоція
+TID_MERCHANT_GALE_SKIN,ТОРГОВЕЦЬ ГЕЙЛ
+TID_SPEEDY,МАКС
+TID_SPAWNER_DUDE,МІСТЕР П.
+TID_BEE_SNIPER,БЕА
+TID_WALLY,СПРАУТ
+TID_DRILLER,ДЖЕКІ
+TID_HERO_INFO_LEVEL_LONG,РІВЕНЬ СИЛИ
+TID_HERO_SCREEN_ITEM,Гаджет
+TID_HERO_SCREEN_STAR_POWER,Пасивка
+TID_HERO_INFO_OFFENSE_LABEL,Атака
+TID_HERO_INFO_DEFENSE_LABEL,Здоров'я
+TID_HERO_INFO_UTILITY_LABEL,Практичність
+TID_HERO_INFO_ULTI_LABEL,Супер
+TID_HERO_INFO_TITLE,СТАТИСТИКА БІЙЦЯ
+TID_HERO_INFO_HEALTH,Очки Здоров'я
+TID_HERO_INFO_ABILITY_LABEL,Атака
+TID_HERO_INFO_ULTI_LABEL,Супер
+TID_HERO_INFO_ATTACK_DAMAGE,Урон
+TID_HERO_INFO_RANGE_0,Маленька
+TID_HERO_INFO_SPEED_4,Дуже Висока
+TID_HERO_INFI_REDUCTION,Зниження Урону
+TID_HERO_INFO_DURATION,Тривалість
+TID_MUTE_FREE_TEXT_CHAT,Заблокувати Чат
+TID_TEAM_CHAT_NOT_AVAILABLE_NO_TEAM,Створіть команду щоб могти користуватись ЧАТОМ!
+TID_CLAN_POPUP_TITLE,КЛУБ
+TID_FAMILY_FRIENDLY,СІМЕЙНИЙ
+TID_TEAM_SETTING_ACCESSORIES,Гаджети
+TID_EDIT_CONTROLS,Редагувати Керування
+TID_BUTTON_SCID,SCID
+TID_QUEST_DESC_1,ВИГРАЙ БІЙ <AMOUNT> Р.
+TID_QUEST_DESC_2,ПЕРЕМОЖИ ВОРОГА <AMOUNT> Р.
+TID_QUEST_DESC_3,НАНЕСИ <AMOUNT> ОЧ. УРОНУ
+TID_QUEST_DESC_4,ЗЦІЛИ <AMOUNT> ОЧ. ЗДОРОВ'Я
+TID_QUICK_MESSAGE_WELL_PLAYED,ЧУДОВА ГРА!
+TID_QUICK_MESSAGE_WOW,ОГО!
+TID_QUICK_MESSAGE_HI,ПРИВІТ!
+TID_QUICK_MESSAGE_THANKS,ДЯКУЮ!
+TID_QUICK_MESSAGE_OOPS,УПС...
+TID_QUICK_MESSAGE_ASK_MODE,ЯКИЙ РЕЖИМ БУДЕМО ГРАТИ?
+TID_QUICK_MESSAGE_ASK_BRAWLER,ЯКОГО БІЙЦЯ МЕНІ ВЗЯТИ?
+TID_QUICK_MESSAGE_ONE_MOMENT,СЕКУНДУ...
+TID_SUGGEST_BRAWLER_TITLE_SHORT,Запропонувати Бійця
+TID_QUICK_MESSAGE_CLOSE_MATCH,ВИЙШЛО!
+TID_QUICK_MESSAGE_GOTTA_GO,МЕНІ ПОРА. УДАЧІ!
+TID_CLAN_TAB_CHAT,ЧАТ
+TID_TEAM_CHAT_TAB_MESSAGE,ЧАТ
+TID_TEAM_CHAT_TAB_CHAT,ЧАТ
+TID_CLAN_POPUP_TAB_CHAT,ЧАТ
+TID_BUTTON_NAVI_CHAT,ЧАТ
+TID_TEAM_CHAT_TAB_SAY,СКАЗАТИ...
+TID_BRAWL_PASS_OLD_BOXES_TITLE,ЯЩИКИ
+TID_RARITY_NAME_6_UPPER,ХРОМАТИЧНИЙ
+TID_QUICK_MESSAGE_ASK_BRAWLER_SPLIT,ЯКОГО БІЙЦЯ МЕНІ ВЗЯТИ?
+TID_QUICK_MESSAGE_ASK_MODE_SPLIT,ЯКИЙ РЕЖИМ БУДЕМО ГРАТИ?
+TID_QUEST_HERO_CONDITION,\nЗ БІЙЦЕМ <HERO>
+TID_QUEST_MODE_CONDITION,\nУ РЕЖИМІ «<MODE>»
+TID_CONTEXT_MENU_PROFILE,ПРОФІЛЬ
+TID_CONTEXT_MENU_SUGGEST_BRAWLER,ЗАПРОПОНУВАТИ БІЙЦЯ
+TID_CONTEXT_MENU_KICK,КІКНУТИ
+TID_PLAYER_INFO_TAB_1,ПРОФІЛЬ
+TID_PLAYER_INFO_TAB_2,БІЙЦІ
+TID_CONTEXT_MENU_REMOVE,ВИДАЛИТИ
+TID_CONTEXT_MENU_SPECTATE,СПОСТЕРІГАТИ
+TID_CONTEXT_MENU_SPECATE,СПОСТЕРІГАТИ
+TID_BRAWL_PASS_SEASON_2,ПАРК СТАРР
+TID_POCO_STARR_SKIN,ПОКО СТАРР
+TID_BRAWL_PASS_SEASON_END_TITLE,ДО КІНЦЯ СЕЗОНУ: 
+TID_BRAWL_PASS_SEASON_INFO_TEXT_2,1. ВИ ПОГОДЖУЄТЕСЬ ЩО ВОНА ЗЛІТАЄ ЧЕРЕЗ МІСЯЦЬ
+TID_EMOTES_POPUP_TITLE,ЕМОЦІЇ
+TID_EMOTES_POPUP_TEXT,ВАШІ ЕМОЦІЇ:
+TID_EMOTE_CATEGORY_1,ВЕСЕЛИЙ
+TID_EMOTE_CATEGORY_2,СУМНИЙ
+TID_EMOTE_CATEGORY_3,ЗЛИЙ
+TID_EMOTE_CATEGORY_4,ОСОБЛИВИЙ
+TID_POWER_LEVELER,ВОЛЬТ
+TID_POWER_LEVELER_SHORT_DESC,БОЙОВИЙ
+TID_POWER_LEVELER_DESC,"ВОЛЬТ - ЦЕ ТОРГОВИЙ АВТОМАТ З НЕСКІНЧЕННИМ ЗАПАСОМ ЕНЕРГЕТИЧНИХ НАПОЇВ, ТОМУ ВІН ЗАВЖДИ ГОТОВИЙ ЗАПАЛЮВАТИ, ІСКРИТИ І ПОПІЛУВАТИ НА ТАНЦПОЛІ"
+TID_POWER_LEVELER_WEAPON,ЕНЕРГЕТИК
+TID_POWER_LEVELER_ULTI,СУПЕР-ЗАРЯД
+TID_PERCENTER,КОЛЛЕТ
+TID_PERCENTER_SHORT_DESC,ДОПОМІЖНИЙ
+TID_PERCENTER_DESC,КОЛЕТТ — ГОЛОВНА В ПАРКУ СТАРР
+TID_PERCENTER_ULTI,СОПЛІ
+TID_TRUE_SILVER_SHELLY_SKIN,СРІБНА ШЕЛЛІ
+TID_TRUE_GOLD_SHELLY_SKIN,ЗОЛОТА ШЕЛЛІ
+TID_TRUE_SILVER_PIPER_SKIN,СРІБНА ПАЙПЕР
+TID_TRUE_GOLD_PIPER_SKIN,ЗОЛОТА ПАЙПЕР
+TID_PSG_SHELLY_SKIN,ШЕЛЛІ PSG
+TID_SHOP_OFFER_TITLE_21,НАБІР ЕМОДЗІ
+TID_TRIXIE_COLETTE_SKIN,КОЛЛЕТ ТРІКСІ
+TID_PURCHASE_BRAWL_PASS_PROGRESS_TITLE,ТИ ДІЙСНО ХОЧЕШ ПРОПУСТИТИ ЦЕЙ ЕТАП?
+TID_PURCHASE_BRAWL_PASS_PROGRESS_INFO,НАТИСНУВШИ КНОПКУ БУДУТЬ ЗАКУПЛЕНІ НЕДОСТАЮЧІ ТОКЕНИ І ЕТАП БУДЕ ПРОПУЩЕНО. СПРАВДІ ПРОДОВЖИТИ?
+TID_CONTROLLER,НАНІ
+TID_BUTTON_NAME_COLOR,ЗМІНИТИ КОЛІР
+TID_EMOTE_EQUIP_NOT_OWNED,ЕМОДЗІ НЕДОСТУПНО! ЗНАЙДИ ЙОГО В НАБОРІ ЕМОДЗІ
+TID_PLAYER_STAT_15,Чемпіонатів пройдено:
+TID_PLAYER_STAT_16,Розгромив:
+TID_BRAWLPASS_POPUP_UNLOCKED,БРАВЛ ПАСС РОЗБЛОКОВАНО!
+TID_TRUE_SILVER_SHELLY_SKIN_SHOP,СРІБНА ШЕЛЛІ
+TID_TRUE_GOLD_SHELLY_SKIN_SHOP,ЗОЛОТА ШЕЛЛІ
+TID_PSG_SHELLY_SKIN_SHOP,PSG ШЕЛЛІ
+TID_TRUE_SILVER_PIPER_SKIN_SHOP,СРІБНА ПАЙПЕР
+TID_TRUE_GOLD_PIPER_SKIN_SHOP,ЗОЛОТА ПАЙПЕР
+TID_LOGIN_WITH_FACEBOOK,УВІЙТИ З ФЕЙСБУК
+TID_SETTINGS_FIND_FRIENDS,ЗНАЙДИ ДРУЗІВ!
+TID_BRAWL_PASS_SEASON_1,ЛІТО МОНСТРІВ
+TID_MECHA_PALADIN_SURGE_SKIN,ВОЛЬТ МЕХА
+TID_MECHA_PALADIN_SURGE_SKIN_SHOP,ВОЛЬТ МЕХА
+TID_SUPER_RANGER_BROCK_SKIN,РЕНДЖЕР БРОК
+TID_SUPER_RANGER_BROCK_SKIN_SHOP,РЕНДЖЕР БРОК
+TID_ONLINE_FRIENDS_POPUP_CODE_TITLE,ГРАЙ З ДРУЗЯМИ В GALE BRAWL!
+TID_EDIT_REVERT,СКИНУТИ
+TID_EDIT_SAVE,ЗБЕРЕГТИ
+TID_EDIT_FIXED_JOYSTICK,ЗАФІКСУВАТИ ДЖОЙТИК
+TID_EDIT_HINT_DRAG,"РЕЖИМ РЕДАГУВАННЯ УПРАВЛІННЯ АКТИВОВАНО!
+
+t.me/galebrawll"
+TID_EDIT_MOVEMENT,ХОДЬБА
+TID_EDIT_ATTACK,АТАКА
